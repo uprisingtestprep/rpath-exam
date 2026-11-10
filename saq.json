@@ -1,0 +1,2444 @@
+[
+ {
+  "sitting": 1,
+  "marks": 6,
+  "domain": "obstetric_gynaecological_and_breast",
+  "topic": "High-grade serous carcinoma of the ovary",
+  "question": "A 64-year-old woman has a pelvic mass, ascites and a raised CA-125. Biopsy shows high-grade serous carcinoma. Outline the pathogenesis and describe the macroscopic and microscopic pathology of this tumour. (6 marks)",
+  "model_answer": "Pathogenesis\n1. Most arise from the fallopian tube fimbria: serous tubal intraepithelial carcinoma (STIC) seeds the ovary and peritoneum.\n2. TP53 mutation is near universal and occurs early.\n3. Defective homologous recombination: germline BRCA1 or BRCA2 mutation in a substantial minority, with further sporadic homologous recombination deficiency.\n4. Marked chromosomal instability with widespread copy number change; RB1 and NF1 pathway alterations are common.\n\nMacroscopic\n- Often bilateral, solid and cystic masses with papillary excrescences, necrosis and haemorrhage.\n- Capsule may be breached; peritoneal and omental deposits (omental caking) are usual at presentation.\n\nMicroscopic\n- Papillary, glandular and solid slit-like architecture with complex branching.\n- Marked nuclear atypia, high nuclear to cytoplasmic ratio, prominent nucleoli, brisk mitoses (often atypical).\n- Psammoma bodies may be present.\n- Strong diffuse nuclear p53 staining (or complete absence, the null pattern) and WT1 positivity.",
+  "mark_scheme": [
+   {
+    "item": "Tubal origin via STIC (fimbrial precursor)",
+    "marks": 1
+   },
+   {
+    "item": "TP53 mutation as an early, near universal event",
+    "marks": 1
+   },
+   {
+    "item": "BRCA1/BRCA2 or homologous recombination deficiency, chromosomal instability",
+    "marks": 1
+   },
+   {
+    "item": "Macroscopic: bilateral solid and cystic papillary mass with necrosis or haemorrhage",
+    "marks": 1
+   },
+   {
+    "item": "Macroscopic: peritoneal or omental spread at presentation",
+    "marks": 0.5
+   },
+   {
+    "item": "Microscopic: papillary/glandular/solid architecture with marked pleomorphism and high mitotic activity",
+    "marks": 1
+   },
+   {
+    "item": "Psammoma bodies and/or p53 abnormal and WT1 positive immunohistochemistry",
+    "marks": 0.5
+   }
+  ],
+  "common_errors": [
+   "Stating that serous carcinoma arises from ovarian surface inclusion cysts only, ignoring the tubal origin",
+   "Confusing high-grade with low-grade serous carcinoma, which has KRAS or BRAF mutations and wild-type TP53",
+   "Describing imaging features such as ascites or omental caking on CT instead of pathology"
+  ],
+  "id": 1
+ },
+ {
+  "sitting": 1,
+  "marks": 6,
+  "domain": "obstetric_gynaecological_and_breast",
+  "topic": "Complete and partial hydatidiform mole",
+  "question": "Compare the pathology of complete and partial hydatidiform moles, including genetic origin, presence of fetal tissue, villous and trophoblastic changes, p57 staining and risk of choriocarcinoma. (6 marks)",
+  "model_answer": "Complete mole\n- Genetics: diploid, usually 46,XX, all chromosomes paternal. An empty ovum is fertilised by one sperm that duplicates (or less often two sperm).\n- No embryonic or fetal tissue.\n- Villi: diffuse hydropic swelling with cisterns, avascular.\n- Trophoblast: diffuse, often marked circumferential hyperplasia and atypia.\n- p57 (maternally expressed gene) is negative in villous stromal cells and cytotrophoblast.\n- Highest serum beta-hCG; uterus often large for dates.\n- Risk of persistent trophoblastic disease about 15 to 20 per cent, with choriocarcinoma in a small percentage (about 2 per cent).\n\nPartial mole\n- Genetics: triploid, usually 69,XXY or 69,XXX: one haploid maternal set and two paternal sets (dispermy).\n- Fetal tissue or fetal red cells often present, usually non-viable.\n- Villi: two populations, some enlarged and hydropic with scalloped outlines and trophoblastic inclusions, others normal-sized.\n- Trophoblast: focal, mild hyperplasia.\n- p57 is positive.\n- hCG lower; uterus often small for dates.\n- Persistent disease uncommon and choriocarcinoma very rare.",
+  "mark_scheme": [
+   {
+    "item": "Complete: diploid paternal (46,XX) origin from an empty ovum",
+    "marks": 1
+   },
+   {
+    "item": "Partial: triploid (69,XXY or XXX) with two paternal sets and one maternal",
+    "marks": 1
+   },
+   {
+    "item": "Fetal tissue absent in complete, may be present in partial",
+    "marks": 1
+   },
+   {
+    "item": "Villous swelling diffuse in complete versus focal with two populations in partial",
+    "marks": 1
+   },
+   {
+    "item": "Trophoblastic hyperplasia diffuse and atypical in complete versus focal and mild in partial",
+    "marks": 1
+   },
+   {
+    "item": "p57 negative in complete, positive in partial; choriocarcinoma risk higher in complete and very rare in partial",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Reversing p57 staining, which is lost in complete moles because the complete mole lacks a maternal genome",
+   "Stating that partial moles are diploid",
+   "Claiming that choriocarcinoma never arises from a complete mole"
+  ],
+  "id": 2
+ },
+ {
+  "sitting": 1,
+  "marks": 6,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "topic": "Conventional osteosarcoma",
+  "question": "A 16-year-old has a painful swelling around the knee. Biopsy confirms conventional osteosarcoma. Describe its typical location, macroscopic and microscopic pathology, and name three conditions that predispose to osteosarcoma. (6 marks)",
+  "model_answer": "Location\n- Metaphysis of long bones, most often distal femur and proximal tibia; peak in adolescence.\n\nMacroscopic\n- Large, gritty, tan-white, haemorrhagic and necrotic mass arising in the metaphysis.\n- Destroys cortex, lifts the periosteum and extends into the soft tissue; may spread within the medullary cavity.\n- Usually spares the epiphyseal plate until late, but may extend into the epiphysis.\n\nMicroscopic\n- Malignant pleomorphic spindle or epithelioid cells with mitoses, including atypical forms.\n- Defining feature: direct production of osteoid (and woven bone) by the malignant cells, in lace-like or sheet-like pattern. Cartilage and fibroblastic areas may coexist.\n\nPredisposing conditions (any three)\n- Hereditary retinoblastoma (germline RB1 mutation).\n- Li-Fraumeni syndrome (germline TP53).\n- Paget disease of bone in older adults.\n- Prior ionising radiation.\n- Bone infarct or other chronic bone lesions (also Rothmund-Thomson syndrome).\n\nHaematogenous metastasis, mainly to lung.",
+  "mark_scheme": [
+   {
+    "item": "Location: metaphysis of distal femur or proximal tibia in adolescents",
+    "marks": 1
+   },
+   {
+    "item": "Macroscopic: bulky gritty haemorrhagic necrotic tumour breaching cortex with soft tissue extension",
+    "marks": 1.5
+   },
+   {
+    "item": "Microscopic: pleomorphic malignant cells with mitoses",
+    "marks": 1
+   },
+   {
+    "item": "Production of osteoid by tumour cells as the defining feature",
+    "marks": 1
+   },
+   {
+    "item": "Three valid predisposing conditions (0.5 each)",
+    "marks": 1.5
+   }
+  ],
+  "common_errors": [
+   "Naming bone production by benign osteoblasts rather than malignant cells as the diagnostic feature",
+   "Placing the tumour in the diaphysis, which is typical for Ewing sarcoma",
+   "Describing periosteal reaction on radiographs rather than pathology"
+  ],
+  "id": 3
+ },
+ {
+  "sitting": 1,
+  "marks": 6,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "topic": "Osteoarthritis versus rheumatoid arthritis",
+  "question": "Compare the pathogenesis and the joint pathology of osteoarthritis and rheumatoid arthritis. Include the principal joint tissues affected and the characteristic structural changes in each. (6 marks)",
+  "model_answer": "Osteoarthritis (degenerative)\n- Pathogenesis: mechanical stress and ageing cause chondrocyte injury; proteases (MMPs, aggrecanases) driven by IL-1 and TNF degrade cartilage matrix faster than it is repaired. Primary (idiopathic) or secondary to prior injury or deformity.\n- Tissue affected: articular cartilage first; bone responds secondarily. Synovitis is mild and secondary.\n- Changes: surface fibrillation and loss of cartilage, eburnation of exposed subchondral bone, osteophytes at the margins, subchondral cysts and sclerosis, loose bodies.\n- Distribution: weight-bearing joints, DIP and PIP joints of the hand, first carpometacarpal joint.\n\nRheumatoid arthritis (autoimmune)\n- Pathogenesis: genetic susceptibility (HLA-DRB1 shared epitope) and environment (smoking, citrullination of proteins) lead to anti-CCP antibodies and rheumatoid factor, CD4 T helper (Th1, Th17) responses, and TNF, IL-1 and IL-6 production.\n- Tissue affected: synovium first, with chronic synovitis.\n- Changes: synovial hyperplasia with lymphoid follicles, pannus formation that erodes cartilage and bone, marginal erosions, then fibrous or bony ankylosis and deformity.\n- Distribution: symmetrical small joints of the hands (MCP, PIP, sparing DIP) and feet, wrists.",
+  "mark_scheme": [
+   {
+    "item": "OA pathogenesis: mechanical wear, chondrocyte injury and protease-mediated cartilage loss",
+    "marks": 1
+   },
+   {
+    "item": "OA changes: fibrillation, eburnation, osteophytes, subchondral cysts",
+    "marks": 1
+   },
+   {
+    "item": "OA distribution (weight-bearing joints, DIP) with cartilage as primary tissue",
+    "marks": 1
+   },
+   {
+    "item": "RA pathogenesis: autoimmune, HLA-DRB1, citrullinated antigens, T cell and TNF-driven",
+    "marks": 1
+   },
+   {
+    "item": "RA changes: synovitis, pannus, erosions, ankylosis",
+    "marks": 1
+   },
+   {
+    "item": "RA distribution (symmetrical small joints, sparing DIP) with synovium as primary tissue",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Describing osteoarthritis as inflammatory in origin",
+   "Listing radiographic signs such as joint space narrowing instead of the underlying pathology",
+   "Stating that rheumatoid arthritis characteristically involves the DIP joints"
+  ],
+  "id": 4
+ },
+ {
+  "sitting": 1,
+  "marks": 6,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "topic": "Pancreatic ductal adenocarcinoma",
+  "question": "Outline the pathogenesis of pancreatic ductal adenocarcinoma, including precursor lesions and the major genetic alterations, and describe its macroscopic and microscopic pathology. (6 marks)",
+  "model_answer": "Precursors\n- Pancreatic intraepithelial neoplasia (PanIN), grades 1 to 3 (low to high grade), the commonest precursor.\n- Intraductal papillary mucinous neoplasm and mucinous cystic neoplasm are other precursors.\n\nGenetics (stepwise accumulation)\n- KRAS activating mutation, present in more than 90 per cent, occurs early.\n- CDKN2A (p16) inactivation.\n- TP53 inactivation.\n- SMAD4 (DPC4) loss, a late event.\n- Germline BRCA2, PALB2, CDKN2A mutations and hereditary pancreatitis (PRSS1) raise risk.\n\nMacroscopic\n- Most (about 60 per cent) occur in the head; firm, poorly defined, white-yellow mass.\n- Head tumours obstruct the common bile duct and pancreatic duct, causing jaundice and upstream duct dilatation; body and tail tumours present late.\n\nMicroscopic\n- Infiltrating, well to poorly formed glands lined by mucin-secreting cuboidal or columnar cells with atypia.\n- Marked desmoplastic stroma.\n- Perineural invasion is very common, with lymphovascular invasion.",
+  "mark_scheme": [
+   {
+    "item": "PanIN (or IPMN/MCN) as precursor lesions",
+    "marks": 1
+   },
+   {
+    "item": "KRAS mutation early and in more than 90 per cent",
+    "marks": 1
+   },
+   {
+    "item": "CDKN2A, TP53 and SMAD4 inactivation as stepwise events",
+    "marks": 1
+   },
+   {
+    "item": "Macroscopic: head predominance, firm pale mass with duct obstruction",
+    "marks": 1
+   },
+   {
+    "item": "Microscopic: infiltrating mucin-producing glands with desmoplastic stroma",
+    "marks": 1
+   },
+   {
+    "item": "Perineural and lymphovascular invasion",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Listing APC or beta-catenin as the key early event, which belongs to colorectal carcinoma",
+   "Stating that most tumours arise in the tail",
+   "Giving only imaging features such as the double duct sign"
+  ],
+  "id": 5
+ },
+ {
+  "sitting": 1,
+  "marks": 6,
+  "domain": "respiratory_and_mediastinum",
+  "topic": "Usual interstitial pneumonia and idiopathic pulmonary fibrosis",
+  "question": "Describe the macroscopic and microscopic pathology of the usual interstitial pneumonia pattern seen in idiopathic pulmonary fibrosis, outline its pathogenesis, and list two complications. (6 marks)",
+  "model_answer": "Macroscopic\n- Lungs are shrunken and firm; fibrosis is worst in the subpleural and basal regions.\n- Cobblestone pleural surface; honeycomb cysts with thick fibrous walls.\n\nMicroscopic\n- Patchy fibrosis with temporal heterogeneity: dense old collagen alongside normal lung and newly formed fibroblastic foci (subepithelial aggregates of proliferating myofibroblasts).\n- Architectural distortion with honeycomb change; minimal inflammation.\n- Smooth muscle hyperplasia is common.\n\nPathogenesis\n- Repeated microinjury to alveolar epithelial cells (type II) with aberrant repair.\n- Release of TGF-beta and other profibrotic mediators drives fibroblast and myofibroblast proliferation and collagen deposition.\n- Risk factors: ageing, smoking, MUC5B promoter variant, telomerase gene mutations (TERT, TERC) causing short telomeres.\n\nComplications (any two)\n- Chronic respiratory failure.\n- Pulmonary hypertension and cor pulmonale.\n- Acute exacerbation.\n- Lung cancer.",
+  "mark_scheme": [
+   {
+    "item": "Macroscopic: subpleural and basal predominant firm shrunken lung with honeycombing",
+    "marks": 1
+   },
+   {
+    "item": "Microscopic: patchy fibrosis with temporal heterogeneity",
+    "marks": 1
+   },
+   {
+    "item": "Fibroblastic foci and architectural distortion with honeycomb change",
+    "marks": 1
+   },
+   {
+    "item": "Pathogenesis: repeated alveolar epithelial injury with abnormal repair and TGF-beta driven fibroblast activation",
+    "marks": 1.5
+   },
+   {
+    "item": "Predisposing factors such as telomerase mutations, MUC5B, smoking, ageing",
+    "marks": 0.5
+   },
+   {
+    "item": "Two valid complications (0.5 each)",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Describing the CT pattern of honeycombing rather than the pathology",
+   "Calling it an inflammatory disease that responds to corticosteroids",
+   "Placing the fibrosis in the upper zones, which suggests sarcoidosis, silicosis or hypersensitivity pneumonitis"
+  ],
+  "id": 6
+ },
+ {
+  "sitting": 1,
+  "marks": 6,
+  "domain": "neuropathology_and_head_and_neck",
+  "topic": "Glioblastoma, IDH-wildtype",
+  "question": "Describe the macroscopic and microscopic pathology of glioblastoma, and state the molecular criteria that define IDH-wildtype glioblastoma, CNS WHO grade 4, in the 2021 WHO classification of central nervous system tumours. (6 marks)",
+  "model_answer": "Macroscopic\n- Poorly demarcated, infiltrative mass, usually in the cerebral hemispheres (frontal and temporal lobes).\n- Variegated: grey-pink viable tumour, yellow necrotic centre and areas of haemorrhage.\n- May cross the corpus callosum to the opposite hemisphere (butterfly pattern) with surrounding oedema and mass effect.\n\nMicroscopic\n- Diffusely infiltrating, pleomorphic astrocytic cells with mitotic activity.\n- Pseudopalisading necrosis: tumour cells lined up around serpiginous necrosis.\n- Microvascular proliferation: glomeruloid, endothelial hyperplastic vessels.\n\nWHO CNS5 2021 definition\n- Diffuse astrocytic tumour, IDH-wildtype (and H3-wildtype).\n- Qualifies as glioblastoma, CNS WHO grade 4, if there is microvascular proliferation or necrosis, or one or more of: TERT promoter mutation, EGFR gene amplification, combined whole chromosome 7 gain and chromosome 10 loss (+7/-10).\n- IDH-mutant astrocytomas are no longer called glioblastoma.",
+  "mark_scheme": [
+   {
+    "item": "Macroscopic: infiltrative variegated mass with necrosis and haemorrhage",
+    "marks": 1
+   },
+   {
+    "item": "Butterfly spread across the corpus callosum with oedema or mass effect",
+    "marks": 0.5
+   },
+   {
+    "item": "Microscopic: pleomorphic astrocytic cells with mitoses",
+    "marks": 0.5
+   },
+   {
+    "item": "Pseudopalisading necrosis",
+    "marks": 1
+   },
+   {
+    "item": "Microvascular proliferation",
+    "marks": 1
+   },
+   {
+    "item": "IDH-wildtype requirement",
+    "marks": 1
+   },
+   {
+    "item": "Molecular criteria: TERT promoter mutation, EGFR amplification, +7/-10 (any two named)",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Describing the ring-enhancing mass on MRI instead of pathology",
+   "Including IDH-mutant tumours as glioblastoma, which is superseded in CNS5",
+   "Omitting that molecular features can establish the diagnosis without necrosis or microvascular proliferation"
+  ],
+  "id": 7
+ },
+ {
+  "sitting": 1,
+  "marks": 6,
+  "domain": "general_pathology",
+  "topic": "Patterns of tissue necrosis",
+  "question": "List six patterns of tissue necrosis. For each, give the typical cause or setting and one tissue or organ in which it characteristically occurs. (6 marks)",
+  "model_answer": "1. Coagulative necrosis: ischaemia (arterial occlusion); solid organs such as kidney, heart, spleen. Architecture is preserved for days.\n2. Liquefactive necrosis: enzymatic digestion of dead tissue, in bacterial or fungal abscesses and in hypoxic injury of the brain (cerebral infarct).\n3. Caseous necrosis: tuberculosis and some fungal infections; granulomas in lung or lymph node, soft, cheesy, amorphous granular debris.\n4. Fat necrosis: enzymatic in acute pancreatitis (lipase releases fatty acids that form calcium soaps), or traumatic in breast and subcutaneous fat.\n5. Fibrinoid necrosis: immune-mediated vasculitis and malignant hypertension; deposits of immune complexes and fibrin in vessel walls (arterioles).\n6. Gangrenous necrosis: ischaemic coagulative necrosis of a limb (dry gangrene) or of bowel; wet gangrene when superimposed bacterial infection adds liquefaction.",
+  "mark_scheme": [
+   {
+    "item": "Six valid patterns named (coagulative, liquefactive, caseous, fat, fibrinoid, gangrenous, or others accepted), 0.5 each",
+    "marks": 3
+   },
+   {
+    "item": "Valid cause or setting for each pattern, 0.25 each",
+    "marks": 1.5
+   },
+   {
+    "item": "Valid characteristic organ or tissue for each pattern, 0.25 each",
+    "marks": 1.5
+   }
+  ],
+  "common_errors": [
+   "Listing apoptosis or pyroptosis, which are not patterns of necrosis",
+   "Placing coagulative necrosis in the brain, where infarction causes liquefactive necrosis",
+   "Giving only a definition of each term without a setting or organ"
+  ],
+  "id": 8
+ },
+ {
+  "sitting": 1,
+  "marks": 6,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "topic": "Renal cell carcinoma subtypes",
+  "question": "Outline the genetic basis and the macroscopic and microscopic features of the three most common subtypes of renal cell carcinoma: clear cell, papillary and chromophobe. (6 marks)",
+  "model_answer": "Clear cell carcinoma (most common)\n- Genetics: loss of VHL on chromosome 3p (sporadic and von Hippel-Lindau syndrome) leading to HIF accumulation.\n- Macro: solitary, golden-yellow mass with haemorrhage, necrosis and cysts; may invade the renal vein.\n- Micro: nests of cells with clear cytoplasm (glycogen and lipid) and a delicate rich capillary network.\n\nPapillary carcinoma\n- Genetics: trisomy 7 and 17, loss of Y in sporadic cases; MET mutation in hereditary type 1; FH in hereditary leiomyomatosis and renal cell cancer (type 2).\n- Macro: often multifocal, bilateral, brown with haemorrhage and cystic change.\n- Micro: papillae with fibrovascular cores containing foamy macrophages, psammoma bodies.\n\nChromophobe carcinoma\n- Genetics: multiple chromosomal losses (monosomies), Birt-Hogg-Dube syndrome in some.\n- Macro: homogeneous tan-brown, well circumscribed mass.\n- Micro: large polygonal cells with prominent cell borders, pale to eosinophilic cytoplasm, perinuclear halos and irregular (raisinoid) nuclei.\n- Better prognosis than clear cell carcinoma.",
+  "mark_scheme": [
+   {
+    "item": "Clear cell: VHL/3p loss",
+    "marks": 0.5
+   },
+   {
+    "item": "Clear cell: golden-yellow haemorrhagic necrotic mass; clear cytoplasm with vascular network",
+    "marks": 1
+   },
+   {
+    "item": "Papillary: trisomy 7/17, MET (type 1) or FH (type 2)",
+    "marks": 1
+   },
+   {
+    "item": "Papillary: papillae with foamy macrophages and psammoma bodies; multifocal",
+    "marks": 1.5
+   },
+   {
+    "item": "Chromophobe: multiple chromosomal losses or Birt-Hogg-Dube",
+    "marks": 1
+   },
+   {
+    "item": "Chromophobe: tan-brown circumscribed mass; plant-cell-like borders with perinuclear halos and raisinoid nuclei",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Attributing VHL loss to papillary carcinoma",
+   "Stating that clear cell carcinoma has a white or tan cut surface, instead of golden-yellow",
+   "Describing CT enhancement patterns instead of gross and microscopic pathology"
+  ],
+  "id": 9
+ },
+ {
+  "sitting": 1,
+  "marks": 6,
+  "domain": "cardiovascular_and_vascular",
+  "topic": "Aortic dissection",
+  "question": "Define aortic dissection and outline its predisposing factors, the Stanford classification, the underlying pathology, and four complications. (6 marks)",
+  "model_answer": "Definition\n- Blood tracks within the aortic media through an intimal tear, creating a false lumen between layers of the wall.\n\nPredisposing factors\n- Hypertension (the commonest, particularly for type B).\n- Medial degeneration with loss of elastic tissue and mucoid material (cystic medial degeneration), in Marfan, Ehlers-Danlos and Loeys-Dietz syndromes, and bicuspid aortic valve.\n- Pregnancy, trauma or iatrogenic injury, cocaine use, giant cell arteritis.\n\nStanford classification\n- Type A: involves the ascending aorta (with or without descending); surgical emergency.\n- Type B: confined to the descending aorta distal to the left subclavian artery; usually managed medically unless complicated.\n\nPathology\n- Intimal tear, usually in the ascending aorta a few centimetres above the aortic valve or just beyond the left subclavian, with intramural haematoma tracking along the media; a distal re-entry tear may form.\n\nComplications (any four)\n- Rupture with haemopericardium and cardiac tamponade.\n- Haemothorax or rupture into mediastinum.\n- Acute aortic regurgitation.\n- Branch vessel occlusion: coronary, carotid, spinal, renal, mesenteric or limb ischaemia.",
+  "mark_scheme": [
+   {
+    "item": "Definition: blood within the media via intimal tear with false lumen",
+    "marks": 1
+   },
+   {
+    "item": "Predisposing factors: hypertension and medial degeneration or connective tissue disorders (two valid)",
+    "marks": 1
+   },
+   {
+    "item": "Stanford type A and type B correctly defined",
+    "marks": 1.5
+   },
+   {
+    "item": "Pathology: intimal tear with intramural tracking of blood, location of tear",
+    "marks": 0.5
+   },
+   {
+    "item": "Four valid complications (0.5 each)",
+    "marks": 2
+   }
+  ],
+  "common_errors": [
+   "Confusing Stanford with DeBakey classification",
+   "Stating that atherosclerosis is the usual cause of the tear rather than medial weakness and haemodynamic stress",
+   "Describing CT findings such as an intimal flap instead of pathological features"
+  ],
+  "id": 10
+ },
+ {
+  "sitting": 2,
+  "marks": 6,
+  "domain": "obstetric_gynaecological_and_breast",
+  "topic": "Endometrial carcinoma type I versus type II",
+  "question": "Endometrial carcinoma is traditionally divided into type I and type II tumours. Compare type I and type II endometrial carcinoma with respect to histology, precursor lesion, risk factors, molecular alterations and behaviour. (6 marks)",
+  "model_answer": "Type I (endometrioid)\n- Histology: endometrioid adenocarcinoma, usually low grade (FIGO grade 1 or 2), glands with back to back architecture.\n- Precursor: atypical hyperplasia / endometrioid intraepithelial neoplasia.\n- Risk factors: unopposed oestrogen (obesity, anovulation, polycystic ovary syndrome, oestrogen-secreting tumours, tamoxifen), diabetes; perimenopausal and early postmenopausal women.\n- Molecular: PTEN loss, PIK3CA, KRAS, CTNNB1 mutations; mismatch repair deficiency / microsatellite instability (MLH1 promoter methylation, Lynch syndrome).\n- Behaviour: myometrial invasion gradual, lymphatic spread, good prognosis.\nType II (non-endometrioid)\n- Histology: serous carcinoma (also clear cell, carcinosarcoma), high grade.\n- Precursor: serous endometrial intraepithelial carcinoma in atrophic endometrium.\n- Risk factors: older age, not oestrogen driven, atrophic background.\n- Molecular: TP53 mutation, p53 abnormal immunostaining, chromosomal instability, often HER2 amplification.\n- Behaviour: early deep invasion and peritoneal and extrauterine spread, poor prognosis.\nMolecular groups (POLE mutated, mismatch repair deficient, p53 abnormal, no specific molecular profile) now refine prognosis.",
+  "mark_scheme": [
+   {
+    "item": "Type I endometrioid histology, usually low grade; type II serous or clear cell, high grade",
+    "marks": 1
+   },
+   {
+    "item": "Precursor lesions: atypical hyperplasia / EIN versus serous endometrial intraepithelial carcinoma",
+    "marks": 1
+   },
+   {
+    "item": "Type I linked to unopposed oestrogen and obesity; type II to older age and atrophic endometrium",
+    "marks": 1
+   },
+   {
+    "item": "Type I molecular alterations (PTEN, PIK3CA, KRAS, CTNNB1, MMR deficiency)",
+    "marks": 1
+   },
+   {
+    "item": "Type II TP53 mutation",
+    "marks": 1
+   },
+   {
+    "item": "Behaviour and prognosis: indolent and favourable versus aggressive with early extrauterine spread",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Stating that type II tumours are oestrogen driven",
+   "Attributing TP53 mutation to endometrioid carcinoma as the typical lesion",
+   "Omitting the precursor lesions",
+   "Giving imaging features instead of pathology"
+  ],
+  "id": 11
+ },
+ {
+  "sitting": 2,
+  "marks": 6,
+  "domain": "obstetric_gynaecological_and_breast",
+  "topic": "Ductal carcinoma in situ and invasive breast carcinoma grading and receptor status",
+  "question": "A core biopsy of a 55 year old woman's breast shows invasive breast carcinoma of no special type with an adjacent component of ductal carcinoma in situ. Describe how each component is graded and the biomarkers assessed on the invasive tumour. (6 marks)",
+  "model_answer": "Invasive carcinoma: Nottingham (modified Scarff-Bloom-Richardson) grade\n- Three components each scored 1 to 3: tubule / gland formation, nuclear pleomorphism, mitotic count (per defined field area).\n- Total score 3 to 5 = grade 1, 6 to 7 = grade 2, 8 to 9 = grade 3.\nDCIS: neoplastic ductal epithelium confined by the basement membrane with a preserved myoepithelial layer.\n- Graded on nuclear grade: low, intermediate or high.\n- Necrosis (comedo type) and architecture (solid, cribriform, papillary, micropapillary) are recorded; high nuclear grade DCIS usually has necrosis and calcification.\nBiomarkers on the invasive tumour\n- Oestrogen receptor and progesterone receptor by immunohistochemistry (nuclear staining, percentage of cells and intensity).\n- HER2: immunohistochemistry 3+ is positive; 2+ is equivocal and needs in situ hybridisation for gene amplification.\n- Ki-67 proliferation index may be reported.\nThese define surrogate subtypes: luminal A and B (ER positive), HER2 enriched, and triple negative (ER, PR and HER2 negative), which guide endocrine, anti-HER2 and chemotherapy decisions.",
+  "mark_scheme": [
+   {
+    "item": "Nottingham grade uses tubule formation, nuclear pleomorphism and mitotic count",
+    "marks": 1
+   },
+   {
+    "item": "Each scored 1 to 3 with total thresholds (3 to 5, 6 to 7, 8 to 9) giving grades 1 to 3",
+    "marks": 1
+   },
+   {
+    "item": "DCIS confined by basement membrane, no stromal invasion",
+    "marks": 1
+   },
+   {
+    "item": "DCIS graded by nuclear grade (low, intermediate, high) with necrosis and architecture noted",
+    "marks": 1
+   },
+   {
+    "item": "ER, PR and HER2 assessed (HER2 by IHC with ISH for equivocal 2+)",
+    "marks": 1
+   },
+   {
+    "item": "Link to molecular surrogate subtypes or therapy (luminal, HER2 enriched, triple negative)",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Using nuclear grade alone for invasive carcinoma",
+   "Stating HER2 2+ is positive without in situ hybridisation",
+   "Grading DCIS with the Nottingham score",
+   "Confusing DCIS with lobular carcinoma in situ"
+  ],
+  "id": 12
+ },
+ {
+  "sitting": 2,
+  "marks": 6,
+  "domain": "neuropathology_and_head_and_neck",
+  "topic": "Pleomorphic adenoma of the salivary gland",
+  "question": "A 45 year old man has a slowly enlarging painless mass in the superficial lobe of the parotid gland, excised and diagnosed as pleomorphic adenoma. Define the tumour and describe its site, pathology, molecular features and behaviour. (6 marks)",
+  "model_answer": "Definition\n- Benign salivary gland neoplasm composed of epithelial and myoepithelial cells in a myxoid, chondromyxoid or hyaline stroma; the most common salivary tumour.\nSite and presentation\n- Most arise in the superficial lobe of the parotid gland (also submandibular gland and minor salivary glands, e.g. palate); slowly enlarging painless mass, most often in adults aged 30 to 60 years, with a female predominance.\nMacroscopic\n- Well circumscribed, lobulated, firm, white to grey cut surface, often glistening myxoid or cartilaginous areas; pseudocapsule is thin and may be incomplete.\nMicroscopic\n- Ducts and sheets of epithelial and myoepithelial cells with a variable mesenchymal-like stroma; squamous metaplasia or calcification can occur.\nMolecular\n- Rearrangements of PLAG1 or HMGA2.\nBehaviour\n- Tumour may extend through the pseudocapsule as satellite nodules, so enucleation causes recurrence; surgery is a superficial parotidectomy with facial nerve preservation.\n- Carcinoma ex pleomorphic adenoma develops in a small proportion, more likely in long standing or recurrent tumours.",
+  "mark_scheme": [
+   {
+    "item": "Definition: benign mixed epithelial and myoepithelial tumour with myxochondroid stroma, most common salivary tumour",
+    "marks": 1
+   },
+   {
+    "item": "Site: parotid superficial lobe most common",
+    "marks": 1
+   },
+   {
+    "item": "Macroscopic: well circumscribed, lobulated, firm with pseudocapsule",
+    "marks": 1
+   },
+   {
+    "item": "Microscopic: epithelial and myoepithelial cells in myxoid or chondroid stroma",
+    "marks": 1
+   },
+   {
+    "item": "Molecular: PLAG1 or HMGA2 rearrangement",
+    "marks": 1
+   },
+   {
+    "item": "Recurrence via capsular penetration and satellite nodules, and risk of carcinoma ex pleomorphic adenoma",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Calling it a mixed tumour of ectodermal and mesodermal origin rather than epithelial and myoepithelial",
+   "Placing most tumours in the deep lobe",
+   "Stating the capsule is complete and recurrence is therefore rare",
+   "Confusing with Warthin tumour"
+  ],
+  "id": 13
+ },
+ {
+  "sitting": 2,
+  "marks": 6,
+  "domain": "neuropathology_and_head_and_neck",
+  "topic": "Meningioma",
+  "question": "A 58 year old woman has a dural based, well circumscribed extra-axial mass excised at craniotomy and diagnosed as meningioma. Describe the cell of origin, genetics, microscopic features and WHO CNS5 grading. (6 marks)",
+  "model_answer": "Origin and risk\n- Arise from arachnoid cap (meningothelial) cells; more common in women; risk factors include prior ionising radiation and neurofibromatosis type 2.\nGenetics\n- NF2 mutation / chromosome 22q loss is the most common alteration; other mutations include TRAF7, KLF4, AKT1 and SMO in NF2-wild-type tumours.\nMacroscopic\n- Dural based, well circumscribed, globular or en plaque.\nMicroscopic\n- Meningothelial whorls, psammoma bodies, intranuclear pseudoinclusions; immunohistochemistry EMA and SSTR2A positive.\nWHO CNS5 grading\n- Grade 1: most subtypes (meningothelial, fibrous, transitional, psammomatous, secretory, others).\n- Grade 2: atypical meningioma (4 to 19 mitoses per 10 high power fields, or brain invasion), also chordoid and clear cell subtypes.\n- Grade 3: anaplastic meningioma (20 or more mitoses per 10 high power fields), or TERT promoter mutation, or homozygous CDKN2A/B deletion; papillary and rhabdoid subtypes are graded by these criteria in CNS5.\nHigher grade predicts recurrence.",
+  "mark_scheme": [
+   {
+    "item": "Arachnoid cap cell origin, with risk factor (radiation or NF2)",
+    "marks": 1
+   },
+   {
+    "item": "NF2 / chromosome 22 alteration as the commonest genetic change",
+    "marks": 1
+   },
+   {
+    "item": "Microscopic features: whorls, psammoma bodies, EMA positive",
+    "marks": 1
+   },
+   {
+    "item": "Grade 1 as the majority and benign pattern",
+    "marks": 1
+   },
+   {
+    "item": "Grade 2 criteria (4 to 19 mitoses per 10 HPF, or brain invasion)",
+    "marks": 1
+   },
+   {
+    "item": "Grade 3 criteria (20 or more mitoses, or TERT promoter / CDKN2A/B deletion)",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Stating meningiomas arise from the pia or from astrocytes",
+   "Using the 2016 criteria (three of five atypical features; papillary and rhabdoid automatically grade 3) and omitting TERT promoter mutation and CDKN2A/B deletion as grade 3 criteria",
+   "Giving dural tail and enhancement features instead of pathology",
+   "Stating mitotic thresholds incorrectly"
+  ],
+  "id": 14
+ },
+ {
+  "sitting": 2,
+  "marks": 6,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "topic": "Acute pancreatitis (Atlanta 2012)",
+  "question": "Outline the revised Atlanta 2012 classification of acute pancreatitis, including its diagnostic criteria, morphological types, severity categories and the peripancreatic collections that may develop. (6 marks)",
+  "model_answer": "Diagnosis (any two of three)\n- Characteristic upper abdominal pain.\n- Serum lipase or amylase more than three times the upper limit of normal.\n- Characteristic findings of acute pancreatitis on cross sectional imaging.\nMorphological types\n- Interstitial oedematous pancreatitis: diffuse or focal enlargement with homogeneous enhancement; most cases.\n- Necrotising pancreatitis: necrosis of pancreatic parenchyma and/or peripancreatic tissue.\nSeverity\n- Mild: no organ failure and no local or systemic complications.\n- Moderately severe: transient organ failure (under 48 hours) and/or local or systemic complications.\n- Severe: persistent organ failure (over 48 hours).\nCollections\n- Within 4 weeks of interstitial pancreatitis: acute peripancreatic fluid collection.\n- Within 4 weeks of necrotising pancreatitis: acute necrotic collection.\n- After 4 weeks: pseudocyst (encapsulated fluid, little or no solid material) and walled-off necrosis (encapsulated necrosis).",
+  "mark_scheme": [
+   {
+    "item": "Diagnosis requires two of three criteria (pain, enzymes over three times normal, imaging)",
+    "marks": 1
+   },
+   {
+    "item": "Interstitial oedematous versus necrotising types",
+    "marks": 1
+   },
+   {
+    "item": "Mild severity defined by absence of organ failure and complications",
+    "marks": 1
+   },
+   {
+    "item": "Moderately severe and severe defined by transient versus persistent (over 48 hours) organ failure",
+    "marks": 1
+   },
+   {
+    "item": "Early collections: acute peripancreatic fluid collection and acute necrotic collection (under 4 weeks)",
+    "marks": 1
+   },
+   {
+    "item": "Late collections: pseudocyst and walled-off necrosis (over 4 weeks)",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Using the old 1992 term 'infected pseudocyst' or 'phlegmon'",
+   "Defining severity by imaging necrosis alone rather than organ failure",
+   "Stating pseudocysts can occur within 2 weeks",
+   "Confusing amylase threshold with twice normal"
+  ],
+  "id": 15
+ },
+ {
+  "sitting": 2,
+  "marks": 6,
+  "domain": "respiratory_and_mediastinum",
+  "topic": "Sarcoidosis",
+  "question": "A 35 year old woman has bilateral hilar lymphadenopathy and a lymph node biopsy shows granulomatous inflammation consistent with sarcoidosis. Outline the pathogenesis and the pathological features of sarcoidosis. (6 marks)",
+  "model_answer": "Pathogenesis\n- Multisystem disease of unknown cause; exaggerated cell mediated immune response in genetically susceptible individuals to an unidentified antigen.\n- Activated CD4 helper T cells (Th1 and Th17) release interferon gamma and cytokines, activating macrophages and driving granuloma formation; TNF is important.\nPathology\n- Discrete non-necrotising (non-caseating) epithelioid granulomas with multinucleated giant cells and a rim of lymphocytes and fibroblasts, often with little or no necrosis.\n- Giant cells may contain Schaumann bodies (calcified conchoid bodies) and asteroid bodies.\n- Granulomas lie along lymphatics (perilymphatic distribution in lung: bronchovascular bundles, septa, pleura) and may heal with hyalinised fibrosis.\n- Diagnosis is by exclusion of other granulomatous disease, notably mycobacterial and fungal infection.\nOrgan involvement and associations\n- Lung and hilar and mediastinal nodes most often; also skin, eye, liver, spleen, bone marrow.\n- Raised serum ACE and hypercalcaemia (macrophage 1-alpha hydroxylase making calcitriol).",
+  "mark_scheme": [
+   {
+    "item": "Immune mediated reaction to an unidentified antigen in susceptible hosts",
+    "marks": 1
+   },
+   {
+    "item": "CD4 Th1 / Th17 cells, interferon gamma and macrophage activation forming granulomas",
+    "marks": 1
+   },
+   {
+    "item": "Non-caseating epithelioid granulomas with giant cells",
+    "marks": 1
+   },
+   {
+    "item": "Schaumann or asteroid bodies mentioned",
+    "marks": 0.5
+   },
+   {
+    "item": "Perilymphatic distribution in lung and lymph node involvement",
+    "marks": 1
+   },
+   {
+    "item": "Exclusion of infection (mycobacteria, fungi) required for diagnosis",
+    "marks": 1
+   },
+   {
+    "item": "Systemic associations: raised ACE, hypercalcaemia, extrathoracic organs",
+    "marks": 0.5
+   }
+  ],
+  "common_errors": [
+   "Describing caseating necrosis as typical",
+   "Stating Schaumann bodies are specific for sarcoidosis",
+   "Placing granulomas in an alveolar airspace distribution rather than perilymphatic",
+   "Giving imaging patterns in place of pathology"
+  ],
+  "id": 16
+ },
+ {
+  "sitting": 2,
+  "marks": 6,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "topic": "Giant cell tumour of bone",
+  "question": "A 28 year old man has an epiphyseal lytic lesion of the distal femur and biopsy shows giant cell tumour of bone. List six pathological features of this tumour, including usual site, genetic alteration and behaviour. (6 marks)",
+  "model_answer": "1. Site and age: arises in the epiphysis, extending into the metaphysis, of a skeletally mature patient (after physeal closure), typically aged 20 to 40 years; commonest around the knee (distal femur, proximal tibia), also distal radius and sacrum.\n2. Classification: benign but locally aggressive neoplasm (WHO soft tissue and bone, 5th edition).\n3. Macroscopic: soft, brown to red, haemorrhagic tumour with cystic change; may erode cortex and extend into soft tissue.\n4. Microscopic: sheets of mononuclear ovoid stromal cells with numerous osteoclast-like multinucleated giant cells whose nuclei resemble those of the stromal cells.\n5. Molecular: H3F3A (histone H3.3) G34W mutation in the neoplastic mononuclear cells; the stromal cells express RANKL, recruiting the reactive osteoclast-like cells.\n6. Behaviour: local recurrence after curettage is common; secondary aneurysmal bone cyst change may occur; rarely pulmonary metastases, and denosumab (RANKL inhibitor) is used in unresectable disease.",
+  "mark_scheme": [
+   {
+    "item": "Epiphyseal location in skeletally mature adult (20 to 40 years)",
+    "marks": 1
+   },
+   {
+    "item": "Common sites: around the knee, distal radius, sacrum",
+    "marks": 1
+   },
+   {
+    "item": "Macroscopic: brown haemorrhagic tumour with cystic degeneration",
+    "marks": 1
+   },
+   {
+    "item": "Microscopic: mononuclear stromal cells with osteoclast-like giant cells",
+    "marks": 1
+   },
+   {
+    "item": "H3F3A G34W mutation and RANKL expression by stromal cells",
+    "marks": 1
+   },
+   {
+    "item": "Benign but locally aggressive, recurrence, rare lung metastases",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Saying the giant cells are the neoplastic cells",
+   "Placing the tumour in the diaphysis or in a skeletally immature patient",
+   "Stating that malignant transformation is common",
+   "Giving radiographic appearance (soap bubble) instead of pathology"
+  ],
+  "id": 17
+ },
+ {
+  "sitting": 2,
+  "marks": 6,
+  "domain": "general_pathology",
+  "topic": "Mechanisms of apoptosis",
+  "question": "Apoptosis is a regulated form of cell death distinct from necrosis. Outline the intrinsic and extrinsic pathways of apoptosis, the shared execution phase and the morphological features of an apoptotic cell. (6 marks)",
+  "model_answer": "Apoptosis is regulated cell death that does not provoke inflammation.\nIntrinsic (mitochondrial) pathway\n- Triggered by growth factor withdrawal, DNA damage, misfolded proteins.\n- Sensor BH3-only proteins activate BAX and BAK, which cause mitochondrial outer membrane permeabilisation; anti-apoptotic BCL2 and BCL-XL oppose this.\n- Cytochrome c is released, binds APAF1 to form the apoptosome, activating caspase 9.\nExtrinsic (death receptor) pathway\n- Ligand binding of death receptors (Fas / CD95 by Fas ligand, TNF receptor type 1) recruits the adaptor FADD, which activates caspase 8; FLIP inhibits it.\nExecution phase\n- Both pathways activate executioner caspases (3, 6 and 7), which cleave nuclear and cytoskeletal proteins and activate endonucleases producing DNA fragmentation.\nMorphology\n- Cell shrinkage, nuclear chromatin condensation and fragmentation, membrane blebbing and formation of apoptotic bodies.\n- Phosphatidylserine appears on the outer membrane, so phagocytes clear the cell.",
+  "mark_scheme": [
+   {
+    "item": "Intrinsic triggers and BCL2 family regulation (BAX/BAK, BCL2)",
+    "marks": 1
+   },
+   {
+    "item": "Cytochrome c release, apoptosome with APAF1, caspase 9",
+    "marks": 1
+   },
+   {
+    "item": "Extrinsic pathway: death receptors (Fas, TNFR1) and FADD, caspase 8",
+    "marks": 1
+   },
+   {
+    "item": "Executioner caspases (3, 6, 7) common to both pathways",
+    "marks": 1
+   },
+   {
+    "item": "Morphology: cell shrinkage, chromatin condensation, apoptotic bodies",
+    "marks": 1
+   },
+   {
+    "item": "Phosphatidylserine exposure and phagocytic clearance without inflammation",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Confusing apoptosis with necrosis features such as cell swelling and inflammation",
+   "Stating caspase 9 acts in the extrinsic pathway",
+   "Stating BCL2 promotes apoptosis",
+   "Omitting the executioner caspases"
+  ],
+  "id": 18
+ },
+ {
+  "sitting": 2,
+  "marks": 6,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "topic": "Papillary thyroid carcinoma",
+  "question": "A 32 year old woman has a thyroid nodule and cervical lymphadenopathy, and fine needle aspiration suggests papillary thyroid carcinoma. Describe the pathology, including risk factors, microscopic features, molecular alterations and spread. (6 marks)",
+  "model_answer": "Epidemiology and risk\n- Commonest thyroid malignancy; more common in women; risk factors include ionising radiation exposure in childhood.\nMacroscopic\n- Solitary or multifocal, firm, poorly circumscribed or infiltrative white tumour, may be cystic or contain calcification.\nMicroscopic\n- Branching papillae with fibrovascular cores, though follicular architecture may predominate in some variants.\n- Diagnosis rests on nuclear features: enlargement, overlapping and crowding, optically clear (ground glass) chromatin, nuclear grooves and intranuclear pseudoinclusions.\n- Psammoma bodies (laminated calcified bodies) may be present.\nMolecular\n- BRAF V600E mutation is most common; RET/PTC rearrangements are more frequent in radiation associated tumours; RAS mutations occur in follicular variant.\nSpread and prognosis\n- Spreads by lymphatics to cervical lymph nodes, which may be the presenting feature; haematogenous spread (lung, bone) is uncommon.\n- Excellent overall prognosis; worse with older age, extrathyroidal extension and aggressive variants such as tall cell.",
+  "mark_scheme": [
+   {
+    "item": "Risk factor: ionising radiation (and commonest thyroid cancer)",
+    "marks": 1
+   },
+   {
+    "item": "Macroscopic: firm, infiltrative, may be multifocal or cystic",
+    "marks": 1
+   },
+   {
+    "item": "Papillae with fibrovascular cores",
+    "marks": 1
+   },
+   {
+    "item": "Nuclear features: clear nuclei, grooves, pseudoinclusions, overlapping",
+    "marks": 1
+   },
+   {
+    "item": "Molecular: BRAF V600E and RET/PTC",
+    "marks": 1
+   },
+   {
+    "item": "Lymphatic spread to cervical nodes with good prognosis",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Basing diagnosis on papillary architecture alone rather than nuclear features",
+   "Stating spread is mainly haematogenous",
+   "Attributing RET/PTC and BRAF to follicular carcinoma",
+   "Stating psammoma bodies are diagnostic of malignancy in all sites"
+  ],
+  "id": 19
+ },
+ {
+  "sitting": 2,
+  "marks": 6,
+  "domain": "haematology_paediatric_and_infection",
+  "topic": "Hodgkin lymphoma",
+  "question": "Describe the pathology of classic Hodgkin lymphoma, including the characteristic neoplastic cell and its immunophenotype, the histological subtypes and the pattern of spread. (6 marks)",
+  "model_answer": "Neoplastic cell\n- Reed-Sternberg cell (large binucleate or bilobed cell with prominent eosinophilic nucleoli, owl eye appearance) and mononuclear Hodgkin variants, derived from germinal centre B cells, scattered in a reactive background of lymphocytes, eosinophils, plasma cells and histiocytes.\n- Immunophenotype: CD30 positive, CD15 usually positive, PAX5 weakly positive; CD45 negative and CD20 usually negative or weak.\n- Epstein-Barr virus is found in a proportion, especially mixed cellularity.\nSubtypes (WHO)\n- Nodular sclerosis: commonest in developed countries; young adults, mediastinal nodes; fibrous bands and lacunar cells.\n- Mixed cellularity: older patients, abundant mixed infiltrate.\n- Lymphocyte rich: few Reed-Sternberg cells among many lymphocytes.\n- Lymphocyte depleted: rare, advanced, many Reed-Sternberg cells.\nSpread\n- Arises in a single nodal group and spreads contiguously along adjacent nodal chains (unlike non-Hodgkin lymphoma); staged by Ann Arbor / Lugano system with B symptoms noted.\nNodular lymphocyte predominant Hodgkin lymphoma is a distinct entity (CD20 positive, CD15 and CD30 negative).",
+  "mark_scheme": [
+   {
+    "item": "Reed-Sternberg cell morphology (binucleate, prominent nucleoli) in a reactive background",
+    "marks": 1
+   },
+   {
+    "item": "Immunophenotype CD30 and CD15 positive, CD45 negative, CD20 usually negative",
+    "marks": 1
+   },
+   {
+    "item": "Nodular sclerosis subtype with lacunar cells and fibrous bands",
+    "marks": 1
+   },
+   {
+    "item": "Other classic subtypes: mixed cellularity, lymphocyte rich, lymphocyte depleted",
+    "marks": 1
+   },
+   {
+    "item": "Contiguous nodal spread and staging by Ann Arbor / Lugano",
+    "marks": 1
+   },
+   {
+    "item": "EBV association or distinction from nodular lymphocyte predominant type",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Stating Reed-Sternberg cells are CD20 and CD45 positive in classic disease",
+   "Describing non-contiguous nodal spread as typical",
+   "Listing nodular lymphocyte predominant Hodgkin lymphoma as a classic subtype",
+   "Stating the Reed-Sternberg cell is a T cell"
+  ],
+  "id": 20
+ },
+ {
+  "sitting": 3,
+  "marks": 6,
+  "domain": "obstetric_gynaecological_and_breast",
+  "topic": "Cervical carcinoma, HPV pathogenesis and CIN",
+  "question": "A 34 year old woman has a high grade squamous intraepithelial lesion on cervical screening. Outline the role of human papillomavirus in the pathogenesis of cervical carcinoma and describe the histological grading of cervical intraepithelial neoplasia (CIN). (6 marks)",
+  "model_answer": "Aetiology: persistent infection with high risk HPV, mainly types 16 and 18 (together about 70% of cancers), also 31, 33 and 45. Low risk types 6 and 11 cause condylomata.\nSite: basal and parabasal cells of the metaplastic epithelium at the transformation zone (squamocolumnar junction).\nPathogenesis: most infections are cleared by the immune system within one to two years. Persistence allows viral DNA to integrate into the host genome with loss of E2 regulation. E6 protein degrades p53, and E7 protein binds and inactivates RB, releasing E2F, so cell cycle control and apoptosis are lost. Compensatory p16 overexpression results. Genomic instability and further mutations follow, with progression over years.\nCofactors: early sexual debut, multiple partners, smoking, immunosuppression such as HIV, high parity.\nCIN grading:\n1. CIN 1 (low grade, LSIL): dysplasia confined to the lower third of the epithelium.\n2. CIN 2: dysplasia extending into the lower two thirds.\n3. CIN 3: full thickness dysplasia without invasion (carcinoma in situ). CIN 2 and 3 are grouped as HSIL.\nInvasion through the basement membrane gives squamous cell carcinoma, the most common type, with adenocarcinoma next. Vaccination targets the high risk types.",
+  "mark_scheme": [
+   {
+    "item": "High risk HPV types 16 and 18 named as the main causes",
+    "marks": 1
+   },
+   {
+    "item": "Infection of basal cells at the transformation zone with persistence required",
+    "marks": 1
+   },
+   {
+    "item": "E6 inactivates p53 and E7 inactivates RB",
+    "marks": 1.5
+   },
+   {
+    "item": "CIN 1 lower third, CIN 2 lower two thirds, CIN 3 full thickness",
+    "marks": 1.5
+   },
+   {
+    "item": "Correlation of CIN 1 with LSIL and CIN 2 and 3 with HSIL, or progression to invasive squamous carcinoma",
+    "marks": 0.5
+   },
+   {
+    "item": "Cofactors such as smoking and immunosuppression",
+    "marks": 0.5
+   }
+  ],
+  "common_errors": [
+   "Stating that HPV types 6 and 11 are the main cause of cervical cancer",
+   "Describing CIN grades by cell type rather than by the proportion of epithelial thickness involved",
+   "Omitting the role of E6 and E7 in disabling p53 and RB"
+  ],
+  "id": 21
+ },
+ {
+  "sitting": 3,
+  "marks": 6,
+  "domain": "obstetric_gynaecological_and_breast",
+  "topic": "Fibroadenoma versus phyllodes tumour",
+  "question": "Compare the pathological features of a fibroadenoma and a phyllodes tumour of the breast, including the basis for grading phyllodes tumours and their behaviour. (6 marks)",
+  "model_answer": "Fibroadenoma\n1. Commonest benign breast tumour, mostly women under 30 and hormone responsive.\n2. Macro: well circumscribed, rubbery, mobile, usually 1 to 3 cm, grey white bulging cut surface with slit-like spaces.\n3. Micro: biphasic. Proliferation of both glandular epithelium and loose, hypocellular intralobular stroma, in pericanalicular or intracanalicular patterns. No stromal atypia and no mitoses. Older lesions hyalinise and calcify.\n4. Behaviour: benign, no malignant potential in itself, local excision only if needed.\n\nPhyllodes tumour\n1. Rare, usually women in their 40s to 50s, often large and rapidly growing.\n2. Macro: bulky, bosselated, cut surface shows leaf-like clefts.\n3. Micro: leaf-like architecture with epithelium-lined clefts, but stroma is hypercellular, often condensed beneath the epithelium.\n4. Graded benign, borderline or malignant by stromal cellularity, atypia, mitotic count, stromal overgrowth and tumour margin.\n5. Behaviour: tends to recur locally after inadequate excision, so wide excision is needed. Malignant tumours metastasise haematogenously, mainly to lung and bone, rarely to lymph nodes.",
+  "mark_scheme": [
+   {
+    "item": "Fibroadenoma: age, circumscribed rubbery mobile gross appearance",
+    "marks": 1
+   },
+   {
+    "item": "Fibroadenoma: biphasic epithelial and hypocellular stromal proliferation without atypia or mitoses",
+    "marks": 1.5
+   },
+   {
+    "item": "Phyllodes: older age, large bulky tumour with leaf-like clefts",
+    "marks": 1
+   },
+   {
+    "item": "Phyllodes: stromal hypercellularity as the distinguishing microscopic feature",
+    "marks": 1
+   },
+   {
+    "item": "Grading by stromal cellularity, atypia, mitoses, overgrowth and margin into three grades",
+    "marks": 1
+   },
+   {
+    "item": "Local recurrence and haematogenous (not nodal) metastasis of malignant tumours",
+    "marks": 0.5
+   }
+  ],
+  "common_errors": [
+   "Stating that phyllodes tumours commonly metastasise to axillary lymph nodes",
+   "Describing the epithelium rather than the stroma as the component that determines grade",
+   "Assuming that leaf-like architecture alone proves phyllodes tumour, since cellular fibroadenomas can have similar patterns"
+  ],
+  "id": 22
+ },
+ {
+  "sitting": 3,
+  "marks": 6,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "topic": "Crohn disease versus ulcerative colitis",
+  "question": "Compare the macroscopic and microscopic pathology of Crohn disease and ulcerative colitis, and give two complications specific to each. (6 marks)",
+  "model_answer": "Crohn disease\n1. Distribution: any part of the gut, most often terminal ileum and right colon. Skip lesions with normal bowel between affected segments. Rectum often spared.\n2. Macro: transmural inflammation, deep linear fissuring ulcers, cobblestone mucosa, thick wall, narrowed lumen from fibrosis and stricturing, creeping fat and serositis.\n3. Micro: transmural lymphoid aggregates, fissures, submucosal fibrosis, and non-caseating granulomas in a minority of cases (about one third).\n4. Complications: strictures and obstruction, fistulae (enteroenteric, enterovesical, perianal), abscesses, small bowel malabsorption.\n\nUlcerative colitis\n1. Distribution: always involves the rectum with continuous proximal extension to a variable extent. Backwash ileitis may occur.\n2. Macro: diffuse red granular mucosa, broad-based ulcers, pseudopolyps, mucosal atrophy in chronic disease. Wall of normal thickness.\n3. Micro: inflammation limited to mucosa and superficial submucosa, crypt abscesses, crypt distortion and branching, no granulomas.\n4. Complications: toxic megacolon, perforation, and a higher colorectal cancer risk related to disease extent and duration. Primary sclerosing cholangitis is more strongly associated.",
+  "mark_scheme": [
+   {
+    "item": "Distribution: skip lesions and any site versus rectum first and continuous",
+    "marks": 1
+   },
+   {
+    "item": "Depth: transmural versus mucosal and submucosal",
+    "marks": 1
+   },
+   {
+    "item": "Macroscopic features: fissures, cobblestoning, creeping fat versus pseudopolyps and granular mucosa",
+    "marks": 1.5
+   },
+   {
+    "item": "Microscopy: granulomas in Crohn disease versus crypt abscesses and crypt distortion in ulcerative colitis",
+    "marks": 1.5
+   },
+   {
+    "item": "Two valid complications specific to each disease (e.g. fistula, stricture; toxic megacolon, carcinoma)",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Claiming that granulomas are present in all Crohn disease",
+   "Attributing skip lesions or transmural disease to ulcerative colitis",
+   "Listing fistulae as a feature of ulcerative colitis"
+  ],
+  "id": 23
+ },
+ {
+  "sitting": 3,
+  "marks": 6,
+  "domain": "respiratory_and_mediastinum",
+  "topic": "Asbestos-related disease",
+  "question": "List six asbestos-related diseases of the chest and state the key pathological feature of each. (6 marks)",
+  "model_answer": "1. Pleural plaques: discrete areas of hyaline collagen on the parietal pleura, often calcified, typically over the diaphragm and lower chest wall, sparing the costophrenic angles and apices. Not premalignant.\n2. Benign asbestos pleural effusion: exudative, often bloody, occurring early (within about 10 years of exposure) and diagnosis of exclusion.\n3. Diffuse pleural thickening: visceral pleural fibrosis, often with adhesions and blunting of the costophrenic angle, which may restrict lung expansion.\n4. Rounded atelectasis: folded lung with an infolded fibrotic pleura producing a rounded subpleural mass.\n5. Asbestosis: diffuse interstitial pulmonary fibrosis that begins in the lower lobes and subpleural zones. Asbestos bodies (golden brown beaded fibres with an iron-protein coat, Prussian blue positive) are seen. Latency is generally 15 or more years and dose related.\n6. Bronchogenic carcinoma: risk is multiplied with cigarette smoking (synergistic), any histological type, usually lower lobes in association with asbestosis.\n7. Malignant mesothelioma: pleural tumour with encasing rind, epithelioid, sarcomatoid or biphasic types, latency usually over 30 years, amphibole fibres such as crocidolite are most potent, and there is no safe threshold.\n(Any six accepted.)",
+  "mark_scheme": [
+   {
+    "item": "Six valid diseases named, 0.5 mark each",
+    "marks": 3
+   },
+   {
+    "item": "Accurate key pathological feature for each disease listed, 0.5 mark each",
+    "marks": 3
+   }
+  ],
+  "common_errors": [
+   "Listing silicosis or coal workers pneumoconiosis rather than asbestos diseases",
+   "Describing pleural plaques as premalignant or as involving the visceral pleura",
+   "Stating that chrysotile is the most carcinogenic fibre type"
+  ],
+  "id": 24
+ },
+ {
+  "sitting": 3,
+  "marks": 6,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "topic": "Paget disease of bone",
+  "question": "A 70 year old man has an isolated raised serum alkaline phosphatase with normal calcium. Describe the pathology of Paget disease of bone, including its phases and complications. (6 marks)",
+  "model_answer": "Definition: disordered bone remodelling from excessive osteoclastic resorption followed by chaotic, excessive osteoblastic formation of structurally abnormal bone.\nEpidemiology and aetiology: usually over 55 years, more common in people of Anglo-European descent. Mutations in SQSTM1 (p62) are the commonest genetic cause; a viral trigger (paramyxovirus) has been proposed but is unproven.\nDistribution: monostotic or polyostotic, axial skeleton favoured: pelvis, lumbar spine, skull, femur and tibia.\nPhases:\n1. Osteolytic: florid osteoclastic resorption by large, multinucleate osteoclasts.\n2. Mixed: osteoblastic and osteoclastic activity with fibrovascular marrow and a mosaic pattern of woven and lamellar bone with prominent cement lines.\n3. Sclerotic (burnt out): dense, thick, sclerotic bone with little cellular activity.\nMacro: enlarged, thickened, sclerotic bone that is mechanically weak.\nComplications: pathological chalkstick fractures, secondary osteoarthritis, nerve compression such as deafness from skull base involvement, high output cardiac failure from marrow vascularity, and osteosarcoma (under 1% of cases), rarely giant cell tumour.",
+  "mark_scheme": [
+   {
+    "item": "Definition as increased resorption followed by disorganised bone formation",
+    "marks": 1
+   },
+   {
+    "item": "Distribution, mainly axial skeleton and older adults",
+    "marks": 0.5
+   },
+   {
+    "item": "Three phases correctly described (lytic, mixed, sclerotic)",
+    "marks": 1.5
+   },
+   {
+    "item": "Mosaic pattern or cement lines and large multinucleate osteoclasts",
+    "marks": 1
+   },
+   {
+    "item": "Weak, thickened, abnormal bone",
+    "marks": 0.5
+   },
+   {
+    "item": "Three valid complications including osteosarcoma",
+    "marks": 1.5
+   }
+  ],
+  "common_errors": [
+   "Describing osteoporosis-like loss of bone mass rather than thick, sclerotic and weak bone",
+   "Stating that serum calcium is typically raised",
+   "Giving osteosarcoma as a common rather than rare complication"
+  ],
+  "id": 25
+ },
+ {
+  "sitting": 3,
+  "marks": 6,
+  "domain": "neuropathology_and_head_and_neck",
+  "topic": "Ischaemic stroke pathology and evolution",
+  "question": "Describe the pathological evolution of an ischaemic cerebral infarct over the first weeks after the event. (6 marks)",
+  "model_answer": "Mechanisms: thrombosis on atherosclerosis, embolism (cardiac, for example atrial fibrillation, or carotid) and small vessel disease causing lacunar infarcts. An ischaemic core is surrounded by a salvageable penumbra; watershed zones are vulnerable in hypoperfusion.\nTimeline:\n1. First 6 to 12 hours: little or no change macroscopically; cytotoxic oedema develops.\n2. 12 to 24 hours: red (eosinophilic) neurons with microvacuolation; pyknotic nuclei.\n3. 24 to 72 hours: neutrophil infiltration; tissue becomes pale, soft with a blurred grey-white junction, and swelling peaks at 3 to 5 days (vasogenic oedema) with risk of herniation.\n4. 3 to 5 days: macrophage (microglial) infiltration as dead tissue is phagocytosed; the tissue is liquefying.\n5. 1 to 2 weeks: liquefactive necrosis; reactive astrocytosis and neovascularisation at the edge (granulation-like tissue).\n6. Weeks to months: a fluid-filled cystic cavity lined by a glial scar remains.\nEmbolic infarcts may undergo haemorrhagic transformation as reperfusion occurs through damaged vessels.",
+  "mark_scheme": [
+   {
+    "item": "Mechanism of infarction (thrombotic, embolic or small vessel) and penumbra",
+    "marks": 1
+   },
+   {
+    "item": "Early changes: red neurons at 12 to 24 hours",
+    "marks": 1
+   },
+   {
+    "item": "Neutrophils at 24 to 72 hours with macroscopic softening and oedema",
+    "marks": 1
+   },
+   {
+    "item": "Macrophage phase at about 3 to 5 days",
+    "marks": 1
+   },
+   {
+    "item": "Liquefactive necrosis with gliosis and angiogenesis at 1 to 2 weeks",
+    "marks": 1
+   },
+   {
+    "item": "End stage cystic cavity with glial scar",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Describing coagulative rather than liquefactive necrosis as the end result in brain",
+   "Placing neutrophils before red neurons or macrophages before neutrophils",
+   "Stating that infarcts are macroscopically obvious within hours"
+  ],
+  "id": 26
+ },
+ {
+  "sitting": 3,
+  "marks": 6,
+  "domain": "general_pathology",
+  "topic": "Acute inflammation, vascular and cellular events and mediators",
+  "question": "Outline the vascular and cellular events of acute inflammation and name the principal chemical mediators involved. (6 marks)",
+  "model_answer": "Vascular events:\n1. Transient arteriolar vasoconstriction, then vasodilation (histamine, nitric oxide) increasing blood flow.\n2. Increased vascular permeability, giving protein-rich exudate. Mechanisms: endothelial contraction (histamine, bradykinin, leukotrienes C4, D4, E4), direct endothelial injury, leukocyte-mediated injury, and increased transcytosis (VEGF).\n3. Slowing of flow (stasis) with concentration of red cells.\nCellular events:\n1. Margination of leukocytes.\n2. Rolling mediated by selectins (E and P selectin on endothelium, L selectin on leukocytes).\n3. Firm adhesion via integrins (LFA-1, Mac-1) binding ICAM-1, and VLA-4 binding VCAM-1.\n4. Transmigration between endothelial cells, mediated by PECAM-1 (CD31).\n5. Chemotaxis along gradients of C5a, IL-8 (CXCL8), leukotriene B4 and bacterial products.\n6. Phagocytosis and killing by reactive oxygen species (NADPH oxidase), myeloperoxidase and enzymes.\nMediators: histamine, prostaglandins, leukotrienes, cytokines TNF and IL-1, complement (C3a, C5a), kinins and platelet activating factor.\nNeutrophils predominate in the first 6 to 24 hours, then monocytes.",
+  "mark_scheme": [
+   {
+    "item": "Vasodilation and increased permeability with mechanisms of leakage",
+    "marks": 1.5
+   },
+   {
+    "item": "Exudate formation and stasis",
+    "marks": 0.5
+   },
+   {
+    "item": "Margination, rolling via selectins and adhesion via integrins",
+    "marks": 1.5
+   },
+   {
+    "item": "Transmigration and chemotaxis with named chemoattractants",
+    "marks": 1
+   },
+   {
+    "item": "Phagocytosis and intracellular killing",
+    "marks": 0.5
+   },
+   {
+    "item": "At least four correct mediators with their actions",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Confusing selectins (rolling) with integrins (firm adhesion)",
+   "Omitting increased permeability as a separate event from vasodilation",
+   "Listing cell types without describing the sequence of events"
+  ],
+  "id": 27
+ },
+ {
+  "sitting": 3,
+  "marks": 6,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "topic": "Prostate adenocarcinoma, ISUP grade groups and staging",
+  "question": "Describe the pathology of prostatic acinar adenocarcinoma, the ISUP grade groups and the T stage categories of the TNM staging system. (6 marks)",
+  "model_answer": "Pathology: most arise in the peripheral zone, often multifocal. Microscopy shows crowded small glands lacking a basal cell layer, prominent nucleoli, and perineural invasion; AMACR is positive and basal markers (p63, high molecular weight keratin) are negative. Spread is local to seminal vesicles and bladder neck, to pelvic nodes, and to bone, usually osteoblastic metastases.\nISUP grade groups (Gleason score, primary plus secondary pattern):\n1. Grade group 1: Gleason 3+3=6.\n2. Grade group 2: Gleason 3+4=7.\n3. Grade group 3: Gleason 4+3=7.\n4. Grade group 4: Gleason 8.\n5. Grade group 5: Gleason 9 or 10.\nTNM T categories:\n- T1: clinically inapparent: T1a incidental in 5% or less of resected tissue, T1b more than 5%, T1c needle biopsy.\n- T2: confined to the prostate: T2a half of one lobe or less, T2b more than half of one lobe, T2c both lobes.\n- T3: extraprostatic extension (T3a) or seminal vesicle invasion (T3b).\n- T4: fixed or invading adjacent structures other than seminal vesicles, for example bladder neck, rectum, levator ani or pelvic wall.",
+  "mark_scheme": [
+   {
+    "item": "Peripheral zone origin and gland architecture lacking basal cells",
+    "marks": 1
+   },
+   {
+    "item": "Perineural invasion, AMACR or basal marker staining and sites of metastasis",
+    "marks": 0.5
+   },
+   {
+    "item": "Correct five ISUP grade groups with Gleason equivalents",
+    "marks": 2
+   },
+   {
+    "item": "T1 and T2 subdivisions",
+    "marks": 1
+   },
+   {
+    "item": "T3 and T4 definitions",
+    "marks": 1
+   },
+   {
+    "item": "Distinction of grade group 2 (3+4) from 3 (4+3)",
+    "marks": 0.5
+   }
+  ],
+  "common_errors": [
+   "Treating 3+4 and 4+3 as the same grade group",
+   "Placing seminal vesicle invasion in T4 rather than T3b",
+   "Stating that most cancers arise in the transition zone"
+  ],
+  "id": 28
+ },
+ {
+  "sitting": 3,
+  "marks": 6,
+  "domain": "cardiovascular_and_vascular",
+  "topic": "Evolution of myocardial infarction",
+  "question": "Describe the macroscopic and microscopic evolution of a transmural myocardial infarct from the first hours to the formation of a scar, and name the complications associated with each stage. (6 marks)",
+  "model_answer": "Cause: acute coronary plaque rupture with occlusive thrombus; necrosis begins after about 30 minutes of ischaemia, with coagulative necrosis.\n1. 0 to 4 hours: no gross change; early ultrastructural changes only. Complication: arrhythmia, including ventricular fibrillation.\n2. 4 to 12 hours: no gross change; microscopy shows early coagulative necrosis, oedema, haemorrhage and wavy fibres. 12 to 24 hours: gross pallor to dark mottling, with hypereosinophilic myocytes and contraction band necrosis in reperfused areas.\n3. 1 to 3 days: yellow-tan mottled centre; dense neutrophil infiltrate and loss of nuclei. Complication: fibrinous pericarditis.\n4. 3 to 7 days: central softening with a hyperaemic border; neutrophils disappear and macrophages remove dead myocytes. Peak softening gives the highest risk of free wall rupture (tamponade), septal rupture or papillary muscle rupture.\n5. 7 to 14 days: red-grey depressed border; granulation tissue with new vessels and fibroblasts. Complication: mural thrombus and thromboembolism.\n6. 2 weeks to 2 months or more: collagen deposition, then a white fibrous scar. Complications: ventricular aneurysm, heart failure, Dressler syndrome (weeks later).",
+  "mark_scheme": [
+   {
+    "item": "Coagulative necrosis beginning at 4 to 12 hours, with gross pallor or mottling by 12 to 24 hours",
+    "marks": 1
+   },
+   {
+    "item": "Neutrophil infiltrate at 1 to 3 days",
+    "marks": 1
+   },
+   {
+    "item": "Macrophage removal and softening at 3 to 7 days",
+    "marks": 1
+   },
+   {
+    "item": "Granulation tissue at 1 to 2 weeks",
+    "marks": 1
+   },
+   {
+    "item": "Collagenous scar by about 2 months",
+    "marks": 1
+   },
+   {
+    "item": "At least three stage-appropriate complications (rupture at peak softening, aneurysm late)",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Placing rupture risk in the first 24 hours rather than at 3 to 7 days",
+   "Omitting macrophages as the cells that remove necrotic myocardium",
+   "Describing fibrous scar within the first week"
+  ],
+  "id": 29
+ },
+ {
+  "sitting": 3,
+  "marks": 6,
+  "domain": "haematology_paediatric_and_infection",
+  "topic": "Primary versus secondary tuberculosis",
+  "question": "Compare the pathological features of primary and secondary (post-primary) pulmonary tuberculosis. (6 marks)",
+  "model_answer": "Common features: Mycobacterium tuberculosis is an acid-fast bacillus (Ziehl-Neelsen stain). The host response is cell-mediated (type IV hypersensitivity) producing caseating granulomas with epithelioid macrophages, Langhans giant cells and central caseous necrosis.\nPrimary TB\n1. First exposure in an unsensitised individual, often children.\n2. Site: Ghon focus, a subpleural lesion in the lower part of the upper lobe or upper part of the lower lobe.\n3. Spread to hilar lymph nodes gives the Ghon complex.\n4. Most heal by fibrosis and calcification (Ranke complex). Occasionally progressive primary TB, lymphohaematogenous spread and miliary TB occur, especially in immunosuppression.\nSecondary TB\n1. Reactivation of dormant bacilli or reinfection in a sensitised host, often with immune decline.\n2. Site: apices of the upper lobes (high oxygen tension).\n3. Strong hypersensitivity causes extensive caseation and cavitation; regional nodes are usually spared.\n4. Spread by bronchi to give cavitary disease with positive sputum.\n5. Complications: haemoptysis, bronchopleural fistula, empyema, miliary disease, laryngeal and intestinal TB from swallowed sputum.",
+  "mark_scheme": [
+   {
+    "item": "Caseating granulomas with epithelioid cells and Langhans giant cells common to both",
+    "marks": 1
+   },
+   {
+    "item": "Primary: unsensitised host, Ghon focus and Ghon complex",
+    "marks": 1.5
+   },
+   {
+    "item": "Primary: healing by fibrosis and calcification, or progressive and miliary forms",
+    "marks": 0.5
+   },
+   {
+    "item": "Secondary: reactivation or reinfection in sensitised host",
+    "marks": 1
+   },
+   {
+    "item": "Secondary: apical upper lobe site with cavitation and sparing of regional nodes",
+    "marks": 1
+   },
+   {
+    "item": "Complications of secondary TB",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Placing primary TB at the apex and secondary TB in the lower zones",
+   "Stating that primary TB typically cavitates",
+   "Omitting that hilar nodal involvement is a feature of primary rather than secondary disease"
+  ],
+  "id": 30
+ },
+ {
+  "sitting": 4,
+  "marks": 6,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "topic": "Hepatocellular carcinoma",
+  "question": "A 64 year old man with long-standing hepatitis C cirrhosis has a new liver mass and a raised serum alpha-fetoprotein. Describe the aetiology, pathology and routes of spread of hepatocellular carcinoma. (6 marks)",
+  "model_answer": "Aetiology and risk factors:\n1. Cirrhosis from any cause: chronic hepatitis B and C, alcohol, metabolic dysfunction-associated steatotic liver disease, haemochromatosis.\n2. Hepatitis B can cause HCC without cirrhosis through viral DNA integration.\n3. Aflatoxin B1 exposure, with TP53 mutation.\nMacroscopic pathology:\n1. Solitary mass, multifocal nodules, or diffusely infiltrative tumour.\n2. Soft, tan to green (bile staining) lesion with haemorrhage and necrosis, often arising in a cirrhotic liver.\n3. Characteristic tendency to invade portal and hepatic veins, forming tumour thrombus.\nMicroscopic pathology:\n1. Well differentiated tumour: trabecular plates of hepatocyte-like cells, thickened cell plates, bile production and cytoplasmic inclusions.\n2. Poorly differentiated tumour: pleomorphic cells, giant cells, loss of trabecular architecture.\n3. Arterial blood supply replaces portal supply, with loss of portal tracts.\nSpread:\n1. Local intrahepatic spread via portal vein branches.\n2. Haematogenous spread to lung and bone.\n3. Lymphatic spread to portal and para-aortic nodes is less common.",
+  "mark_scheme": [
+   {
+    "item": "Cirrhosis as the main substrate, with two named causes",
+    "marks": 1
+   },
+   {
+    "item": "Hepatitis B without cirrhosis or aflatoxin exposure",
+    "marks": 1
+   },
+   {
+    "item": "Macroscopic patterns: solitary, multifocal or infiltrative",
+    "marks": 1
+   },
+   {
+    "item": "Bile staining, necrosis or haemorrhage in the mass",
+    "marks": 0.5
+   },
+   {
+    "item": "Microscopy: trabecular architecture with pleomorphism",
+    "marks": 1.5
+   },
+   {
+    "item": "Vascular invasion and haematogenous spread to lung or bone",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Describing imaging enhancement patterns instead of the pathology requested",
+   "Omitting hepatitis B as a cause of HCC in a non-cirrhotic liver",
+   "Stating that portal venous supply feeds the tumour"
+  ],
+  "id": 31
+ },
+ {
+  "sitting": 4,
+  "marks": 6,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "topic": "Barrett oesophagus and oesophageal carcinoma",
+  "question": "Compare oesophageal adenocarcinoma and oesophageal squamous cell carcinoma with respect to risk factors, usual location and precursor lesion. (6 marks)",
+  "model_answer": "Adenocarcinoma:\n1. Risk factors: chronic gastro-oesophageal reflux, Barrett oesophagus, central obesity, male sex, white ethnicity. Smoking is a lesser risk factor.\n2. Location: distal third, near the gastro-oesophageal junction.\n3. Precursor: Barrett oesophagus (intestinal metaplasia with goblet cells) progressing through low grade then high grade dysplasia to invasive carcinoma.\n4. Microscopy: glandular, mucin-producing tumour.\nSquamous cell carcinoma:\n1. Risk factors: tobacco and alcohol (synergistic), very hot beverages, achalasia, caustic strictures, Plummer-Vinson syndrome, tylosis, prior head and neck cancer, radiotherapy.\n2. Location: most often the middle third, then the lower third.\n3. Precursor: squamous dysplasia.\n4. Microscopy: keratinising squamous cells with intercellular bridges.\nShared features: both present late with dysphagia and weight loss, spread via lymphatics because the oesophagus lacks a serosa and has a rich submucosal lymphatic network.",
+  "mark_scheme": [
+   {
+    "item": "Adenocarcinoma risk factors (reflux, Barrett, obesity)",
+    "marks": 1
+   },
+   {
+    "item": "SCC risk factors (tobacco and alcohol, plus one other)",
+    "marks": 1
+   },
+   {
+    "item": "Adenocarcinoma distal location",
+    "marks": 0.5
+   },
+   {
+    "item": "SCC mid oesophagus location",
+    "marks": 0.5
+   },
+   {
+    "item": "Barrett metaplasia to dysplasia sequence",
+    "marks": 1.5
+   },
+   {
+    "item": "SCC squamous dysplasia precursor",
+    "marks": 0.5
+   },
+   {
+    "item": "Histology of each tumour type",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Reversing the usual locations of the two tumours",
+   "Stating Barrett oesophagus is a squamous lesion",
+   "Giving imaging features instead of pathology"
+  ],
+  "id": 32
+ },
+ {
+  "sitting": 4,
+  "marks": 6,
+  "domain": "obstetric_gynaecological_and_breast",
+  "topic": "Pre-eclampsia and placental pathology",
+  "question": "Outline the pathogenesis of pre-eclampsia and describe the placental and maternal organ changes. (6 marks)",
+  "model_answer": "Pathogenesis:\n1. Abnormal placentation: inadequate remodelling of the spiral arteries by extravillous trophoblast, leaving narrow, muscular vessels.\n2. Placental hypoperfusion and ischaemia, with release of anti-angiogenic factors (soluble fms-like tyrosine kinase 1) and reduced placental growth factor.\n3. Widespread maternal endothelial dysfunction, vasoconstriction, increased vascular permeability and activation of coagulation.\nDefinition: new hypertension after 20 weeks with proteinuria or other organ dysfunction.\nPlacental changes:\n1. Small placenta, infarcts and retroplacental haematoma.\n2. Decidual vasculopathy with acute atherosis (fibrinoid necrosis with foam cells).\n3. Accelerated villous maturation with syncytial knots.\nMaternal organs:\n1. Kidney: glomerular endotheliosis.\n2. Liver: periportal haemorrhage and necrosis in HELLP syndrome.\n3. Brain: oedema and haemorrhage in eclampsia.\nComplications: placental abruption, foetal growth restriction, DIC.\nOnset is usually in the third trimester; delivery of the placenta is the definitive cure.",
+  "mark_scheme": [
+   {
+    "item": "Failed spiral artery remodelling by trophoblast",
+    "marks": 1.5
+   },
+   {
+    "item": "Placental ischaemia with anti-angiogenic factor release",
+    "marks": 1
+   },
+   {
+    "item": "Maternal endothelial dysfunction",
+    "marks": 1
+   },
+   {
+    "item": "Placental changes: infarcts, acute atherosis or villous change",
+    "marks": 1.5
+   },
+   {
+    "item": "Renal glomerular endotheliosis",
+    "marks": 0.5
+   },
+   {
+    "item": "Hepatic or cerebral changes",
+    "marks": 0.5
+   }
+  ],
+  "common_errors": [
+   "Describing only clinical criteria without pathogenesis",
+   "Attributing the disease to excess rather than inadequate spiral artery remodelling",
+   "Using the term foetal growth restriction without the placental cause"
+  ],
+  "id": 33
+ },
+ {
+  "sitting": 4,
+  "marks": 6,
+  "domain": "respiratory_and_mediastinum",
+  "topic": "Lung adenocarcinoma (WHO patterns and molecular drivers)",
+  "question": "Define lung adenocarcinoma, list the WHO growth patterns, and name the main targetable molecular drivers. (6 marks)",
+  "model_answer": "Definition: malignant epithelial tumour with glandular differentiation, mucin production or pneumocyte marker expression (TTF-1, napsin A). It is the commonest lung cancer, usually peripheral, and the commonest type in never-smokers and women.\nPrecursors: atypical adenomatous hyperplasia and adenocarcinoma in situ (lepidic growth, no invasion).\nWHO growth patterns (invasive non-mucinous):\n1. Lepidic: tumour cells along intact alveolar walls.\n2. Acinar.\n3. Papillary.\n4. Micropapillary.\n5. Solid.\nPrognosis is graded by predominant pattern: lepidic is favourable, while micropapillary and solid are unfavourable. Invasive mucinous adenocarcinoma is a separate variant.\nMolecular drivers:\n1. EGFR mutation (exon 19 deletion, L858R), treated with tyrosine kinase inhibitors.\n2. ALK rearrangement.\n3. ROS1 rearrangement.\n4. KRAS mutation, now targetable for the G12C variant.\n5. Others: BRAF V600E, MET exon 14 skipping, RET, NTRK.",
+  "mark_scheme": [
+   {
+    "item": "Definition with glandular differentiation and TTF-1",
+    "marks": 1
+   },
+   {
+    "item": "Peripheral location or epidemiology",
+    "marks": 0.5
+   },
+   {
+    "item": "Precursors AAH and AIS",
+    "marks": 0.5
+   },
+   {
+    "item": "Five growth patterns listed",
+    "marks": 1.5
+   },
+   {
+    "item": "Grading by predominant pattern",
+    "marks": 0.5
+   },
+   {
+    "item": "EGFR with treatment implication",
+    "marks": 1
+   },
+   {
+    "item": "ALK and ROS1 plus one other driver",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Listing squamous cell carcinoma features",
+   "Omitting lepidic pattern",
+   "Confusing ALK with EGFR as a mutation rather than a rearrangement"
+  ],
+  "id": 34
+ },
+ {
+  "sitting": 4,
+  "marks": 6,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "topic": "Acute and chronic osteomyelitis",
+  "question": "Describe the pathogenesis and pathological features of acute and chronic osteomyelitis, including the named complications. (6 marks)",
+  "model_answer": "Acute osteomyelitis:\n1. Causes: haematogenous spread, direct spread from adjacent infection, or contamination after trauma or surgery. Staphylococcus aureus is the commonest organism; Salmonella is associated with sickle cell disease.\n2. Haematogenous infection in children begins in the metaphysis, where sluggish sinusoidal flow favours bacterial seeding.\n3. Neutrophilic inflammation raises intramedullary pressure, causing ischaemia and bone necrosis.\n4. Pus lifts the periosteum and may form a subperiosteal abscess.\n5. Dead bone is termed a sequestrum.\nChronic osteomyelitis:\n1. Develops when acute disease is inadequately treated.\n2. Involucrum: reactive new bone forming around the sequestrum.\n3. Cloacae: openings in the involucrum that drain pus, sometimes through sinus tracts to skin.\n4. Chronic inflammatory infiltrate with fibrosis.\nComplications:\n1. Septic arthritis, particularly in infants where the physis is crossed by vessels.\n2. Brodie abscess.\n3. Pathological fracture.\n4. Squamous carcinoma in a long-standing sinus tract.\n5. Amyloidosis.",
+  "mark_scheme": [
+   {
+    "item": "Organism and route of spread",
+    "marks": 1
+   },
+   {
+    "item": "Metaphyseal location and mechanism of seeding",
+    "marks": 1
+   },
+   {
+    "item": "Neutrophilic inflammation with ischaemic necrosis",
+    "marks": 1
+   },
+   {
+    "item": "Sequestrum",
+    "marks": 0.5
+   },
+   {
+    "item": "Involucrum and cloaca",
+    "marks": 1
+   },
+   {
+    "item": "Subperiosteal abscess or sinus tract",
+    "marks": 0.5
+   },
+   {
+    "item": "Two named complications",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Describing radiological periosteal reaction instead of pathology",
+   "Confusing sequestrum and involucrum",
+   "Omitting the metaphysis"
+  ],
+  "id": 35
+ },
+ {
+  "sitting": 4,
+  "marks": 6,
+  "domain": "neuropathology_and_head_and_neck",
+  "topic": "Multiple sclerosis",
+  "question": "Describe the pathology of multiple sclerosis, including the macroscopic distribution of plaques and the microscopic features of acute and chronic lesions. (6 marks)",
+  "model_answer": "Definition: chronic immune-mediated demyelinating disease of the central nervous system, with relapsing-remitting course in most patients. It is more common in young women and in people living at higher latitudes.\nPathogenesis: autoreactive T cells, mainly Th1 and Th17, and B cells directed against myelin antigens, with genetic (HLA-DRB1*15:01) and environmental factors, notably Epstein-Barr virus.\nMacroscopic:\n1. Sharply demarcated grey-tan plaques in white matter.\n2. Favoured sites: periventricular white matter, optic nerves and chiasm, brainstem, cerebellar peduncles and spinal cord.\n3. Plaques arise around small veins, producing the radial distribution perpendicular to the ventricles.\nMicroscopic:\n1. Acute active plaque: perivenular lymphocytes and macrophages containing myelin debris, with oligodendrocyte loss and relative axonal preservation.\n2. Chronic plaque: gliosis, sparse inflammation and marked axonal loss, forming a shadow plaque where remyelination is incomplete.\n3. Cortical grey matter lesions also occur.",
+  "mark_scheme": [
+   {
+    "item": "Definition as CNS demyelination",
+    "marks": 0.5
+   },
+   {
+    "item": "Immune pathogenesis (T cells, plus one other factor)",
+    "marks": 1
+   },
+   {
+    "item": "Periventricular and other typical white matter sites",
+    "marks": 1
+   },
+   {
+    "item": "Perivenular orientation of plaques",
+    "marks": 0.5
+   },
+   {
+    "item": "Acute lesion: macrophages with myelin debris and axonal sparing",
+    "marks": 1.5
+   },
+   {
+    "item": "Chronic lesion: gliosis and axonal loss",
+    "marks": 1.5
+   }
+  ],
+  "common_errors": [
+   "Describing MRI lesion appearances instead of pathology",
+   "Stating that peripheral nerves are involved",
+   "Stating that oligodendrocytes are spared in acute lesions"
+  ],
+  "id": 36
+ },
+ {
+  "sitting": 4,
+  "marks": 6,
+  "domain": "general_pathology",
+  "topic": "Amyloidosis",
+  "question": "Define amyloid and list six types of amyloidosis, stating the precursor protein for each. (6 marks)",
+  "model_answer": "Definition: extracellular deposition of misfolded proteins arranged as beta-pleated sheet fibrils, which stain pink with Congo red and show apple-green birefringence under polarised light. Fibrils are non-branching and about 7.5 to 10 nm wide, accompanied by serum amyloid P component.\nSix types:\n1. AL (light chain) amyloidosis: immunoglobulin light chains from a plasma cell clone, as in myeloma. Involves heart, kidney, tongue and nerves.\n2. AA (secondary, reactive) amyloidosis: serum amyloid A, an acute phase protein, in chronic inflammation such as rheumatoid arthritis. Kidneys are commonly affected.\n3. Hereditary transthyretin amyloidosis (ATTRv): mutant transthyretin; neuropathy and cardiomyopathy.\n4. Wild-type transthyretin amyloidosis (ATTRwt): normal transthyretin in the elderly, causing cardiac amyloidosis.\n5. Dialysis-related amyloidosis: beta-2 microglobulin.\n6. Alzheimer disease: amyloid beta from amyloid precursor protein. Other examples include islet amyloid polypeptide in type 2 diabetes and calcitonin in medullary thyroid carcinoma.",
+  "mark_scheme": [
+   {
+    "item": "Definition: extracellular misfolded protein with beta-pleated sheet structure",
+    "marks": 1
+   },
+   {
+    "item": "Congo red staining with apple-green birefringence",
+    "marks": 1
+   },
+   {
+    "item": "Six types each with correct precursor protein, 0.5 mark per type",
+    "marks": 3
+   },
+   {
+    "item": "Organ involvement for AL or AA",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Naming organ involvement but no precursor protein",
+   "Stating Congo red stains amyloid blue",
+   "Confusing AA with AL precursors"
+  ],
+  "id": 37
+ },
+ {
+  "sitting": 4,
+  "marks": 6,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "topic": "Testicular germ cell tumours",
+  "question": "A 28 year old man has a painless testicular mass. Classify testicular germ cell tumours and state the pathological features and tumour markers of each major type. (6 marks)",
+  "model_answer": "Classification (WHO 2022): derived from germ cell neoplasia in situ (GCNIS) are seminoma and non-seminomatous germ cell tumours (NSGCT). Prepubertal-type tumours, such as teratoma and yolk sac tumour in children, are not derived from GCNIS.\nSeminoma:\n1. Macroscopy: homogeneous, cream to tan, lobulated mass.\n2. Microscopy: sheets of uniform clear cells with central nuclei, separated by fibrous septa containing lymphocytes; granulomas may occur.\n3. Markers: placental alkaline phosphatase, OCT3/4, CD117. Beta-hCG is mildly raised in a minority.\nNon-seminomatous types:\n1. Embryonal carcinoma: haemorrhagic, necrotic mass; pleomorphic cells in glands and sheets.\n2. Yolk sac tumour: alpha-fetoprotein; Schiller-Duval bodies.\n3. Choriocarcinoma: beta-hCG; cytotrophoblast and syncytiotrophoblast, early haematogenous spread.\n4. Teratoma: tissues from all three germ layers.\nMixed tumours are common.\nSpread: seminoma tends to spread via lymphatics to para-aortic nodes; choriocarcinoma spreads early by blood.",
+  "mark_scheme": [
+   {
+    "item": "Origin from GCNIS and division into seminoma and NSGCT",
+    "marks": 1
+   },
+   {
+    "item": "Seminoma macroscopy and microscopy",
+    "marks": 1.5
+   },
+   {
+    "item": "Seminoma markers",
+    "marks": 0.5
+   },
+   {
+    "item": "Embryonal carcinoma features",
+    "marks": 0.5
+   },
+   {
+    "item": "Yolk sac tumour with AFP and Schiller-Duval bodies",
+    "marks": 1
+   },
+   {
+    "item": "Choriocarcinoma with beta-hCG",
+    "marks": 0.5
+   },
+   {
+    "item": "Teratoma with three germ layers",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Stating seminoma secretes alpha-fetoprotein",
+   "Omitting the mixed tumour category",
+   "Describing imaging and staging instead of pathology"
+  ],
+  "id": 38
+ },
+ {
+  "sitting": 4,
+  "marks": 6,
+  "domain": "cardiovascular_and_vascular",
+  "topic": "Atherosclerosis pathogenesis",
+  "question": "Outline the pathogenesis of atherosclerosis and describe the features of a complicated plaque. (6 marks)",
+  "model_answer": "Risk factors: dyslipidaemia, hypertension, smoking, diabetes mellitus, age, male sex, family history, inflammation.\nPathogenesis (response to injury and lipid retention):\n1. Endothelial dysfunction at sites of turbulent flow, with increased permeability.\n2. Low density lipoprotein enters and is retained in the intima, where it is oxidised.\n3. Monocytes adhere, migrate in and become macrophages that engulf oxidised LDL to form foam cells.\n4. Fatty streak: the earliest lesion, composed of foam cells.\n5. T cell activation, cytokines and growth factor release stimulate smooth muscle cell migration and proliferation, with extracellular matrix synthesis.\n6. Mature plaque: a fibrous cap over a necrotic lipid core.\nComplicated plaque:\n1. Rupture, ulceration or erosion of the cap.\n2. Thrombosis on the exposed surface, causing acute occlusion and infarction.\n3. Intraplaque haemorrhage and expansion.\n4. Calcification and weakening of the media, leading to aneurysm formation.\n5. Embolisation of atheromatous debris.",
+  "mark_scheme": [
+   {
+    "item": "Risk factors, any three",
+    "marks": 0.5
+   },
+   {
+    "item": "Endothelial injury and LDL retention with oxidation",
+    "marks": 1
+   },
+   {
+    "item": "Monocyte to macrophage to foam cell",
+    "marks": 1
+   },
+   {
+    "item": "Fatty streak as early lesion",
+    "marks": 0.5
+   },
+   {
+    "item": "Smooth muscle proliferation and fibrous cap formation",
+    "marks": 1
+   },
+   {
+    "item": "Necrotic lipid core",
+    "marks": 0.5
+   },
+   {
+    "item": "Complications: rupture with thrombosis, haemorrhage, aneurysm, embolism",
+    "marks": 1.5
+   }
+  ],
+  "common_errors": [
+   "Describing only risk factors",
+   "Omitting the role of inflammation and macrophages",
+   "Describing the imaging findings of calcified plaque"
+  ],
+  "id": 39
+ },
+ {
+  "sitting": 4,
+  "marks": 6,
+  "domain": "haematology_paediatric_and_infection",
+  "topic": "Multiple myeloma",
+  "question": "Describe the pathology of multiple myeloma and explain the mechanisms of its bone, renal and haematological manifestations. (6 marks)",
+  "model_answer": "Definition: clonal neoplastic proliferation of plasma cells in the bone marrow, usually producing a monoclonal immunoglobulin (paraprotein) and free light chains. It is usually preceded by monoclonal gammopathy of undetermined significance.\nMarrow pathology: sheets of atypical plasma cells with eccentric nuclei and perinuclear clearing; Russell bodies (cytoplasmic) and Dutcher bodies (nuclear) are inclusions. Immunophenotype is CD138 positive.\nBone:\n1. Myeloma cells release RANKL and other cytokines, which activate osteoclasts and suppress osteoblasts.\n2. Punched-out lytic lesions, generalised osteopenia, pathological fractures and hypercalcaemia.\nRenal:\n1. Light chains (Bence Jones protein) precipitate in distal tubules as casts, forming cast nephropathy.\n2. Hypercalcaemia, amyloid deposition and light chain deposition also injure the kidney.\nHaematological:\n1. Marrow replacement causes normocytic anaemia and other cytopenias.\n2. Rouleaux on the blood film from paraprotein coating red cells.\n3. Immunosuppression with infections due to hypogammaglobulinaemia of normal immunoglobulins.",
+  "mark_scheme": [
+   {
+    "item": "Definition: clonal plasma cell neoplasm with paraprotein",
+    "marks": 1
+   },
+   {
+    "item": "Marrow plasma cell morphology",
+    "marks": 1
+   },
+   {
+    "item": "CD138 or inclusion bodies",
+    "marks": 0.5
+   },
+   {
+    "item": "Bone: osteoclast activation by cytokines such as RANKL",
+    "marks": 1
+   },
+   {
+    "item": "Renal: light chain cast nephropathy",
+    "marks": 1
+   },
+   {
+    "item": "Anaemia from marrow replacement",
+    "marks": 0.5
+   },
+   {
+    "item": "Rouleaux or infection susceptibility",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Describing skeletal survey appearances rather than mechanism",
+   "Stating the lesions are osteoblastic",
+   "Naming Reed-Sternberg cells"
+  ],
+  "id": 40
+ },
+ {
+  "sitting": 5,
+  "marks": 6,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "topic": "Colorectal adenoma-carcinoma sequence and staging",
+  "question": "A 62 year old man has a screening colonoscopy that removes a 1.5 cm villous polyp, and later a resected sigmoid carcinoma is staged. Describe the adenoma-carcinoma sequence and outline the pathological basis of TNM staging for colorectal carcinoma. (6 marks)",
+  "model_answer": "Adenoma-carcinoma sequence (chromosomal instability pathway, about 80 percent):\n1. Loss of APC (5q) gives early dysplastic crypts and a small adenoma.\n2. KRAS mutation promotes growth of a larger adenoma.\n3. Loss of 18q (SMAD4, DCC) and then TP53 (17p) marks transition to invasive carcinoma.\n4. Risk of malignancy rises with size over 1 cm, villous architecture and high grade dysplasia. Histological types: tubular, tubulovillous, villous.\n5. Alternative microsatellite instability pathway: mismatch repair loss (MLH1 promoter hypermethylation, BRAF V600E) through sessile serrated lesions, or germline defects in Lynch syndrome.\n\nStaging (TNM, depth and spread):\n- T1 submucosa; T2 muscularis propria; T3 through muscularis propria into pericolorectal tissue; T4a visceral peritoneum surface; T4b direct invasion of adjacent organs.\n- N1: 1 to 3 regional nodes; N2: 4 or more.\n- M1: distant metastasis, most often liver by portal drainage, then lung.\n- Prognosis also depends on margin status, extramural vascular invasion and grade.",
+  "mark_scheme": [
+   {
+    "item": "APC loss as the initiating event with small adenoma",
+    "marks": 1
+   },
+   {
+    "item": "KRAS then SMAD4/DCC and TP53 loss in correct order",
+    "marks": 1
+   },
+   {
+    "item": "Adenoma risk factors (size, villous, high grade dysplasia)",
+    "marks": 1
+   },
+   {
+    "item": "Microsatellite instability or serrated pathway named with mechanism",
+    "marks": 1
+   },
+   {
+    "item": "T categories by depth of invasion correctly stated",
+    "marks": 1
+   },
+   {
+    "item": "N and M categories with node counts and liver as commonest site",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Placing TP53 loss early and APC loss late",
+   "Stating T3 as invasion of adjacent organs",
+   "Omitting the microsatellite instability pathway",
+   "Giving imaging features instead of the pathological basis of staging"
+  ],
+  "id": 41
+ },
+ {
+  "sitting": 5,
+  "marks": 6,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "topic": "Cirrhosis causes, pathology and complications",
+  "question": "Define cirrhosis. List the main causes and describe the macroscopic and microscopic pathology and the principal complications. (6 marks)",
+  "model_answer": "Definition: diffuse liver disease with bridging fibrosis and conversion of normal architecture into regenerative nodules, usually irreversible in established form.\n\nCauses: chronic alcohol use; chronic hepatitis B and C; metabolic dysfunction associated steatotic liver disease; autoimmune hepatitis; primary biliary cholangitis and primary sclerosing cholangitis; haemochromatosis; Wilson disease; alpha-1 antitrypsin deficiency; cryptogenic.\n\nMechanism: repeated injury activates hepatic stellate cells, which deposit collagen types I and III.\n\nMacroscopy: shrunken, firm, nodular liver with a knobbly surface. Micronodular (under 3 mm, typical of alcohol) or macronodular (over 3 mm, typical of viral hepatitis) or mixed.\n\nMicroscopy: fibrous septa linking portal tracts and central veins, regenerative hepatocyte nodules, loss of the normal lobular pattern, with features of the underlying cause.\n\nComplications:\n- Portal hypertension: varices, ascites, splenomegaly.\n- Hepatic encephalopathy and coagulopathy from synthetic failure.\n- Spontaneous bacterial peritonitis and hepatorenal syndrome.\n- Hepatocellular carcinoma.",
+  "mark_scheme": [
+   {
+    "item": "Definition including bridging fibrosis and regenerative nodules",
+    "marks": 1
+   },
+   {
+    "item": "At least five valid causes",
+    "marks": 1
+   },
+   {
+    "item": "Stellate cell activation and collagen deposition",
+    "marks": 1
+   },
+   {
+    "item": "Macroscopic features including micro versus macronodular",
+    "marks": 1
+   },
+   {
+    "item": "Microscopic features",
+    "marks": 1
+   },
+   {
+    "item": "Complications including portal hypertension and hepatocellular carcinoma",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Describing cirrhosis as reversible fibrosis only",
+   "Stating the liver is always enlarged",
+   "Omitting regenerative nodules from the definition",
+   "Listing only portal hypertension as a complication"
+  ],
+  "id": 42
+ },
+ {
+  "sitting": 5,
+  "marks": 6,
+  "domain": "obstetric_gynaecological_and_breast",
+  "topic": "Mucinous and germ cell ovarian tumours",
+  "question": "Compare the pathology of mucinous ovarian tumours with that of a mature cystic teratoma. Name two other ovarian germ cell tumours. (6 marks)",
+  "model_answer": "Mucinous tumours:\n- Surface epithelial tumours, benign, borderline or malignant, mostly unilateral.\n- Large multilocular cystic masses filled with sticky mucin.\n- Lined by tall columnar mucin-secreting cells resembling intestinal or endocervical epithelium; KRAS mutations are common.\n- Carcinomas are usually unilateral and over 10 cm; bilateral, small or surface-involving mucinous tumours are more likely metastatic from the appendix, colon or pancreas, and rupture can cause pseudomyxoma peritonei.\n\nMature cystic teratoma (dermoid cyst):\n- Commonest ovarian germ cell tumour, usually in young women.\n- Contains mature tissue from all three germ layers.\n- Usually a unilocular cyst lined by skin with hair, sebum, and sometimes teeth; a Rokitansky protuberance is the solid mural nodule. About 10 to 15 percent bilateral.\n- Complications: torsion, rupture, autoimmune haemolytic anaemia, anti-NMDA receptor encephalitis, rare squamous carcinoma transformation.\n\nOther germ cell tumours: dysgerminoma, yolk sac tumour (also immature teratoma, choriocarcinoma).",
+  "mark_scheme": [
+   {
+    "item": "Mucinous: multilocular, mucin-filled, columnar epithelium, benign to malignant spectrum",
+    "marks": 1
+   },
+   {
+    "item": "Mucinous: metastasis from gastrointestinal tract to be excluded with discriminating features",
+    "marks": 1
+   },
+   {
+    "item": "Pseudomyxoma peritonei or KRAS mentioned",
+    "marks": 0.5
+   },
+   {
+    "item": "Teratoma: three germ layers and young women",
+    "marks": 1
+   },
+   {
+    "item": "Teratoma: unilocular cyst with skin, hair, Rokitansky nodule",
+    "marks": 1
+   },
+   {
+    "item": "Teratoma complications",
+    "marks": 1
+   },
+   {
+    "item": "Two other valid germ cell tumours",
+    "marks": 0.5
+   }
+  ],
+  "common_errors": [
+   "Describing a dermoid as predominantly solid",
+   "Stating mucinous carcinomas are usually bilateral",
+   "Forgetting to exclude a gastrointestinal primary",
+   "Naming a sex cord-stromal tumour as a germ cell tumour"
+  ],
+  "id": 43
+ },
+ {
+  "sitting": 5,
+  "marks": 6,
+  "domain": "respiratory_and_mediastinum",
+  "topic": "Small cell lung carcinoma and pulmonary neuroendocrine tumours",
+  "question": "Describe the pathology of small cell lung carcinoma and compare it with typical carcinoid tumour. (6 marks)",
+  "model_answer": "Small cell lung carcinoma:\n- Strongly associated with smoking; central, perihilar mass with early nodal and distant spread.\n- Microscopy: sheets of small cells with scant cytoplasm, nuclear moulding, finely granular (salt and pepper) chromatin, absent nucleoli, very high mitotic rate, extensive necrosis, crush artefact and basophilic vascular encrustation (Azzopardi effect).\n- Immunohistochemistry: synaptophysin, chromogranin and CD56 positive; Ki-67 very high.\n- Biallelic loss of TP53 and RB1.\n- Paraneoplastic syndromes: SIADH, ectopic ACTH, Lambert-Eaton syndrome.\n\nTypical carcinoid:\n- Low grade neuroendocrine tumour; fewer than 2 mitoses per 2 mm2 and no necrosis (atypical: 2 to 10 mitoses and/or punctate necrosis).\n- Younger patients, often non-smokers; central endobronchial polypoid lesion; may be peripheral.\n- Organoid nests and trabeculae of uniform cells; carcinoid syndrome is uncommon.\n- Excellent prognosis after resection.\n\nThe spectrum is typical carcinoid, atypical carcinoid, large cell neuroendocrine carcinoma and small cell carcinoma.",
+  "mark_scheme": [
+   {
+    "item": "Central location, smoking, early spread",
+    "marks": 1
+   },
+   {
+    "item": "Cytological features of small cell carcinoma",
+    "marks": 1
+   },
+   {
+    "item": "Necrosis, high mitoses or crush artefact",
+    "marks": 0.5
+   },
+   {
+    "item": "Neuroendocrine markers and TP53/RB1",
+    "marks": 1
+   },
+   {
+    "item": "Paraneoplastic syndromes",
+    "marks": 0.5
+   },
+   {
+    "item": "Typical carcinoid grading by mitoses and necrosis",
+    "marks": 1
+   },
+   {
+    "item": "Carcinoid clinical features and prognosis",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Stating small cell carcinoma is usually peripheral",
+   "Saying carcinoids are strongly linked to smoking",
+   "Confusing typical and atypical carcinoid criteria",
+   "Omitting neuroendocrine markers"
+  ],
+  "id": 44
+ },
+ {
+  "sitting": 5,
+  "marks": 6,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "topic": "Osteonecrosis",
+  "question": "Outline the causes, pathogenesis and pathological features of osteonecrosis (avascular necrosis) of the femoral head. (6 marks)",
+  "model_answer": "Causes (about 90 percent have a recognised risk factor):\n- Trauma, especially displaced femoral neck fracture.\n- Corticosteroids and alcohol.\n- Sickle cell disease, Gaucher disease, systemic lupus erythematosus.\n- Radiation, decompression sickness, bisphosphonate or denosumab exposure (jaw), idiopathic.\n\nPathogenesis: interruption of blood supply by vascular disruption, intravascular occlusion (thrombosis, fat or gas embolism, sickling) or vessel compression, causing ischaemic death of bone and marrow.\n\nMacroscopy:\n- Subchondral wedge-shaped segment, base against the subchondral plate, apex towards the centre.\n- Yellow, chalky necrotic bone bordered by a hyperaemic rim.\n- Overlying cartilage may survive initially, nourished by synovial fluid, then separates from underlying bone.\n- Subchondral fracture and collapse, then secondary osteoarthritis.\n\nMicroscopy:\n- Dead trabeculae with empty lacunae, necrotic marrow fat, dystrophic calcification.\n- Reactive granulation tissue at the margin, with creeping substitution and new bone laid over dead bone.\n\nMedullary infarcts of the metaphysis or diaphysis usually do not collapse.",
+  "mark_scheme": [
+   {
+    "item": "At least four valid causes",
+    "marks": 1
+   },
+   {
+    "item": "Pathogenesis by interrupted blood supply with a mechanism",
+    "marks": 1
+   },
+   {
+    "item": "Subchondral wedge-shaped infarct with base at subchondral plate",
+    "marks": 1
+   },
+   {
+    "item": "Hyperaemic rim, cartilage survival and subchondral collapse",
+    "marks": 1
+   },
+   {
+    "item": "Histology: empty lacunae and necrotic marrow",
+    "marks": 1
+   },
+   {
+    "item": "Reparative response and secondary osteoarthritis",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Placing the wedge apex at the subchondral plate",
+   "Stating cartilage dies immediately with the bone",
+   "Using imaging signs such as the crescent sign in place of pathology",
+   "Listing osteoporosis as a cause"
+  ],
+  "id": 45
+ },
+ {
+  "sitting": 5,
+  "marks": 6,
+  "domain": "neuropathology_and_head_and_neck",
+  "topic": "CNS infection: meningitis and brain abscess",
+  "question": "Compare acute bacterial meningitis and cerebral abscess with respect to causative organisms, routes of infection, pathology and complications. (6 marks)",
+  "model_answer": "Acute bacterial meningitis:\n- Organisms by age: group B streptococcus and Escherichia coli in neonates; Streptococcus pneumoniae and Neisseria meningitidis in children and adults; Listeria in the elderly and immunosuppressed.\n- Spread: haematogenous from nasopharynx, or direct from sinus, ear or skull fracture.\n- Pathology: purulent exudate of neutrophils in the subarachnoid space, congested meningeal vessels, cloudy CSF with neutrophils, raised protein and low glucose.\n- Complications: hydrocephalus, cerebral oedema, venous thrombosis and infarction, subdural effusion, cranial nerve deficits and deafness; meningococcal sepsis with adrenal haemorrhage (Waterhouse-Friderichsen).\n\nCerebral abscess:\n- Organisms: viridans and milleri streptococci, Staphylococcus aureus, anaerobes, often mixed.\n- Spread: contiguous from otitis media or sinusitis (temporal lobe, cerebellum, frontal lobe), haematogenous from endocarditis or lung sepsis (middle cerebral territory, grey-white junction), or penetrating trauma.\n- Pathology: cerebritis, then liquefactive necrosis with a fibrous capsule, surrounded by gliosis and oedema.\n- Complications: mass effect and herniation, rupture into the ventricles, seizures.",
+  "mark_scheme": [
+   {
+    "item": "Organisms of meningitis by age group",
+    "marks": 1
+   },
+   {
+    "item": "Pathology and CSF findings of meningitis",
+    "marks": 1
+   },
+   {
+    "item": "Complications of meningitis",
+    "marks": 1
+   },
+   {
+    "item": "Organisms of abscess",
+    "marks": 0.5
+   },
+   {
+    "item": "Routes of spread with typical sites",
+    "marks": 1.5
+   },
+   {
+    "item": "Abscess pathology: cerebritis, necrosis, capsule",
+    "marks": 0.5
+   },
+   {
+    "item": "Abscess complications",
+    "marks": 0.5
+   }
+  ],
+  "common_errors": [
+   "Stating tuberculous meningitis organisms as typical of acute bacterial disease",
+   "Describing abscess wall as formed immediately",
+   "Omitting routes of spread",
+   "Confusing raised CSF glucose with bacterial infection"
+  ],
+  "id": 46
+ },
+ {
+  "sitting": 5,
+  "marks": 6,
+  "domain": "general_pathology",
+  "topic": "Venous thrombosis and pulmonary embolism, Virchow triad",
+  "question": "State the components of Virchow triad with examples of each. Describe the pathology of deep vein thrombosis and the consequences of pulmonary embolism. (6 marks)",
+  "model_answer": "Virchow triad:\n1. Endothelial injury: trauma, surgery, indwelling lines, inflammation.\n2. Abnormal blood flow: stasis from immobility, heart failure, varicose veins, pregnancy.\n3. Hypercoagulability: inherited (factor V Leiden, prothrombin G20210A, antithrombin, protein C or S deficiency); acquired (malignancy, pregnancy, oral contraceptive, antiphospholipid syndrome, heparin-induced thrombocytopenia).\n\nDeep vein thrombosis:\n- Venous (red) thrombi form in stasis, rich in red cells and fibrin with fewer platelets.\n- Mainly leg deep veins (popliteal, femoral, iliac); extend proximally in the direction of flow and may be occlusive.\n- Over 95 percent of pulmonary emboli arise from leg deep veins above the knee.\n\nPulmonary embolism consequences:\n- Small emboli are often clinically silent and lyse.\n- Large saddle embolus at the bifurcation: sudden death or acute right heart failure.\n- Pulmonary infarction in about 10 percent: wedge-shaped, peripheral, haemorrhagic, typically with underlying cardiac or lung disease.\n- Recurrent emboli: chronic thromboembolic pulmonary hypertension.\n- Paradoxical embolism through a patent foramen ovale.",
+  "mark_scheme": [
+   {
+    "item": "Three components of the triad named",
+    "marks": 1
+   },
+   {
+    "item": "Valid examples for each component, including inherited thrombophilia",
+    "marks": 1
+   },
+   {
+    "item": "Venous thrombus composition and propagation",
+    "marks": 1
+   },
+   {
+    "item": "Source of emboli: proximal leg deep veins",
+    "marks": 1
+   },
+   {
+    "item": "Acute consequences: silent, saddle embolus, sudden death or right heart strain",
+    "marks": 1
+   },
+   {
+    "item": "Infarction and chronic consequences",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Naming hypertension as a component of the triad",
+   "Stating most emboli arise in calf veins and are large",
+   "Claiming pulmonary infarction is usual in healthy lungs",
+   "Omitting hypercoagulability examples"
+  ],
+  "id": 47
+ },
+ {
+  "sitting": 5,
+  "marks": 6,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "topic": "Phaeochromocytoma and MEN syndromes",
+  "question": "Describe the pathology of phaeochromocytoma. Outline the genetic syndromes associated with it, including the multiple endocrine neoplasia (MEN) syndromes. (6 marks)",
+  "model_answer": "Phaeochromocytoma:\n- Tumour of adrenal medullary chromaffin cells producing catecholamines; presents with paroxysmal hypertension, headache, sweating and palpitations; diagnosed by raised plasma or urinary metanephrines.\n- Macroscopy: well circumscribed, tan to brown on cut, often with haemorrhage; darkens with dichromate.\n- Microscopy: nests (Zellballen) of polygonal cells with granular cytoplasm separated by delicate capillaries and S100-positive sustentacular cells; chromogranin and synaptophysin positive.\n- Malignancy cannot be diagnosed from cytology or architecture alone; only metastases to nodes, bone, liver or lung establish it. Extra-adrenal tumours are paragangliomas.\n\nAssociated syndromes (a large fraction are hereditary):\n- MEN2A (RET): medullary thyroid carcinoma, phaeochromocytoma, parathyroid hyperplasia.\n- MEN2B (RET): medullary thyroid carcinoma, phaeochromocytoma, mucosal neuromas, marfanoid habitus.\n- Von Hippel-Lindau, neurofibromatosis type 1 and SDHx mutations.\n- MEN1 (menin) is pituitary, parathyroid and pancreatic tumours and does not typically include phaeochromocytoma.",
+  "mark_scheme": [
+   {
+    "item": "Chromaffin cell origin and catecholamine secretion with clinical effect",
+    "marks": 1
+   },
+   {
+    "item": "Macroscopic features",
+    "marks": 1
+   },
+   {
+    "item": "Zellballen pattern and immunohistochemistry",
+    "marks": 1
+   },
+   {
+    "item": "Malignancy defined only by metastases",
+    "marks": 1
+   },
+   {
+    "item": "MEN2A and MEN2B components with RET",
+    "marks": 1
+   },
+   {
+    "item": "Other associated syndromes and MEN1 correctly distinguished",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Including phaeochromocytoma in MEN1",
+   "Stating malignancy can be diagnosed by mitotic count alone",
+   "Placing origin in the adrenal cortex",
+   "Forgetting hereditary syndromes beyond MEN"
+  ],
+  "id": 48
+ },
+ {
+  "sitting": 5,
+  "marks": 6,
+  "domain": "cardiovascular_and_vascular",
+  "topic": "Infective endocarditis",
+  "question": "Describe the aetiology, risk factors, pathology and complications of infective endocarditis. (6 marks)",
+  "model_answer": "Aetiology:\n- Viridans streptococci: subacute disease on previously damaged native valves.\n- Staphylococcus aureus: acute, destructive disease on normal valves, intravenous drug use (often tricuspid) and healthcare-related infection.\n- Prosthetic valves: coagulase-negative staphylococci early; also enterococci, HACEK organisms and fungi; culture-negative cases include Coxiella and Bartonella.\n\nRisk factors: rheumatic valve disease, mitral valve prolapse, bicuspid aortic valve, other congenital heart disease, prosthetic valves, intravenous drug use, indwelling lines and dental or other bacteraemia sources.\n\nPathology:\n- Friable vegetations on the line of valve closure (atrial surface of mitral, ventricular surface of aortic), made of fibrin, platelets, organisms and inflammatory cells.\n- Valve destruction, leaflet perforation, chordal rupture, and ring abscess with conduction block.\n\nComplications:\n- Cardiac: acute regurgitation and heart failure, conduction defects.\n- Embolic: infarcts in brain, spleen and kidney; mycotic aneurysm; septic pulmonary emboli from right-sided disease.\n- Immune complex: glomerulonephritis, Osler nodes, Roth spots; Janeway lesions and splinter haemorrhages are embolic.",
+  "mark_scheme": [
+   {
+    "item": "Organisms matched to valve type and acuity",
+    "marks": 1
+   },
+   {
+    "item": "Risk factors",
+    "marks": 1
+   },
+   {
+    "item": "Vegetation composition and location on valve",
+    "marks": 1
+   },
+   {
+    "item": "Valve destruction and ring abscess",
+    "marks": 1
+   },
+   {
+    "item": "Embolic complications",
+    "marks": 1
+   },
+   {
+    "item": "Cardiac and immune complex complications",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Attributing S aureus to subacute damaged valves",
+   "Placing vegetations on the opposite surface of the valve",
+   "Calling Janeway lesions immune complex lesions",
+   "Omitting right-sided septic emboli"
+  ],
+  "id": 49
+ },
+ {
+  "sitting": 5,
+  "marks": 6,
+  "domain": "haematology_paediatric_and_infection",
+  "topic": "Neuroblastoma and Wilms tumour",
+  "question": "Compare the pathology of neuroblastoma and Wilms tumour (nephroblastoma). (6 marks)",
+  "model_answer": "Neuroblastoma:\n- Tumour of primitive sympathetic neuroblasts; commonest extracranial solid tumour of infancy, mostly under 5 years.\n- Sites: adrenal medulla (about 40 percent) and paraspinal sympathetic chain, including abdomen, chest and pelvis.\n- Microscopy: small round blue cells with Homer Wright rosettes in a fibrillary neuropil background; differentiating forms contain ganglion cells.\n- Urinary catecholamine metabolites (VMA, HVA) are raised.\n- MYCN amplification and older age predict poor outcome; stage 4S in infants can regress spontaneously.\n\nWilms tumour:\n- Embryonal renal tumour, peak 2 to 5 years; arises in kidney, forms a large well-circumscribed mass with a pseudocapsule.\n- Classic triphasic microscopy: blastemal cells, epithelial tubules and glomeruloid structures, and stroma.\n- Diffuse anaplasia (TP53 mutation) indicates adverse prognosis.\n- Nephrogenic rests are precursor lesions.\n- Syndromes: WAGR and Denys-Drash (WT1), Beckwith-Wiedemann (11p15).\n- Spreads along renal vein to inferior vena cava, and to lung.\n\nBoth are small round blue cell tumours of childhood; the kidney origin, triphasic pattern and absence of catecholamine production separate Wilms tumour.",
+  "mark_scheme": [
+   {
+    "item": "Neuroblastoma origin, age and sites",
+    "marks": 1
+   },
+   {
+    "item": "Neuroblastoma microscopy with rosettes and neuropil",
+    "marks": 1
+   },
+   {
+    "item": "Neuroblastoma biology: catecholamines, MYCN, stage 4S",
+    "marks": 1
+   },
+   {
+    "item": "Wilms origin, age and gross appearance",
+    "marks": 1
+   },
+   {
+    "item": "Wilms triphasic histology",
+    "marks": 1
+   },
+   {
+    "item": "Wilms genetics, anaplasia and spread",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Assigning Homer Wright rosettes to Wilms tumour",
+   "Stating MYCN amplification is favourable",
+   "Omitting the blastemal component",
+   "Describing neuroblastoma as arising in the renal parenchyma"
+  ],
+  "id": 50
+ },
+ {
+  "sitting": 6,
+  "marks": 6,
+  "domain": "respiratory_and_mediastinum",
+  "topic": "Malignant mesothelioma",
+  "question": "A 68 year old retired boilermaker presents with breathlessness and a unilateral pleural effusion, and biopsy confirms malignant pleural mesothelioma. Outline the aetiology, the macroscopic and microscopic pathology, and the key molecular and immunohistochemical features of this tumour. (6 marks)",
+  "model_answer": "Aetiology:\n1. Asbestos exposure is the dominant cause, with a long latency of about 20 to 40 years. Amphibole fibres (crocidolite, amosite) are the most potent. Other causes are erionite and prior thoracic radiation.\n2. Fibres reach the pleura, cause chronic inflammation and reactive oxygen species, and drive DNA damage.\n\nMacroscopic:\n3. Diffuse pleural thickening that encases the lung in a rind of firm grey-white tumour, with obliteration of the pleural space. It extends into fissures and may invade chest wall, diaphragm, pericardium and mediastinum. A pleural effusion is common.\n\nMicroscopic:\n4. Three main types: epithelioid (most common, tubulopapillary or solid nests), sarcomatoid (spindle cells, worst prognosis) and biphasic (both components).\n\nImmunohistochemistry and molecular:\n5. Mesothelial markers are positive: calretinin, WT1, cytokeratin 5/6 and D2-40. Adenocarcinoma markers such as TTF-1, CEA and Ber-EP4 are negative or weak.\n6. Loss of BAP1 nuclear staining, homozygous CDKN2A deletion and NF2 mutation are frequent.\n\nPrognosis is poor, with median survival of about 12 months.",
+  "mark_scheme": [
+   {
+    "item": "Asbestos as the main cause with a latency of decades",
+    "marks": 1
+   },
+   {
+    "item": "Other causes (erionite or radiation) and fibre type or mechanism",
+    "marks": 1
+   },
+   {
+    "item": "Macroscopic pleural rind encasing lung with local invasion",
+    "marks": 1
+   },
+   {
+    "item": "Three histological types named (epithelioid, sarcomatoid, biphasic)",
+    "marks": 1
+   },
+   {
+    "item": "Positive mesothelial immunohistochemistry (calretinin, WT1, CK5/6, D2-40) with negative adenocarcinoma markers",
+    "marks": 1
+   },
+   {
+    "item": "Molecular changes (BAP1 loss, CDKN2A deletion or NF2)",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Stating a latency of only a few years",
+   "Describing a discrete mass rather than a diffuse rind encasing the lung",
+   "Listing TTF-1 as a mesothelioma marker",
+   "Describing radiological features when only pathology was asked"
+  ],
+  "id": 51
+ },
+ {
+  "sitting": 6,
+  "marks": 6,
+  "domain": "respiratory_and_mediastinum",
+  "topic": "Emphysema and chronic bronchitis (COPD)",
+  "question": "Define emphysema and chronic bronchitis, and describe the pathology of each. Include the morphological types of emphysema with their usual distribution within the lung and the main associated cause of each type. (6 marks)",
+  "model_answer": "Definitions:\n1. Emphysema is permanent enlargement of the airspaces distal to the terminal bronchiole with destruction of alveolar walls and without obvious fibrosis.\n2. Chronic bronchitis is a clinical diagnosis: persistent productive cough for at least 3 months in each of 2 consecutive years, after excluding other causes.\n\nPathology of chronic bronchitis:\n3. Hypertrophy of bronchial mucous glands (increased Reid index), goblet cell metaplasia, chronic inflammation and, later, bronchiolar fibrosis. Mucus plugging narrows the airways.\n\nTypes of emphysema:\n4. Centriacinar (centrilobular): central part of the acinus is affected, respiratory bronchioles dilated, distal alveoli spared. Upper lobes, apical segments. Cigarette smoking.\n5. Panacinar (panlobular): whole acinus uniformly enlarged. Lower lobes. Alpha-1 antitrypsin deficiency.\n6. Distal acinar (paraseptal): subpleural and along septa, may form bullae and cause spontaneous pneumothorax. Irregular emphysema is associated with scarring.\n\nPathogenesis: protease and antiprotease imbalance (neutrophil elastase) with oxidative stress from smoke.",
+  "mark_scheme": [
+   {
+    "item": "Definition of emphysema (permanent airspace enlargement with wall destruction, no fibrosis)",
+    "marks": 1
+   },
+   {
+    "item": "Clinical definition of chronic bronchitis (3 months for 2 consecutive years)",
+    "marks": 1
+   },
+   {
+    "item": "Mucous gland hypertrophy, goblet cell metaplasia or Reid index",
+    "marks": 1
+   },
+   {
+    "item": "Centriacinar type with upper lobe distribution and smoking",
+    "marks": 1
+   },
+   {
+    "item": "Panacinar type with lower lobe distribution and alpha-1 antitrypsin deficiency",
+    "marks": 1
+   },
+   {
+    "item": "Paraseptal or irregular type with correct feature or complication",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Reversing the lobar distribution of centriacinar and panacinar emphysema",
+   "Defining chronic bronchitis histologically rather than clinically",
+   "Describing CT signs instead of pathology",
+   "Stating that emphysema involves marked fibrosis"
+  ],
+  "id": 52
+ },
+ {
+  "sitting": 6,
+  "marks": 6,
+  "domain": "obstetric_gynaecological_and_breast",
+  "topic": "Endometriosis and adenomyosis",
+  "question": "Compare the pathology of endometriosis and adenomyosis. Include definitions, the common sites, the macroscopic appearances, the proposed pathogenesis of endometriosis and the main complications of each. (6 marks)",
+  "model_answer": "Definitions:\n1. Endometriosis: endometrial glands and stroma outside the uterus. Adenomyosis: endometrial glands and stroma within the myometrium, deep to the basalis.\n\nSites:\n2. Endometriosis: ovaries (most common), pouch of Douglas, uterosacral ligaments, fallopian tubes, pelvic peritoneum, bowel serosa, and rarely distant sites or scars. Adenomyosis: the myometrium of the uterine wall, diffusely or as a focal adenomyoma.\n\nMacroscopic:\n3. Endometriosis: red-blue to brown mucosal or serosal nodules (powder burn spots), and ovarian endometriomas (chocolate cysts) filled with old altered blood. Repeated bleeding causes fibrosis and dense adhesions.\n4. Adenomyosis: globular enlargement of the uterus with a thickened, trabeculated cut surface and small cystic spaces.\n\nPathogenesis of endometriosis:\n5. Retrograde menstruation (regurgitation theory), coelomic metaplasia, and vascular or lymphatic spread.\n\nComplications:\n6. Endometriosis: pain, infertility, adhesions and bowel obstruction, and rare malignant transformation to endometrioid or clear cell carcinoma. Adenomyosis: heavy menstrual bleeding and dysmenorrhoea.",
+  "mark_scheme": [
+   {
+    "item": "Correct definitions of both conditions",
+    "marks": 1
+   },
+   {
+    "item": "Sites of endometriosis and adenomyosis",
+    "marks": 1
+   },
+   {
+    "item": "Endometriosis macroscopic features (powder burn, chocolate cyst)",
+    "marks": 1
+   },
+   {
+    "item": "Adenomyosis macroscopic features (globular uterus, thickened wall)",
+    "marks": 1
+   },
+   {
+    "item": "Pathogenesis of endometriosis (retrograde menstruation, metaplasia, spread)",
+    "marks": 1
+   },
+   {
+    "item": "Complications of each, including infertility and malignant transformation",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Describing adenomyosis as endometrial tissue on the uterine serosa",
+   "Omitting the stroma from the definition",
+   "Stating that malignant transformation is common",
+   "Listing MRI signal characteristics when pathology was asked"
+  ],
+  "id": 53
+ },
+ {
+  "sitting": 6,
+  "marks": 6,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "topic": "Chronic viral hepatitis B and C",
+  "question": "Describe the pathology of chronic hepatitis B and chronic hepatitis C. Include the virus type, the characteristic histological features of each, the grading and staging of chronic hepatitis, and the major long-term complications. (6 marks)",
+  "model_answer": "Virus type:\n1. Hepatitis B is a DNA hepadnavirus. Hepatitis C is an RNA flavivirus. Chronic infection means persistence beyond 6 months.\n\nCommon histology:\n2. Portal chronic inflammation (lymphocytes), interface hepatitis (piecemeal necrosis) and lobular spotty necrosis, with variable fibrosis.\n\nHepatitis B specific:\n3. Ground glass hepatocytes (cytoplasm filled with HBsAg in smooth endoplasmic reticulum) and sanded nuclei (HBcAg). Immunostains for HBsAg and HBcAg confirm.\n\nHepatitis C specific:\n4. Lymphoid aggregates or follicles within portal tracts, bile duct damage, and macrovesicular steatosis (especially genotype 3).\n\nGrading and staging:\n5. Grade is the necroinflammatory activity (interface and lobular). Stage is the extent of fibrosis from portal expansion through bridging to cirrhosis (for example the METAVIR or Ishak systems).\n\nComplications:\n6. Cirrhosis with portal hypertension and hepatocellular carcinoma. HBV can cause carcinoma without cirrhosis through viral integration. HCV infection is now curable with direct acting antivirals.",
+  "mark_scheme": [
+   {
+    "item": "Virus types (DNA hepadnavirus and RNA flavivirus) and persistence over 6 months",
+    "marks": 1
+   },
+   {
+    "item": "Common histological pattern (portal inflammation, interface hepatitis)",
+    "marks": 1
+   },
+   {
+    "item": "Ground glass hepatocytes and sanded nuclei for HBV",
+    "marks": 1
+   },
+   {
+    "item": "Lymphoid aggregates, bile duct damage or steatosis for HCV",
+    "marks": 1
+   },
+   {
+    "item": "Distinction of grade (activity) from stage (fibrosis)",
+    "marks": 1
+   },
+   {
+    "item": "Cirrhosis and hepatocellular carcinoma as complications",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Attributing ground glass hepatocytes to hepatitis C",
+   "Confusing grade with stage",
+   "Calling hepatitis C a DNA virus",
+   "Describing elastography findings instead of histology"
+  ],
+  "id": 54
+ },
+ {
+  "sitting": 6,
+  "marks": 6,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "topic": "Gout and calcium pyrophosphate disease",
+  "question": "Compare gout and calcium pyrophosphate dihydrate (CPPD) disease. Describe the crystal morphology and birefringence, the usual joints involved, the pathological lesions produced, and the pathogenesis of each. (6 marks)",
+  "model_answer": "Gout:\n1. Monosodium urate crystals: needle-shaped, strongly negatively birefringent under polarised light (yellow when parallel to the compensator axis).\n2. Joints: first metatarsophalangeal joint classically, then ankle, knee and small joints of the foot.\n3. Pathology: acute arthritis with neutrophilic synovitis, then chronic tophaceous gout. A tophus is an aggregate of urate crystals surrounded by foreign body giant cells and fibrosis. Tophi occur in the synovium, subcutis (helix of the ear) and bone, producing punched-out erosions with overhanging edges.\n4. Pathogenesis: hyperuricaemia from overproduction or reduced renal excretion, crystal phagocytosis and NLRP3 inflammasome activation with interleukin-1 release.\n\nCPPD disease:\n5. Calcium pyrophosphate crystals: rhomboid or rod-shaped, weakly positively birefringent. Joints: knee most common, then wrist and symphysis pubis. Pathology: chondrocalcinosis, deposits in hyaline cartilage and fibrocartilage (menisci, triangular fibrocartilage) and pseudogout attacks.\n6. Pathogenesis: increased pyrophosphate in cartilage, often age related, or secondary to haemochromatosis, hyperparathyroidism or hypomagnesaemia.",
+  "mark_scheme": [
+   {
+    "item": "Urate crystal shape and negative birefringence",
+    "marks": 1
+   },
+   {
+    "item": "CPP crystal shape and weak positive birefringence",
+    "marks": 1
+   },
+   {
+    "item": "Typical joints for both conditions",
+    "marks": 1
+   },
+   {
+    "item": "Tophus structure with giant cell reaction and erosions",
+    "marks": 1
+   },
+   {
+    "item": "Chondrocalcinosis as the CPPD lesion",
+    "marks": 1
+   },
+   {
+    "item": "Pathogenesis of both (hyperuricaemia, inflammasome; pyrophosphate excess and associations)",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Reversing the birefringence of the two crystals",
+   "Placing first MTP involvement in CPPD",
+   "Omitting the foreign body giant cell reaction of the tophus",
+   "Quoting radiographic signs without pathology"
+  ],
+  "id": 55
+ },
+ {
+  "sitting": 6,
+  "marks": 6,
+  "domain": "neuropathology_and_head_and_neck",
+  "topic": "Nasopharyngeal carcinoma and HPV-related oropharyngeal carcinoma",
+  "question": "Compare nasopharyngeal carcinoma with HPV-related oropharyngeal squamous cell carcinoma. Include the causative viruses, the usual anatomical origin, the histological subtypes or appearance, the diagnostic marker used for each, and the relative prognosis. (6 marks)",
+  "model_answer": "Nasopharyngeal carcinoma (NPC):\n1. Cause: Epstein-Barr virus, with strong geographic associations (southern China, Southeast Asia, North Africa) and dietary and genetic contributions.\n2. Origin: nasopharyngeal mucosa, most often the lateral wall and fossa of Rosenmuller (pharyngeal recess).\n3. WHO types: keratinising squamous cell carcinoma, non-keratinising carcinoma (differentiated or undifferentiated) and basaloid squamous carcinoma. Non-keratinising undifferentiated carcinoma shows large cells with vesicular nuclei and prominent nucleoli, with a dense lymphocytic infiltrate (lymphoepithelial pattern).\n4. Marker: EBV-encoded RNA by in situ hybridisation (EBER) is positive.\n\nHPV-related oropharyngeal carcinoma:\n5. Cause: high risk HPV, mainly type 16. Origin: lingual and palatine tonsillar crypt epithelium and base of tongue. Histology: usually non-keratinising, basaloid morphology with little maturation. Marker: strong diffuse p16 immunostaining as a surrogate, with HPV testing for confirmation.\n\nPrognosis:\n6. HPV-related carcinoma has a better prognosis and response to treatment than HPV-negative tumours. NPC is radiosensitive; EBV-negative keratinising types do worse.",
+  "mark_scheme": [
+   {
+    "item": "EBV as the cause of NPC and HPV 16 for oropharyngeal carcinoma",
+    "marks": 1
+   },
+   {
+    "item": "Origin of NPC (fossa of Rosenmuller)",
+    "marks": 1
+   },
+   {
+    "item": "Origin of HPV-related carcinoma (tonsillar crypts, base of tongue)",
+    "marks": 1
+   },
+   {
+    "item": "WHO histological subtypes of NPC and the lymphoepithelial pattern",
+    "marks": 0.5
+   },
+   {
+    "item": "Non-keratinising basaloid morphology of HPV-related carcinoma",
+    "marks": 0.5
+   },
+   {
+    "item": "EBER and p16 markers",
+    "marks": 1
+   },
+   {
+    "item": "Better prognosis of HPV-related carcinoma",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Using p16 as the marker for NPC",
+   "Stating that HPV-related carcinoma is typically keratinising",
+   "Placing NPC origin in the oropharynx",
+   "Listing nodal imaging patterns instead of pathology"
+  ],
+  "id": 56
+ },
+ {
+  "sitting": 6,
+  "marks": 6,
+  "domain": "general_pathology",
+  "topic": "Oncogenes, tumour suppressor genes and p53",
+  "question": "Define oncogene and tumour suppressor gene, giving one example of each. Describe the normal functions of p53 and the consequences of its loss in neoplasia. (6 marks)",
+  "model_answer": "Oncogene:\n1. A mutated or overexpressed version (from a proto-oncogene) of a gene that promotes cell growth. It acts by gain of function and is dominant, so one mutated allele is sufficient. Examples: RAS (point mutation, constitutive signalling), MYC (amplification or translocation), ERBB2/HER2 (amplification).\n\nTumour suppressor gene:\n2. A gene that restrains growth or promotes apoptosis, and cancer arises through loss of function. It is generally recessive at cellular level, requiring both alleles to be lost (Knudson two hit hypothesis). Examples: RB, APC, BRCA1 and TP53.\n\nNormal functions of p53 (guardian of the genome):\n3. Stabilised after DNA damage via ATM and CHK2 kinases, as MDM2 normally degrades it.\n4. Induces cell cycle arrest at G1/S through p21 (CDKN1A), allowing DNA repair.\n5. Triggers apoptosis through BAX and PUMA if damage is irreparable, and promotes senescence.\n\nLoss of p53:\n6. Damaged cells proliferate, mutations accumulate and genomic instability results. TP53 is mutated in over half of human cancers. Germline mutation causes Li-Fraumeni syndrome (sarcomas, breast cancer, brain tumours, leukaemia, adrenocortical carcinoma).",
+  "mark_scheme": [
+   {
+    "item": "Oncogene defined as gain of function and dominant, with an example",
+    "marks": 1
+   },
+   {
+    "item": "Tumour suppressor defined as loss of function with the two hit idea, with an example",
+    "marks": 1
+   },
+   {
+    "item": "p53 activation by DNA damage and its regulation by MDM2",
+    "marks": 1
+   },
+   {
+    "item": "Cell cycle arrest through p21",
+    "marks": 1
+   },
+   {
+    "item": "Apoptosis (BAX or PUMA) or senescence",
+    "marks": 1
+   },
+   {
+    "item": "Consequences of loss including genomic instability and Li-Fraumeni syndrome",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Calling a tumour suppressor gene dominant",
+   "Giving a tumour suppressor as an oncogene example",
+   "Forgetting that MDM2 degrades p53",
+   "Stating that p53 loss directly causes cell division rather than failure of arrest and apoptosis"
+  ],
+  "id": 57
+ },
+ {
+  "sitting": 6,
+  "marks": 6,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "topic": "Urothelial carcinoma of the bladder",
+  "question": "Describe the aetiology, the pathological types (including precursor lesions), and the pathological staging of urothelial carcinoma of the bladder. Mention the molecular pathways associated with low and high grade disease. (6 marks)",
+  "model_answer": "Aetiology:\n1. Cigarette smoking (most important), occupational aromatic amines (aniline dyes, 2-naphthylamine), cyclophosphamide, phenacetin and pelvic radiation. Schistosomiasis is linked mainly to squamous carcinoma.\n\nPathological types:\n2. Non-invasive papillary urothelial carcinoma: fibrovascular cores covered by urothelium, low grade or high grade. Low grade often recurs but rarely invades.\n3. Carcinoma in situ (flat): high grade cytologically malignant cells confined to the urothelium, often multifocal, high risk of progression to invasion.\n4. Invasive urothelial carcinoma, which may show divergent differentiation (squamous or glandular).\n\nMolecular:\n5. Low grade papillary tumours: FGFR3 and HRAS mutations. High grade tumours and carcinoma in situ: TP53 and RB inactivation.\n\nStaging (TNM):\n6. Ta: non-invasive papillary. Tis: carcinoma in situ. T1: invades lamina propria. T2: invades muscularis propria. T3: invades perivesical tissue. T4: invades adjacent organs such as prostatic stroma, uterus, vagina or pelvic wall. Field change explains multifocality and recurrence.",
+  "mark_scheme": [
+   {
+    "item": "Smoking and occupational or other aetiological factors",
+    "marks": 1
+   },
+   {
+    "item": "Non-invasive papillary carcinoma with low and high grade",
+    "marks": 1
+   },
+   {
+    "item": "Carcinoma in situ and invasive types",
+    "marks": 1
+   },
+   {
+    "item": "FGFR3 for low grade papillary disease",
+    "marks": 0.5
+   },
+   {
+    "item": "TP53 and RB for high grade disease and carcinoma in situ",
+    "marks": 0.5
+   },
+   {
+    "item": "T1 and T2 stage definitions",
+    "marks": 1
+   },
+   {
+    "item": "T3 and T4 stage definitions and Ta/Tis",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Stating that schistosomiasis causes urothelial rather than squamous carcinoma",
+   "Defining T1 as muscle invasion",
+   "Confusing Ta (papillary) with Tis (flat)",
+   "Describing CT urogram findings instead of pathology"
+  ],
+  "id": 58
+ },
+ {
+  "sitting": 6,
+  "marks": 6,
+  "domain": "cardiovascular_and_vascular",
+  "topic": "Large vessel vasculitis (giant cell arteritis and Takayasu arteritis)",
+  "question": "Compare giant cell arteritis with Takayasu arteritis. Include the typical patient, the vessels affected, the histological features, the main complications and the usual laboratory finding. (6 marks)",
+  "model_answer": "Giant cell (temporal) arteritis:\n1. Patient: over 50 years, more common in women, associated with polymyalgia rheumatica.\n2. Vessels: branches of the carotid artery, especially the temporal arteries, also the ophthalmic and vertebral arteries and sometimes the aorta.\n3. Histology: segmental, patchy (skip) granulomatous inflammation of the media and intima with multinucleated giant cells, fragmentation of the internal elastic lamina and intimal thickening with luminal narrowing.\n4. Complications: ischaemic optic neuropathy with permanent blindness, jaw claudication and stroke, and later aortic aneurysm or dissection.\n\nTakayasu arteritis:\n5. Patient: usually women under 50 (often under 40), more frequent in Asia. Vessels: aortic arch and its branches, descending aorta, and renal and pulmonary arteries. Histology: granulomatous inflammation with giant cells, followed by medial destruction, marked intimal fibrosis and adventitial scarring. Complications: narrowing causing weak or absent pulses, limb claudication, renovascular hypertension and aneurysm.\n6. Both show raised ESR and CRP.",
+  "mark_scheme": [
+   {
+    "item": "Typical age and sex for both conditions",
+    "marks": 1
+   },
+   {
+    "item": "Vessels of giant cell arteritis (temporal and other carotid branches)",
+    "marks": 0.5
+   },
+   {
+    "item": "Vessels of Takayasu arteritis (aortic arch and branches)",
+    "marks": 0.5
+   },
+   {
+    "item": "Histology of giant cell arteritis (granulomatous, skip lesions, elastic lamina fragmentation)",
+    "marks": 1
+   },
+   {
+    "item": "Histology of Takayasu arteritis (granulomatous then fibrosis)",
+    "marks": 1
+   },
+   {
+    "item": "Complications of both (blindness; pulseless disease, renovascular hypertension)",
+    "marks": 1
+   },
+   {
+    "item": "Raised inflammatory markers",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Giving 'under 50' as the age for giant cell arteritis",
+   "Describing the histology of the two diseases as clearly different",
+   "Stating that temporal arteritis spares the eye",
+   "Ignoring aortic involvement in giant cell arteritis"
+  ],
+  "id": 59
+ },
+ {
+  "sitting": 6,
+  "marks": 6,
+  "domain": "haematology_paediatric_and_infection",
+  "topic": "Sickle cell disease",
+  "question": "A child of African ancestry has recurrent painful crises and chronic haemolytic anaemia due to sickle cell disease. Outline the molecular basis and pathogenesis, and list six complications, giving the pathological mechanism of each. (6 marks)",
+  "model_answer": "Molecular basis:\n1. Point mutation in the beta globin gene (GAG to GTG) substitutes valine for glutamic acid at position 6, producing haemoglobin S. Autosomal recessive; heterozygotes (sickle trait) are usually asymptomatic and protected against falciparum malaria.\n\nPathogenesis:\n2. On deoxygenation HbS polymerises into rods that distort the red cell into a sickle shape. Sickling is promoted by hypoxia, acidosis, dehydration and a higher intracellular HbS concentration, and reduced by HbF. Repeated sickling damages the membrane, leading to extravascular haemolysis, and sickled cells adhere to endothelium and occlude microvessels.\n\nComplications:\n3. Splenic infarction with autosplenectomy in adulthood: recurrent infarction, predisposing to encapsulated organism sepsis. Splenic sequestration crisis in children.\n4. Acute chest syndrome: pulmonary vaso-occlusion and infection.\n5. Bone infarcts and avascular necrosis of the femoral head; osteomyelitis, classically Salmonella.\n6. Stroke from cerebral vasculopathy, aplastic crisis from parvovirus B19, renal papillary necrosis, priapism and pigment gallstones from chronic haemolysis.",
+  "mark_scheme": [
+   {
+    "item": "Beta globin point mutation with glutamic acid to valine at position 6",
+    "marks": 1
+   },
+   {
+    "item": "Polymerisation of deoxygenated HbS and sickling",
+    "marks": 1
+   },
+   {
+    "item": "Haemolysis and vaso-occlusion as the two consequences",
+    "marks": 1
+   },
+   {
+    "item": "Splenic complications with mechanism",
+    "marks": 1
+   },
+   {
+    "item": "Two further complications with mechanism (acute chest, bone, stroke or aplastic crisis)",
+    "marks": 1
+   },
+   {
+    "item": "Six complications in total with valid mechanisms",
+    "marks": 1
+   }
+  ],
+  "common_errors": [
+   "Naming valine to glutamic acid in the wrong direction",
+   "Stating that the spleen is enlarged in adults with sickle cell disease",
+   "Omitting the protective role of HbF",
+   "Describing radiographic findings rather than mechanisms"
+  ],
+  "id": 60
+ }
+]

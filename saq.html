@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Short Answer Practice</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:"Avenir Next","Segoe UI",system-ui,sans-serif;background:#F4F7FB;color:#1C2A3F;line-height:1.5}
+header{background:#1B3A6B;color:#fff;padding:.9rem 1rem;display:flex;justify-content:space-between;align-items:center;gap:1rem;flex-wrap:wrap}
+header h1{font-size:1.05rem}#timer{font-variant-numeric:tabular-nums;font-weight:700;font-size:1.1rem}
+main{max-width:860px;margin:0 auto;padding:1rem}
+.card{background:#fff;border:1px solid #DDE6F2;border-radius:10px;padding:1rem;margin-bottom:1rem}
+button{font:inherit;cursor:pointer;border-radius:8px;border:1px solid #1B3A6B;background:#fff;color:#1B3A6B;padding:.55rem .9rem;font-weight:600}
+button.primary{background:#1B3A6B;color:#fff}button:disabled{opacity:.45;cursor:default}
+input[type=password]{font:inherit;padding:.55rem;border:1px solid #B7C6DC;border-radius:8px;width:100%;max-width:280px}
+textarea{width:100%;min-height:190px;font:inherit;padding:.6rem;border:1px solid #B7C6DC;border-radius:8px;resize:vertical}
+.grid{display:flex;flex-wrap:wrap;gap:.35rem;margin:.6rem 0}
+.grid button{padding:.3rem .55rem;font-size:.82rem;min-width:2.3rem}
+.grid button.done{background:#DFF0E3;border-color:#5FA06B}.grid button.cur{background:#1B3A6B;color:#fff}
+.tag{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase;background:#E6EEF9;color:#1B3A6B;border-radius:6px;padding:.1rem .45rem;margin-right:.4rem}
+h2{font-size:1.05rem;color:#1B3A6B;margin-bottom:.4rem}h4{font-size:.78rem;text-transform:uppercase;letter-spacing:.04em;color:#1B3A6B;margin:.7rem 0 .2rem}
+ul{padding-left:1.2rem}.note{font-size:.84rem;color:#4A5B73}.row{display:flex;gap:.6rem;flex-wrap:wrap;margin-top:.7rem}
+label.m{display:flex;gap:.5rem;align-items:flex-start;margin:.25rem 0}.ans{white-space:pre-wrap}
+[hidden]{display:none!important}
+</style></head><body>
+<header><h1>Pathology Short Answer Practice</h1><div id="timer" hidden></div></header>
+<main>
+<section id="gate" class="card"><h2>Enter your access code</h2>
+<p class="note" style="margin-bottom:.6rem">The code is printed in your book beside the simulator QR code.</p>
+<input id="code" type="password" placeholder="Access code" autocomplete="off"> <button class="primary" id="go">Continue</button>
+<p id="gerr" class="note" style="color:#B3261E" hidden>That code is not right. Check it and try again.</p></section>
+<section id="menu" class="card" hidden><h2>Choose a practice mode</h2>
+<p class="note">The real Pathology paper has 10 short answer questions worth 6 marks each (60 marks), sat in one 3 hour paper together with 100 multiple choice questions. RANZCR does not publish a time split, so a timed paper here gives you a practice allowance of 60 minutes for 10 questions. Write your answer, then reveal the model answer and mark yourself against the mark scheme. Your marking is a self-assessment: no pass mark is published, and results are shown against a practice benchmark of 60%.</p>
+<div class="row" id="modes"></div></section>
+<section id="exam" hidden>
+<div class="card"><div id="grid" class="grid"></div><p class="note" id="progress"></p></div>
+<div class="card" id="q"></div></section>
+<section id="done" class="card" hidden></section>
+</main>
+<script>
+const CODE="RPATH9000",KEY="rpath_saq_v1",SECS=3600;let qs=[],list=[],cur=0,mode="",endAt=0,tick=null;
+let S={};try{S=JSON.parse(localStorage.getItem(KEY)||"{}")}catch(e){S={}}
+function save(){try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){}}
+const $=id=>document.getElementById(id);
+function esc(s){return String(s).replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]))}
+function vals(v){return Array.isArray(v)?"<ul>"+v.map(x=>"<li>"+esc(x)+"</li>").join("")+"</ul>":"<p class='ans'>"+esc(v)+"</p>"}
+fetch("saq.json").then(r=>r.json()).then(d=>{qs=d;const sit=[...new Set(d.map(x=>x.sitting))].sort((a,b)=>a-b);
+ $("modes").innerHTML=sit.map(s=>`<button class="primary" data-mode="s${s}">Paper ${s}: timed, 10 questions, 60 min</button>`).join("")+`<button data-mode="free">Browse all ${d.length} questions, no timer</button>`;
+ document.querySelectorAll("[data-mode]").forEach(b=>b.onclick=()=>start(b.dataset.mode))});
+function unlock(){if($("code").value.trim().toUpperCase()===CODE){S.ok=1;save();$("gate").hidden=true;$("menu").hidden=false}else $("gerr").hidden=false}
+$("go").onclick=unlock;$("code").addEventListener("keydown",e=>{if(e.key==="Enter")unlock()});
+if(S.ok){$("gate").hidden=true;$("menu").hidden=false}
+function start(m){mode=m;list=m==="free"?qs.slice():qs.filter(c=>"s"+c.sitting===m);cur=0;
+ S.runs=S.runs||{};S.runs[m]=S.runs[m]||{};$("menu").hidden=true;$("exam").hidden=false;
+ if(m!=="free"){const r=S.runs[m];if(!r.end)r.end=Date.now()+SECS*1000;endAt=r.end;save();$("timer").hidden=false;tick=setInterval(clock,500);clock()}
+ draw()}
+function clock(){const left=Math.max(0,endAt-Date.now());const h=Math.floor(left/3600000),m=Math.floor(left%3600000/60000),s=Math.floor(left%60000/1000);
+ $("timer").textContent=`${h}:${String(m).padStart(2,"0")}:${String(s).padStart(2,"0")}`;if(left<=0){clearInterval(tick);finish()}}
+function rec(c){S.runs[mode]=S.runs[mode]||{};const r=S.runs[mode];r.q=r.q||{};return r.q[c.id]=r.q[c.id]||{text:"",marks:{},shown:false}}
+function draw(){const c=list[cur],r=rec(c);
+ $("grid").innerHTML=list.map((x,i)=>`<button class="${i===cur?"cur":(rec(x).text||rec(x).shown?"done":"")}" data-i="${i}">${i+1}</button>`).join("");
+ document.querySelectorAll("#grid button").forEach(b=>b.onclick=()=>{cur=+b.dataset.i;draw()});
+ const answered=list.filter(x=>rec(x).text.trim()).length;$("progress").textContent=`Question ${cur+1} of ${list.length}. Answers started: ${answered}.`;
+ let h=`<h2><span class="tag">${c.marks} marks</span>Question ${c.id}</h2><p>${esc(c.question)}</p><h4>Your answer</h4>
+ <textarea id="rep" placeholder="Write a structured answer.">${esc(r.text)}</textarea>
+ <div class="row"><button id="prev" ${cur===0?"disabled":""}>Previous</button><button id="next" ${cur===list.length-1?"disabled":""}>Next</button><button class="primary" id="rev">${r.shown?"Hide":"Reveal"} model answer</button>`+(mode!=="free"?`<button id="fin">Finish and score</button>`:"")+`</div>`;
+ if(r.shown){h+=`<div style="margin-top:1rem;border-top:1px solid #DDE6F2;padding-top:.5rem"><h4>Model answer</h4>`+vals(c.model_answer)+`<h4>Mark yourself against the scheme</h4>`+c.mark_scheme.map((m,i)=>`<label class="m"><input type="checkbox" data-m="${i}" ${r.marks[i]?"checked":""}><span>${esc(m.item)} <b>(${m.marks})</b></span></label>`).join("");
+  if(c.common_errors&&c.common_errors.length)h+=`<h4>Common candidate errors</h4>`+vals(c.common_errors);h+=`</div>`}
+ $("q").innerHTML=h;
+ $("rep").oninput=e=>{r.text=e.target.value;save()};
+ $("prev").onclick=()=>{cur--;draw()};$("next").onclick=()=>{cur++;draw()};
+ $("rev").onclick=()=>{r.shown=!r.shown;save();draw()};
+ document.querySelectorAll("[data-m]").forEach(cb=>cb.onchange=()=>{r.marks[cb.dataset.m]=cb.checked;save()});
+ if($("fin"))$("fin").onclick=()=>{const un=list.filter(x=>!rec(x).shown).length;if(!un||confirm(`${un} question(s) have no model answer revealed, so they will score zero. Finish now?`))finish()}}
+function finish(){clearInterval(tick);let got=0,tot=0;
+ for(const c of list){const r=rec(c);tot+=c.marks;let s=0;c.mark_scheme.forEach((m,i)=>{if(r.marks[i])s+=m.marks});got+=Math.min(s,c.marks)}
+ const pct=Math.round(100*got/tot);const above=pct>=60;
+ $("exam").hidden=true;$("timer").hidden=true;$("done").hidden=false;
+ $("done").innerHTML=`<h2>Your self-marked score</h2><p style="font-size:1.4rem;font-weight:700;margin:.4rem 0">${got % 1 ? got.toFixed(1) : got} / ${tot} (${pct}%)</p>
+ <p><b>${above?"ABOVE":"BELOW"} PRACTICE BENCHMARK</b> of 60%. RANZCR standard-sets each sitting and publishes no fixed percentage, so this is a study guide only, not a prediction of your result.</p>
+ <div class="row"><button class="primary" id="again">Back to menu</button></div>`;
+ $("again").onclick=()=>{if(mode!=="free"){delete S.runs[mode];save()}$("done").hidden=true;$("menu").hidden=false}}
+</script></body></html>

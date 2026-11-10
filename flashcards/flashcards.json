@@ -1,0 +1,3502 @@
+[
+ {
+  "id": 1,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "What distinguishes hypoxia from ischaemia?",
+  "back": "Hypoxia is reduced oxygen supply. Ischaemia is reduced blood supply, which also removes nutrients and impairs washout of metabolites, so it injures tissue faster."
+ },
+ {
+  "id": 2,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "What is the earliest biochemical event in hypoxic cell injury?",
+  "back": "Loss of oxidative phosphorylation with a fall in ATP. This fails the sodium-potassium pump, so sodium and water enter the cell and it swells."
+ },
+ {
+  "id": 3,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "What are the two microscopic hallmarks of reversible cell injury?",
+  "back": "Cellular swelling (hydropic change) and fatty change. Both can be reversed if the insult is removed."
+ },
+ {
+  "id": 4,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "Which imaging findings indicate hepatic steatosis on ultrasound, CT and MRI?",
+  "back": "Increased echogenicity on ultrasound, reduced attenuation relative to the spleen on unenhanced CT, and signal loss on out-of-phase chemical shift MRI."
+ },
+ {
+  "id": 5,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "What phenomena consistently mark the point of irreversible cell injury?",
+  "back": "Inability to reverse mitochondrial dysfunction after reperfusion, and profound plasma membrane damage."
+ },
+ {
+  "id": 6,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "Name the three nuclear changes of necrosis.",
+  "back": "Pyknosis (shrinkage and hyperchromasia), karyorrhexis (fragmentation) and karyolysis (fading of the nucleus)."
+ },
+ {
+  "id": 7,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "Which pattern of necrosis typically follows ischaemia in solid organs other than brain, and what is its imaging correlate?",
+  "back": "Coagulative necrosis, with preserved architecture. In kidney or spleen it appears as a peripheral wedge of non-enhancement with the base on the capsule."
+ },
+ {
+  "id": 8,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "Which tissues undergo liquefactive necrosis?",
+  "back": "Bacterial abscesses and cerebral infarcts. The tissue is digested by hydrolytic enzymes and becomes a cyst-like space."
+ },
+ {
+  "id": 9,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "What are the macroscopic and microscopic features of caseous necrosis?",
+  "back": "Macroscopically soft, white and cheese-like. Microscopically amorphous granular eosinophilic debris with no preserved architecture, ringed by a granulomatous reaction."
+ },
+ {
+  "id": 10,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "What is saponification and where does it occur?",
+  "back": "Fatty acids released by lipases combine with calcium to form soaps in fat necrosis, as in acute pancreatitis. Macroscopically these are chalky white areas."
+ },
+ {
+  "id": 11,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "In which conditions is fibrinoid necrosis seen?",
+  "back": "Immune-mediated vasculitis and malignant hypertension, where immune complexes and fibrin deposit in vessel walls."
+ },
+ {
+  "id": 12,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "What is the imaging sign of gas gangrene?",
+  "back": "Gas locules within soft tissue on radiograph or CT, due to Clostridium species."
+ },
+ {
+  "id": 13,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "When do infarcts appear red rather than white?",
+  "back": "With venous occlusion, in loose tissue such as lung, in organs with dual circulation, and when blood reflows into necrotic tissue. White infarcts occur in solid organs with end-arterial supply."
+ },
+ {
+  "id": 14,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "How does the apoptotic cell differ from the necrotic cell microscopically?",
+  "back": "Apoptosis shows a shrunken cell with dense eosinophilic cytoplasm, condensed fragmented chromatin and apoptotic bodies, with an intact membrane and no inflammation."
+ },
+ {
+  "id": 15,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "How do phagocytes recognise apoptotic cells?",
+  "back": "By phosphatidylserine flipped to the outer leaflet of the plasma membrane."
+ },
+ {
+  "id": 16,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "Which proteins regulate the intrinsic apoptotic pathway?",
+  "back": "Anti-apoptotic BCL2 and BCL-XL oppose pro-apoptotic BAX and BAK. When BAX and BAK dominate, cytochrome c is released and forms the apoptosome with APAF-1 to activate caspase 9."
+ },
+ {
+  "id": 17,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "Which caspase initiates the extrinsic (death receptor) pathway?",
+  "back": "Caspase 8, activated by FAS ligand binding FAS or by TNF binding its receptor. Both pathways converge on executioner caspases 3 and 6."
+ },
+ {
+  "id": 18,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "Which translocation links apoptosis failure to follicular lymphoma?",
+  "back": "t(14;18), which overexpresses BCL2 and blocks apoptosis."
+ },
+ {
+  "id": 19,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "What is the role of p53 in cell injury?",
+  "back": "p53 induces cell cycle arrest and, if DNA damage cannot be repaired, apoptosis."
+ },
+ {
+  "id": 20,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "Distinguish dystrophic from metastatic calcification.",
+  "back": "Dystrophic calcification occurs in dead or damaged tissue with normal serum calcium. Metastatic calcification occurs in normal tissue and always reflects hypercalcaemia."
+ },
+ {
+  "id": 21,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "Which tissues favour metastatic calcification?",
+  "back": "Tissues with an alkaline interior because they lose acid: gastric mucosa, kidney, lung and systemic arteries."
+ },
+ {
+  "id": 22,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "Which lesions classically show psammomatous calcification?",
+  "back": "Papillary thyroid carcinoma, meningioma and serous ovarian tumours."
+ },
+ {
+  "id": 23,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "What conditions are associated with eggshell nodal calcification?",
+  "back": "Silicosis and sarcoidosis."
+ },
+ {
+  "id": 24,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "How does haemosiderin appear, and what is the MRI correlate of iron overload in the liver?",
+  "back": "Golden-brown pigment staining blue with Prussian blue. The liver shows marked signal loss on T2-weighted and gradient-echo MRI."
+ },
+ {
+  "id": 25,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "What are the five classic signs of acute inflammation?",
+  "back": "Rubor, tumor, calor, dolor and functio laesa (redness, swelling, heat, pain and loss of function)."
+ },
+ {
+  "id": 26,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "How does an exudate differ from a transudate?",
+  "back": "An exudate is protein-rich and results from increased vascular permeability. A transudate is protein-poor and results from hydrostatic or osmotic imbalance."
+ },
+ {
+  "id": 27,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "List the sequence of leukocyte recruitment.",
+  "back": "Margination, rolling, adhesion, transmigration and chemotaxis."
+ },
+ {
+  "id": 28,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "Which molecules mediate rolling and firm adhesion of leukocytes?",
+  "back": "Selectins (P, E and L) mediate rolling. Integrins binding ICAM-1 and VCAM-1 mediate firm adhesion, and PECAM-1 mediates transmigration."
+ },
+ {
+  "id": 29,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "Which cell predominates early and which later in acute inflammation?",
+  "back": "Neutrophils in the first 6 to 24 hours, then monocytes and macrophages at 24 to 48 hours."
+ },
+ {
+  "id": 30,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "What is the defect in chronic granulomatous disease?",
+  "back": "Deficiency of NADPH oxidase, so reactive oxygen species are not generated and catalase-positive organisms cause recurrent infection."
+ },
+ {
+  "id": 31,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "What is the defect in leukocyte adhesion deficiency?",
+  "back": "Defective integrins, causing delayed umbilical cord separation and recurrent infection without pus."
+ },
+ {
+  "id": 32,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "Which mediator is the potent complement chemotactic agent?",
+  "back": "C5a."
+ },
+ {
+  "id": 33,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "What is the imaging correlate of an abscess?",
+  "back": "A rim-enhancing collection with a central region of restricted diffusion on MRI, with gas locules if gas-forming organisms are present."
+ },
+ {
+  "id": 34,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "What is the dominant cell in chronic inflammation and which cytokine activates the M1 type?",
+  "back": "The macrophage. Interferon gamma from T helper 1 cells produces the classically activated M1 macrophage, which kills microbes."
+ },
+ {
+  "id": 35,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "What is a granuloma and how do immune and foreign body types differ?",
+  "back": "A focal aggregate of epithelioid macrophages, often with giant cells. Immune granulomas follow a T cell response to poorly degradable antigen. Foreign body granulomas arise from inert material without a T cell response."
+ },
+ {
+  "id": 36,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "Which diseases produce non-caseating granulomas?",
+  "back": "Sarcoidosis, Crohn disease and berylliosis. Caseating granulomas are characteristic of tuberculosis."
+ },
+ {
+  "id": 37,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "Distinguish a Ghon complex from a Ranke complex.",
+  "back": "A Ghon complex is the subpleural Ghon focus plus the enlarged hilar node. When it calcifies it is called a Ranke complex."
+ },
+ {
+  "id": 38,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "What is the difference between a hypertrophic scar and a keloid?",
+  "back": "A hypertrophic scar stays within the wound margin. A keloid extends beyond the original wound and has thick collagen bundles."
+ },
+ {
+  "id": 39,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "Which tissue classes can regenerate and which heal by scarring?",
+  "back": "Labile and stable tissues regenerate. Permanent tissues such as neurons and cardiac myocytes heal by scarring."
+ },
+ {
+  "id": 40,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "What are the features of granulation tissue?",
+  "back": "Macroscopically pink, soft and granular. Microscopically proliferating fibroblasts and new capillaries in loose matrix, with angiogenesis driven by VEGF."
+ },
+ {
+  "id": 41,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "What are the Congo red findings and main amyloid types?",
+  "back": "Apple-green birefringence under polarised light. AL arises from light chains, AA from serum amyloid A, ATTR from transthyretin, and beta 2 microglobulin occurs in dialysis patients."
+ },
+ {
+  "id": 42,
+  "domain": "general_pathology",
+  "chapter": "Cell Injury Inflammation and Repair",
+  "front": "How does bone scintigraphy help distinguish ATTR from AL cardiac amyloid?",
+  "back": "ATTR shows intense myocardial uptake of technetium pyrophosphate or diphosphonate tracer. AL is typically negative or weak."
+ },
+ {
+  "id": 43,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "What is the difference between dysplasia and carcinoma in situ?",
+  "back": "Dysplasia is disordered epithelial growth that has not breached the basement membrane. Carcinoma in situ is full thickness dysplasia, still without invasion."
+ },
+ {
+  "id": 44,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "Which imaging features favour malignancy over benign disease?",
+  "back": "Irregular or spiculated margin, invasion of fat planes, vessels or bone, necrosis and rapid growth. These are probabilities and histology decides."
+ },
+ {
+  "id": 45,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "What are the three routes of tumour spread?",
+  "back": "Seeding of body cavities (transcoelomic), lymphatic spread and haematogenous spread."
+ },
+ {
+  "id": 46,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "Which route of spread is the usual early route for carcinomas and which is favoured by sarcomas?",
+  "back": "Carcinomas usually spread first by lymphatics. Sarcomas favour haematogenous spread."
+ },
+ {
+  "id": 47,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "Why is the liver the first destination for colorectal metastases?",
+  "back": "Gut venous blood drains through the portal vein to the liver."
+ },
+ {
+  "id": 48,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "Which two tumours characteristically grow as tumour thrombus in veins?",
+  "back": "Renal cell carcinoma into the renal vein and inferior vena cava, and hepatocellular carcinoma into the portal and hepatic veins. Tumour thrombus enhances after contrast, unlike bland thrombus."
+ },
+ {
+  "id": 49,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "What early change allows tumour cells to detach from each other?",
+  "back": "Loss of E cadherin."
+ },
+ {
+  "id": 50,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "How do grading and staging differ?",
+  "back": "Grading is histological estimate of aggressiveness by differentiation and mitotic count. Staging is the extent of spread, and it usually carries more prognostic weight."
+ },
+ {
+  "id": 51,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "What do the prefixes c, p and y mean in TNM staging?",
+  "back": "c is clinical staging including imaging, p is pathological staging after resection, y is staging after neoadjuvant therapy."
+ },
+ {
+  "id": 52,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "Which is the most commonly mutated oncogene in human tumours, and which is the most commonly mutated tumour suppressor?",
+  "back": "RAS is the most commonly mutated oncogene. TP53 is the most commonly mutated tumour suppressor gene."
+ },
+ {
+  "id": 53,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "What translocation activates MYC in Burkitt lymphoma?",
+  "back": "t(8;14)."
+ },
+ {
+  "id": 54,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "Which translocation produces the BCR-ABL fusion and in which disease?",
+  "back": "The Philadelphia chromosome t(9;22), in chronic myeloid leukaemia."
+ },
+ {
+  "id": 55,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "What is the prognostic significance of N-MYC amplification?",
+  "back": "It occurs in neuroblastoma and indicates poor prognosis."
+ },
+ {
+  "id": 56,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "State Knudson's two hit hypothesis.",
+  "back": "Both alleles of a tumour suppressor gene must be lost. In hereditary cases the first hit is inherited in every cell, so tumours arise earlier and are often bilateral or multifocal."
+ },
+ {
+  "id": 57,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "What is the Warburg effect and its imaging relevance?",
+  "back": "Tumours take up glucose and use glycolysis even when oxygen is available. This is the basis of FDG PET."
+ },
+ {
+  "id": 58,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "Which tumour causes hypercalcaemia through PTHrP?",
+  "back": "Typically squamous cell carcinoma of lung."
+ },
+ {
+  "id": 59,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "Which paraneoplastic syndromes are linked to small cell lung carcinoma?",
+  "back": "ACTH secretion causing Cushing syndrome, ADH secretion causing SIADH, and Lambert Eaton myasthenic syndrome."
+ },
+ {
+  "id": 60,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "Which tumours can cause polycythaemia through erythropoietin?",
+  "back": "Renal cell carcinoma, hepatocellular carcinoma and cerebellar haemangioblastoma."
+ },
+ {
+  "id": 61,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "What is Trousseau syndrome and which tumour is classically associated?",
+  "back": "Migratory thrombophlebitis, classically with pancreatic carcinoma."
+ },
+ {
+  "id": 62,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "What are the key features of neurofibromatosis type 1?",
+  "back": "NF1 loss on chromosome 17: neurofibromas including plexiform, café au lait macules, Lisch nodules, optic pathway glioma and sphenoid wing dysplasia."
+ },
+ {
+  "id": 63,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "Which tumours define neurofibromatosis type 2?",
+  "back": "Bilateral vestibular schwannomas, with meningiomas and ependymomas. The gene is NF2 on chromosome 22."
+ },
+ {
+  "id": 64,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "Which renal lesion occurs in tuberous sclerosis and what is its imaging key?",
+  "back": "Angiomyolipoma, which contains macroscopic fat."
+ },
+ {
+  "id": 65,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "Name the CNS lesions of tuberous sclerosis.",
+  "back": "Cortical tubers, subependymal nodules and subependymal giant cell astrocytoma near the foramen of Monro."
+ },
+ {
+  "id": 66,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "Which tumours characterise von Hippel Lindau disease?",
+  "back": "Haemangioblastomas of cerebellum, spinal cord and retina, clear cell renal carcinoma, phaeochromocytoma, and pancreatic cysts or neuroendocrine tumours."
+ },
+ {
+  "id": 67,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "What gene defect causes Marfan syndrome and what are its cardiovascular risks?",
+  "back": "Fibrillin 1 defect, causing aortic root dilatation and dissection."
+ },
+ {
+  "id": 68,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "What is the pulmonary pattern of cystic fibrosis on imaging?",
+  "back": "Bronchiectasis predominantly in the upper lobes with mucus plugging. The gene is CFTR on chromosome 7."
+ },
+ {
+  "id": 69,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "What is the molecular change in sickle cell disease and a skeletal consequence?",
+  "back": "Valine replaces glutamic acid at position 6 of beta globin. Bone infarcts and avascular necrosis of the femoral head result."
+ },
+ {
+  "id": 70,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "Which abnormalities are associated with Down syndrome?",
+  "back": "Atrioventricular septal defect, duodenal atresia (double bubble sign), Hirschsprung disease, atlantoaxial instability and increased risk of acute leukaemia."
+ },
+ {
+  "id": 71,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "Which cardiovascular and renal anomalies occur in Turner syndrome (45,X)?",
+  "back": "Coarctation of the aorta, bicuspid aortic valve and horseshoe kidney, with streak ovaries."
+ },
+ {
+  "id": 72,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "What tumour risks accompany Klinefelter syndrome (47,XXY)?",
+  "back": "Male breast cancer and mediastinal germ cell tumours."
+ },
+ {
+  "id": 73,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "Which Starling force changes explain oedema in nephrotic syndrome and in heart failure?",
+  "back": "Nephrotic syndrome lowers plasma oncotic pressure through hypoalbuminaemia. Heart failure raises capillary hydrostatic pressure."
+ },
+ {
+  "id": 74,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "How do transudate and exudate differ, and what does an exudate indicate?",
+  "back": "A transudate is protein poor with low specific gravity. An exudate is protein rich and indicates inflammation or malignancy through increased permeability."
+ },
+ {
+  "id": 75,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "How does vasogenic cerebral oedema differ from cytotoxic oedema?",
+  "back": "Vasogenic oedema follows blood brain barrier breakdown, spreads through white matter and spares grey matter. Cytotoxic oedema follows cell swelling in infarction and involves both grey and white matter."
+ },
+ {
+  "id": 76,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "What are the three components of Virchow's triad?",
+  "back": "Endothelial injury, abnormal blood flow (stasis or turbulence) and hypercoagulability."
+ },
+ {
+  "id": 77,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "What is the most common inherited hypercoagulable state and its mechanism?",
+  "back": "Factor V Leiden, where factor V is resistant to inactivation by activated protein C."
+ },
+ {
+  "id": 78,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "What do lines of Zahn indicate?",
+  "back": "Alternating pale platelet and fibrin layers and darker red cell layers, distinguishing antemortem thrombus from postmortem clot."
+ },
+ {
+  "id": 79,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "What is the CT sign of acute pulmonary embolism and of right heart strain?",
+  "back": "A central filling defect surrounded by contrast. Right heart strain shows a dilated right ventricle, right to left ventricular ratio above 1, septal bowing to the left and contrast reflux into the inferior vena cava."
+ },
+ {
+  "id": 80,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "When does fat embolism syndrome present and what is the MRI pattern?",
+  "back": "One to three days after long bone fracture or trauma, with respiratory failure, neurological signs and petechial rash. Brain MRI shows a starfield pattern of small foci of restricted diffusion."
+ },
+ {
+  "id": 81,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "Which infarcts are white and which are red?",
+  "back": "White infarcts follow arterial occlusion in solid organs such as heart, spleen and kidney. Red infarcts follow venous occlusion or occur in loose or dual supply tissue such as lung and bowel."
+ },
+ {
+  "id": 82,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "What are the CT features of the hypoperfusion complex in shock?",
+  "back": "Flat inferior vena cava, small aorta, diffuse bowel wall thickening with intense mucosal enhancement and increased adrenal enhancement."
+ },
+ {
+  "id": 83,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "Name the four types of hypersensitivity with one example each.",
+  "back": "Type I IgE anaphylaxis, type II antibody against cell antigens as in Goodpasture syndrome, type III immune complex as in lupus, type IV T cell mediated as in tuberculosis."
+ },
+ {
+  "id": 84,
+  "domain": "general_pathology",
+  "chapter": "Neoplasia Genetics and Haemodynamics",
+  "front": "Why is pulmonary infarction uncommon after pulmonary embolism, and what does it look like?",
+  "back": "The lung has dual bronchial and pulmonary supply. When it occurs it is a peripheral pleural based wedge shaped opacity, the Hampton hump."
+ },
+ {
+  "id": 85,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "Which cell type and matrix make up the fibrous cap of an atheromatous plaque, and what features mark a vulnerable plaque?",
+  "back": "The cap is smooth muscle cells, collagen and macrophages. A vulnerable plaque has a thin cap, a large lipid core and many macrophages; a stable plaque has a thick collagenous cap, often with more calcium."
+ },
+ {
+  "id": 86,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What is the order of severity of atherosclerosis by vessel?",
+  "back": "Infrarenal abdominal aorta, then proximal coronary arteries (LAD first), popliteal arteries, internal carotid arteries and the circle of Willis."
+ },
+ {
+  "id": 87,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "How does Monckeberg medial calcific sclerosis differ from atherosclerosis?",
+  "back": "It calcifies the media of muscular arteries, does not narrow the lumen and is common in the elderly and in diabetes. Atherosclerosis is an intimal plaque disease."
+ },
+ {
+  "id": 88,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What cell is the hallmark of the fatty streak, and is it clinically significant?",
+  "back": "The macrophage-derived foam cell. The fatty streak is a flat yellow lesion with no flow limitation and is not clinically important."
+ },
+ {
+  "id": 89,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What are the complications of an atherosclerotic plaque?",
+  "back": "Rupture or erosion with thrombosis, haemorrhage into the plaque, atheroembolism of cholesterol crystals, and aneurysm formation through medial atrophy."
+ },
+ {
+  "id": 90,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "Which coronary artery most often causes myocardial infarction, and what does it supply?",
+  "back": "The left anterior descending artery (about 40 to 50 percent). It supplies the anterior left ventricle, the anterior two thirds of the septum and the apex."
+ },
+ {
+  "id": 91,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "Which coronary territory does the right coronary artery supply?",
+  "back": "The posterior left ventricular wall, the posterior septum and the right ventricle; it is the dominant vessel in most people."
+ },
+ {
+  "id": 92,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What are the light microscopic findings in an infarct at 1 to 3 days?",
+  "back": "Coagulative necrosis with loss of nuclei and striations and a maximal neutrophil infiltrate; the infarct is yellow-tan and mottled grossly."
+ },
+ {
+  "id": 93,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "When is the myocardium at greatest risk of rupture after infarction, and why?",
+  "back": "Days 3 to 7, when macrophages have removed necrotic muscle and the area is at maximal softening and has not yet been replaced by collagen."
+ },
+ {
+  "id": 94,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "When does a myocardial infarct become a mature white scar?",
+  "back": "By about two months, after granulation tissue (7 to 10 days) is replaced by collagen deposition over weeks 2 to 8."
+ },
+ {
+  "id": 95,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "Why is the posteromedial papillary muscle more often ruptured than the anterolateral?",
+  "back": "It has a single blood supply from the posterior descending artery, whereas the anterolateral muscle has a dual supply."
+ },
+ {
+  "id": 96,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "Which complication of infarction is the commonest cause of death in the first hours?",
+  "back": "Arrhythmia, especially ventricular fibrillation."
+ },
+ {
+  "id": 97,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What distinguishes a true ventricular aneurysm from a pseudoaneurysm after infarction?",
+  "back": "A true aneurysm is a scarred bulge containing myocardium replaced by scar and rarely ruptures. A pseudoaneurysm is a contained rupture walled by pericardium and thrombus and can rupture."
+ },
+ {
+  "id": 98,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What pattern of late gadolinium enhancement indicates ischaemic scar on cardiac MRI?",
+  "back": "Subendocardial enhancement extending towards the epicardium in a coronary territory, in contrast to midwall or epicardial enhancement in non-ischaemic disease."
+ },
+ {
+  "id": 99,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "Which type of infarct follows global hypotension, and where does it lie?",
+  "back": "A subendocardial infarct, confined to the inner third to half of the wall, the zone most vulnerable to hypoperfusion."
+ },
+ {
+  "id": 100,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What is the commonest genetic cause of dilated cardiomyopathy?",
+  "back": "Truncating variants in the titin gene (TTN). Other causes include alcohol, myocarditis, peripartum disease, anthracyclines and haemochromatosis."
+ },
+ {
+  "id": 101,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "Describe the macroscopic and microscopic hallmarks of hypertrophic cardiomyopathy.",
+  "back": "Asymmetric septal hypertrophy with a small left ventricular cavity; microscopically myocyte hypertrophy, myofibre disarray and interstitial fibrosis."
+ },
+ {
+  "id": 102,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What is the inheritance and typical gene involvement in hypertrophic cardiomyopathy?",
+  "back": "Autosomal dominant, with mutations in sarcomere genes such as MYH7 and MYBPC3."
+ },
+ {
+  "id": 103,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "How do restrictive cardiomyopathies differ morphologically from dilated forms?",
+  "back": "Ventricles are normal or near normal in size with stiff walls and often biatrial dilation. Causes include amyloid, sarcoid, haemochromatosis and radiation."
+ },
+ {
+  "id": 104,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What staining feature identifies cardiac amyloid?",
+  "back": "Congo red staining with apple-green birefringence under polarised light; the main forms are transthyretin and light chain."
+ },
+ {
+  "id": 105,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What defines Takotsubo cardiomyopathy?",
+  "back": "Transient apical ballooning with basal hyperkinesis after severe stress, mediated by catecholamines, with normal coronary arteries."
+ },
+ {
+  "id": 106,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What is the pathological change in arrhythmogenic right ventricular cardiomyopathy?",
+  "back": "Replacement of right ventricular myocardium by fat and fibrous tissue, usually from desmosomal gene mutations, causing arrhythmia and sudden death."
+ },
+ {
+  "id": 107,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What is the pathognomonic lesion of rheumatic heart disease?",
+  "back": "The Aschoff body, a granuloma with fibrinoid necrosis and Anitschkow cells with caterpillar-shaped nuclei."
+ },
+ {
+  "id": 108,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What is the mechanism of rheumatic fever and the usual chronic valve lesion?",
+  "back": "Molecular mimicry after group A streptococcal pharyngitis; the chronic lesion is mitral stenosis with commissural fusion and a fish-mouth orifice."
+ },
+ {
+  "id": 109,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "How does calcific aortic stenosis differ from rheumatic aortic stenosis?",
+  "back": "Calcific disease has calcium on the aortic side of the cusps without commissural fusion; rheumatic disease fuses the commissures."
+ },
+ {
+  "id": 110,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "At what age does a bicuspid aortic valve typically become stenotic?",
+  "back": "The fifth or sixth decade, earlier than the seventh or eighth decade of a normal tricuspid valve."
+ },
+ {
+  "id": 111,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "Which valves are affected in carcinoid heart disease, and why?",
+  "back": "The tricuspid and pulmonary valves, because the lungs inactivate serotonin released from hepatic metastases."
+ },
+ {
+  "id": 112,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What is the typical appearance of non-bacterial thrombotic endocarditis?",
+  "back": "Small, sterile, bland vegetations along the valve closure line, associated with malignancy (especially mucinous adenocarcinoma) and hypercoagulability."
+ },
+ {
+  "id": 113,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "Which organism usually causes acute infective endocarditis and in which valve in drug users?",
+  "back": "Staphylococcus aureus, which destroys normal valves; the tricuspid valve is commonly affected in injecting drug users."
+ },
+ {
+  "id": 114,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "Which organisms cause subacute endocarditis and on what valve?",
+  "back": "Viridans streptococci on previously damaged valves."
+ },
+ {
+  "id": 115,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "How do tricuspid endocarditis emboli appear on chest CT?",
+  "back": "Multiple peripheral, nodular, often cavitating pulmonary septic emboli."
+ },
+ {
+  "id": 116,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What is the macroscopic appearance of fibrinous pericarditis?",
+  "back": "A shaggy, 'bread and butter' appearance of the pericardial surfaces, seen in infarction, uraemia, radiation and rheumatic fever."
+ },
+ {
+  "id": 117,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What pericardial thickness suggests constrictive pericarditis on CT or MRI?",
+  "back": "Thickening greater than about 4 mm, with or without calcification, plus dilated IVC and hepatic veins."
+ },
+ {
+  "id": 118,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "Where do most cardiac myxomas arise and what is their attachment?",
+  "back": "About 75 to 80 percent are in the left atrium, attached by a stalk to the interatrial septum at the fossa ovalis."
+ },
+ {
+  "id": 119,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What are the histology and syndrome associations of cardiac myxoma?",
+  "back": "Stellate myxoma cells in an acid mucopolysaccharide matrix. Familial cases occur in Carney complex (PRKAR1A)."
+ },
+ {
+  "id": 120,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "Which cardiac tumour is commonest in children and with what disease?",
+  "back": "Rhabdomyoma, associated with tuberous sclerosis, with 'spider cells' and frequent regression."
+ },
+ {
+  "id": 121,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What is the commonest primary malignant cardiac tumour in adults and where does it occur?",
+  "back": "Angiosarcoma, usually in the right atrium."
+ },
+ {
+  "id": 122,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What are the four components of tetralogy of Fallot?",
+  "back": "Ventricular septal defect, overriding aorta, right ventricular outflow (infundibular) obstruction and right ventricular hypertrophy."
+ },
+ {
+  "id": 123,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What are the radiographic signs of coarctation of the aorta in older patients?",
+  "back": "Rib notching of the inferior surface of the posterior third to ninth ribs and the 3 sign at the coarctation site."
+ },
+ {
+  "id": 124,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What defines Stanford type A and type B aortic dissection and the usual management?",
+  "back": "Type A involves the ascending aorta and is managed surgically; type B begins distal to the left subclavian artery and is managed medically unless complicated."
+ },
+ {
+  "id": 125,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What is the histological hallmark of thoracic aortic aneurysm in Marfan syndrome?",
+  "back": "Cystic medial degeneration with loss of elastic fibres and smooth muscle and mucoid pools; Marfan syndrome involves FBN1."
+ },
+ {
+  "id": 126,
+  "domain": "cardiovascular_and_vascular",
+  "chapter": "Cardiac and Vascular Pathology",
+  "front": "What are the features of giant cell arteritis on histology?",
+  "back": "Granulomatous inflammation with multinucleated giant cells and fragmentation of the internal elastic lamina, in patients over 50."
+ },
+ {
+  "id": 127,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "Which atelectasis mechanism produces mediastinal shift towards the collapse?",
+  "back": "Resorption (obstructive) atelectasis, after complete airway obstruction by mucus, foreign body or tumour. Compression atelectasis from effusion or tension pneumothorax pushes the mediastinum away."
+ },
+ {
+  "id": 128,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "What causes patchy (micro) atelectasis?",
+  "back": "Loss of surfactant, as in neonatal respiratory distress syndrome and acute respiratory distress syndrome."
+ },
+ {
+  "id": 129,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "Which emphysema pattern is linked to smoking and predominates in the upper lobes?",
+  "back": "Centriacinar (centrilobular) emphysema, which affects the respiratory bronchioles and spares the distal alveoli."
+ },
+ {
+  "id": 130,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "Which emphysema pattern characterises alpha-1 antitrypsin deficiency and where is it worst?",
+  "back": "Panacinar emphysema, affecting the whole acinus uniformly and worst in the lower lobes."
+ },
+ {
+  "id": 131,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "Which emphysema type is the typical source of spontaneous pneumothorax in young adults?",
+  "back": "Distal acinar (paraseptal) emphysema, with subpleural bullae larger than 1 cm."
+ },
+ {
+  "id": 132,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "What is the pathogenetic basis of smoking related emphysema?",
+  "back": "An imbalance between proteases such as neutrophil elastase and antiproteases, with oxidative injury."
+ },
+ {
+  "id": 133,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "Which microscopic findings characterise atopic asthma?",
+  "back": "Thickened basement membrane, smooth muscle hypertrophy, mucous plugging, eosinophils, Charcot-Leyden crystals and Curschmann spirals."
+ },
+ {
+  "id": 134,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "How is bronchiectasis recognised on CT?",
+  "back": "The bronchus is wider than its accompanying artery (signet ring sign), with lack of tapering and bronchial wall thickening."
+ },
+ {
+  "id": 135,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "Which bronchiectasis pattern suggests allergic bronchopulmonary aspergillosis?",
+  "back": "Central bronchiectasis with mucoid impaction, in contrast to upper lobe predominance in cystic fibrosis."
+ },
+ {
+  "id": 136,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "What histological pattern defines idiopathic pulmonary fibrosis?",
+  "back": "Usual interstitial pneumonia: patchy subpleural fibrosis of varied age with fibroblastic foci beside normal lung."
+ },
+ {
+  "id": 137,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "Which CT features constitute a definite UIP pattern?",
+  "back": "Basal and subpleural reticulation with traction bronchiectasis and honeycombing."
+ },
+ {
+  "id": 138,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "What is the pathogenetic model of idiopathic pulmonary fibrosis?",
+  "back": "Repeated alveolar epithelial injury with aberrant repair driven by transforming growth factor beta."
+ },
+ {
+  "id": 139,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "How does nonspecific interstitial pneumonia differ histologically from UIP?",
+  "back": "It has uniform temporal appearance, whereas UIP is temporally heterogeneous. CT shows basal ground-glass with subpleural sparing."
+ },
+ {
+  "id": 140,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "What are Masson bodies and in which pattern do they occur?",
+  "back": "Plugs of loose granulation tissue in alveolar ducts and alveoli, in organising pneumonia, which responds to corticosteroids."
+ },
+ {
+  "id": 141,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "Which CT sign is associated with organising pneumonia?",
+  "back": "The reversed halo sign, with peripheral or peribronchovascular consolidation."
+ },
+ {
+  "id": 142,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "Which CT findings suggest hypersensitivity pneumonitis?",
+  "back": "Ground-glass opacity, centrilobular nodules and mosaic attenuation with air trapping on expiratory images; histology shows poorly formed non-necrotising granulomas."
+ },
+ {
+  "id": 143,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "What distinguishes progressive massive fibrosis in coal workers' pneumoconiosis?",
+  "back": "Black fibrotic masses larger than 1 cm, usually upper lobe, migrating towards the hila on imaging."
+ },
+ {
+  "id": 144,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "Which findings characterise silicosis?",
+  "back": "Upper lobe hard nodules with whorled collagen and birefringent particles, hilar node eggshell calcification, and increased risk of tuberculosis."
+ },
+ {
+  "id": 145,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "What are asbestos bodies?",
+  "back": "Asbestos fibres coated with iron and protein, appearing golden-brown and beaded; found in asbestosis."
+ },
+ {
+  "id": 146,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "How do pleural plaques appear and where do they spare?",
+  "back": "Discrete, often calcified fibrous plaques of the parietal pleura, sparing the costophrenic angles and apices."
+ },
+ {
+  "id": 147,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "Which asbestos related malignancy is not increased by smoking?",
+  "back": "Mesothelioma. Lung carcinoma risk is multiplied by smoking plus asbestos."
+ },
+ {
+  "id": 148,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "What is the histological hallmark of sarcoidosis?",
+  "back": "Tightly packed non-necrotising granulomas with epithelioid cells and giant cells; Schaumann and asteroid bodies are not specific."
+ },
+ {
+  "id": 149,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "What is the classic chest imaging pattern of sarcoidosis?",
+  "back": "Symmetric bilateral hilar and right paratracheal lymphadenopathy, with perilymphatic micronodules in the upper and middle zones."
+ },
+ {
+  "id": 150,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "What is Löfgren syndrome?",
+  "back": "Erythema nodosum, bilateral hilar lymphadenopathy and arthritis, a form of acute sarcoidosis with a good prognosis."
+ },
+ {
+  "id": 151,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "What are the four stages of lobar pneumonia?",
+  "back": "Congestion, red hepatisation, grey hepatisation and resolution."
+ },
+ {
+  "id": 152,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "How does bronchopneumonia differ morphologically from lobar pneumonia?",
+  "back": "Patchy peribronchial suppurative consolidation, often bilateral and basal, rather than homogeneous lobar consolidation."
+ },
+ {
+  "id": 153,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "What is the Ghon complex?",
+  "back": "The Ghon focus (subpleural primary focus) plus enlarged hilar nodes in primary tuberculosis; calcification gives the Ranke complex."
+ },
+ {
+  "id": 154,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "Why does secondary tuberculosis favour the upper lobe apices?",
+  "back": "High oxygen tension suits the aerobic organism; cavitation is frequent in a sensitised host."
+ },
+ {
+  "id": 155,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "What is the microscopic appearance of tuberculous granuloma?",
+  "back": "Caseating necrosis with epithelioid histiocytes, Langhans giant cells and a lymphocyte rim; organisms are shown by Ziehl-Neelsen stain."
+ },
+ {
+  "id": 156,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "What imaging sign indicates endobronchial spread of tuberculosis?",
+  "back": "Tree-in-bud nodules; miliary spread gives innumerable 1 to 3 mm randomly distributed nodules."
+ },
+ {
+  "id": 157,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "What is the source of more than 95 percent of pulmonary emboli?",
+  "back": "Deep vein thrombosis of the lower limbs."
+ },
+ {
+  "id": 158,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "Why do most pulmonary emboli not cause infarction?",
+  "back": "Dual supply from bronchial arteries; infarction usually needs pre-existing cardiac or lung disease and gives a wedge-shaped haemorrhagic subpleural infarct."
+ },
+ {
+  "id": 159,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "What CT pulmonary angiography finding suggests right heart strain?",
+  "back": "Enlarged right ventricle with bowing of the septum towards the left."
+ },
+ {
+  "id": 160,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "What is the definition of pulmonary hypertension and its main heritable gene?",
+  "back": "Mean pulmonary arterial pressure above 20 mmHg at rest; BMPR2 is the principal gene in heritable disease."
+ },
+ {
+  "id": 161,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "What is the precursor sequence of lung adenocarcinoma?",
+  "back": "Atypical adenomatous hyperplasia, adenocarcinoma in situ (3 cm or less, lepidic), minimally invasive adenocarcinoma (invasion 5 mm or less), then invasive adenocarcinoma."
+ },
+ {
+  "id": 162,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "Which histological features and paraneoplastic effect belong to squamous cell carcinoma?",
+  "back": "Central location, keratin pearls and intercellular bridges; PTHrP secretion causing hypercalcaemia."
+ },
+ {
+  "id": 163,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "Which features define small cell lung carcinoma?",
+  "back": "Small cells with nuclear moulding, crush artefact, high mitoses; positive for synaptophysin, chromogranin and CD56; ectopic ACTH, SIADH, Lambert-Eaton syndrome."
+ },
+ {
+  "id": 164,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "How are typical and atypical carcinoid distinguished?",
+  "back": "Typical: fewer than 2 mitoses per 2 mm squared and no necrosis. Atypical: 2 to 10 mitoses or punctate necrosis."
+ },
+ {
+  "id": 165,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "Which immunohistochemical markers favour mesothelioma over adenocarcinoma?",
+  "back": "Positive calretinin, WT1 and CK5/6; negative TTF-1 and CEA. BAP1 loss is typical."
+ },
+ {
+  "id": 166,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "What are the CT features of malignant mesothelioma?",
+  "back": "Nodular circumferential pleural thickening involving the mediastinal pleura, unilateral effusion and a contracted hemithorax."
+ },
+ {
+  "id": 167,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "Which mediastinal tumour is associated with myasthenia gravis and how is it staged?",
+  "back": "Thymoma, staged by Masaoka-Koga, with stage I encapsulated and stage IV pleural or pericardial dissemination or distant metastases."
+ },
+ {
+  "id": 168,
+  "domain": "respiratory_and_mediastinum",
+  "chapter": "Lung Pleura and Mediastinum",
+  "front": "Which serum markers help distinguish mediastinal germ cell tumours?",
+  "back": "Yolk sac tumour secretes alpha-fetoprotein; seminoma may mildly raise beta-hCG. Mature teratoma shows fat and calcification on CT."
+ },
+ {
+  "id": 169,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "What defines Barrett oesophagus histologically?",
+  "back": "Replacement of distal squamous epithelium by columnar epithelium with intestinal metaplasia, recognised by goblet cells. It predisposes to oesophageal adenocarcinoma."
+ },
+ {
+  "id": 170,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "Which oesophageal cancer type predominates in the distal third and why?",
+  "back": "Adenocarcinoma, driven by Barrett oesophagus, reflux and obesity. Squamous cell carcinoma favours the upper and middle thirds with tobacco and alcohol."
+ },
+ {
+  "id": 171,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "What is the pathological basis and barium appearance of primary achalasia?",
+  "back": "Loss of myenteric plexus ganglion cells with failure of lower oesophageal sphincter relaxation. Barium shows a dilated oesophagus tapering to a beak."
+ },
+ {
+  "id": 172,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "What are the diagnostic histology and imaging signs of eosinophilic oesophagitis?",
+  "back": "At least 15 intraepithelial eosinophils per high power field. Imaging shows fixed concentric rings (feline oesophagus) and a long narrow segment."
+ },
+ {
+  "id": 173,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "Which organism drives antral predominant gastritis and duodenal ulcer?",
+  "back": "Helicobacter pylori. Pangastritis with atrophy and intestinal metaplasia instead leads to gastric ulcer and carcinoma."
+ },
+ {
+  "id": 174,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "Which features separate a malignant from a benign gastric ulcer on contrast study?",
+  "back": "Malignant ulcers lie within a mass with a nodular, shouldered margin and clubbed, fused or amputated folds. Benign ulcers project beyond the gastric contour with smooth radiating folds."
+ },
+ {
+  "id": 175,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "How does the Lauren diffuse type of gastric cancer differ from the intestinal type?",
+  "back": "Diffuse type is discohesive signet ring cells linked to CDH1 loss and produces linitis plastica. Intestinal type forms glands and follows atrophic gastritis and metaplasia."
+ },
+ {
+  "id": 176,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "How can gastric MALT lymphoma be distinguished from linitis plastica on imaging?",
+  "back": "MALT lymphoma thickens folds or the wall but the stomach remains distensible. Linitis plastica gives a rigid, contracted, non-distensible stomach."
+ },
+ {
+  "id": 177,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "What are the immunohistochemical markers and driver mutations of a GIST?",
+  "back": "KIT (CD117) and DOG1 positive, with activating KIT or PDGFRA mutations. It arises from interstitial cells of Cajal and is treated with imatinib."
+ },
+ {
+  "id": 178,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "What are the serological and histological hallmarks of coeliac disease?",
+  "back": "Tissue transglutaminase antibodies with HLA-DQ2 or DQ8. Histology shows villous atrophy, crypt hyperplasia and raised intraepithelial lymphocytes."
+ },
+ {
+  "id": 179,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "Which malignant complications complicate coeliac disease?",
+  "back": "Enteropathy associated T cell lymphoma and small bowel adenocarcinoma. Ulcerative jejunoileitis and hyposplenism are other complications."
+ },
+ {
+  "id": 180,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "What is the imaging fold pattern change in coeliac disease?",
+  "back": "Jejunoileal fold pattern reversal, with fewer jejunal folds and more ileal folds. Transient non-obstructing intussusception is also common."
+ },
+ {
+  "id": 181,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "What are the pathological features of Crohn disease?",
+  "back": "Transmural inflammation with skip lesions, aphthous then linear ulcers, cobblestone mucosa, creeping fat and fistulae. Non-caseating granulomas are found in a minority of biopsies."
+ },
+ {
+  "id": 182,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "Which imaging signs reflect Crohn disease in the small bowel?",
+  "back": "Mural thickening with mucosal hyperenhancement, the comb sign of engorged vasa recta, and the string sign of a narrowed terminal ileum."
+ },
+ {
+  "id": 183,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "How does ulcerative colitis differ from Crohn disease in distribution and depth?",
+  "back": "Ulcerative colitis is continuous from the rectum and confined to mucosa and superficial submucosa. Crohn disease is patchy, transmural and can affect any gut segment."
+ },
+ {
+  "id": 184,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "What imaging findings occur in chronic ulcerative colitis and toxic megacolon?",
+  "back": "Loss of haustra with a featureless lead pipe colon and widened presacral space. Toxic megacolon is a transverse colon above 6 cm."
+ },
+ {
+  "id": 185,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "Why does small bowel neuroendocrine tumour cause carcinoid syndrome only with liver metastases?",
+  "back": "Hepatic metastases release serotonin beyond first pass hepatic metabolism. The primary is usually distal ileal with a desmoplastic mesenteric mass."
+ },
+ {
+  "id": 186,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "Which diverticulum contains ectopic gastric mucosa and how is it detected?",
+  "back": "Meckel diverticulum, a true diverticulum from the vitellointestinal duct. Technetium pertechnetate scintigraphy shows uptake."
+ },
+ {
+  "id": 187,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "What is the classic molecular sequence of the adenoma to carcinoma pathway?",
+  "back": "APC loss, then KRAS activation, then TP53 loss. The serrated pathway instead involves BRAF mutation and methylation with microsatellite instability."
+ },
+ {
+  "id": 188,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "Which germline defects underlie Lynch syndrome and FAP?",
+  "back": "Lynch syndrome is a germline mismatch repair gene mutation. Familial adenomatous polyposis is a germline APC mutation."
+ },
+ {
+  "id": 189,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "Which adenoma features carry higher malignant potential?",
+  "back": "Villous architecture, size over 1 cm and high grade dysplasia. Hyperplastic polyps are small, left sided and not premalignant."
+ },
+ {
+  "id": 190,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "How is colorectal cancer T staged?",
+  "back": "T1 submucosa, T2 muscularis propria, T3 through the muscularis propria into pericolorectal tissue, T4a visceral peritoneum, T4b adjacent organs."
+ },
+ {
+  "id": 191,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "Which features does staging rectal MRI report?",
+  "back": "Distance of tumour from the mesorectal fascia, extramural vascular invasion and nodal features. A margin of 1 mm or less is a threatened fascia."
+ },
+ {
+  "id": 192,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "What is a colonic diverticulum pathologically and where is it commonest?",
+  "back": "An acquired pseudodiverticulum, a mucosal herniation through the muscle wall where vasa recta penetrate. It is commonest in the sigmoid colon."
+ },
+ {
+  "id": 193,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "What imaging signs support acute appendicitis?",
+  "back": "Non-compressible appendix wider than 6 mm with wall thickening and periappendiceal fat stranding, sometimes with an appendicolith."
+ },
+ {
+  "id": 194,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "What is the source of pseudomyxoma peritonei?",
+  "back": "Gelatinous mucinous ascites usually from a ruptured low grade appendiceal mucinous neoplasm. It scallops visceral surfaces."
+ },
+ {
+  "id": 195,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "What does histology of chronic hepatitis B show that identifies HBsAg?",
+  "back": "Ground glass hepatocytes. Interface hepatitis and lobular inflammation also occur, and HBV raises hepatocellular carcinoma risk even without cirrhosis."
+ },
+ {
+  "id": 196,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "How does a steatotic liver appear on CT, ultrasound and MRI?",
+  "back": "Hypoattenuating on CT, hyperechoic on ultrasound, and signal drop on opposed phase MRI. Focal sparing occurs near the gallbladder fossa."
+ },
+ {
+  "id": 197,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "What genotype and MRI finding characterise primary haemochromatosis?",
+  "back": "HFE C282Y homozygosity. The liver is markedly low signal on gradient echo and T2 weighted MRI with the spleen spared."
+ },
+ {
+  "id": 198,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "What are the liver histology findings of alpha-1 antitrypsin deficiency?",
+  "back": "Periportal hepatocyte globules that are periodic acid Schiff positive and diastase resistant (PiZZ). Panlobular basal emphysema occurs in the lung."
+ },
+ {
+  "id": 199,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "What imaging changes characterise cirrhosis?",
+  "back": "Nodular contour, right lobe and medial segment atrophy, caudate and left lateral hypertrophy, widened fissures and splenomegaly."
+ },
+ {
+  "id": 200,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "Why is the caudate lobe spared in Budd-Chiari syndrome?",
+  "back": "It drains directly to the inferior vena cava, so it hypertrophies when the hepatic veins are obstructed."
+ },
+ {
+  "id": 201,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "Which duct size and pattern characterise primary sclerosing cholangitis versus primary biliary cholangitis?",
+  "back": "Primary sclerosing cholangitis affects larger ducts with onion skin fibrosis and beading, linked to ulcerative colitis. Primary biliary cholangitis destroys small ducts with anti-mitochondrial antibodies."
+ },
+ {
+  "id": 202,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "What imaging pattern allows non-invasive diagnosis of hepatocellular carcinoma in cirrhosis?",
+  "back": "Arterial phase hyperenhancement with washout on portal venous or delayed phase, often with an enhancing capsule (LI-RADS)."
+ },
+ {
+  "id": 203,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "How does fibrolamellar carcinoma differ from focal nodular hyperplasia?",
+  "back": "Fibrolamellar carcinoma affects young patients without cirrhosis and has a large mass with a central T2 low signal, often calcified scar. In focal nodular hyperplasia the scar is T2 bright."
+ },
+ {
+  "id": 204,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "What is the enhancement pattern of a hepatic haemangioma?",
+  "back": "Peripheral discontinuous nodular enhancement that fills in centripetally, with very bright signal on heavily T2 weighted images."
+ },
+ {
+  "id": 205,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "Which hepatic adenoma subtype carries the highest malignant risk and which is steatotic?",
+  "back": "Beta-catenin activated has the highest malignant risk. HNF1A inactivated is steatotic and loses signal on opposed phase imaging."
+ },
+ {
+  "id": 206,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "What are the ultrasound and scintigraphic features of acute cholecystitis?",
+  "back": "Stones, wall thickening above 3 mm, pericholecystic fluid and a positive sonographic Murphy sign. Hepatobiliary scintigraphy shows non-filling gallbladder."
+ },
+ {
+  "id": 207,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "What risk factors and classes define cholangiocarcinoma?",
+  "back": "Classed as intrahepatic, perihilar (Klatskin) or distal. Risks include primary sclerosing cholangitis, liver flukes, choledochal cysts and hepatolithiasis."
+ },
+ {
+  "id": 208,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "What does the 2012 Atlanta classification say about collections in pancreatitis?",
+  "back": "Within 4 weeks they are acute peripancreatic fluid or acute necrotic collections. After 4 weeks they become pseudocyst or walled off necrosis."
+ },
+ {
+  "id": 209,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "Which molecular changes and imaging signs characterise pancreatic ductal adenocarcinoma?",
+  "back": "KRAS, CDKN2A, TP53 and SMAD4 alterations from PanIN. Imaging shows a hypoenhancing head mass with the double duct sign."
+ },
+ {
+  "id": 210,
+  "domain": "gastrointestinal_and_hepatobiliary",
+  "chapter": "Gut Liver Biliary and Pancreas",
+  "front": "How do serous cystadenoma, mucinous cystic neoplasm and IPMN differ?",
+  "back": "Serous is benign, microcystic with a central scar and VHL link. Mucinous occurs in women in the body or tail with ovarian stroma and no duct communication. IPMN communicates with the duct."
+ },
+ {
+  "id": 211,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "What are the light microscopy and electron microscopy findings in minimal change disease?",
+  "back": "Glomeruli look normal on light microscopy with negative immunofluorescence. Electron microscopy shows diffuse effacement of podocyte foot processes."
+ },
+ {
+  "id": 212,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "Which antibody target is found in most primary membranous nephropathy?",
+  "back": "The phospholipase A2 receptor on podocytes. Immune complexes form subepithelial deposits with basement membrane spikes on silver stain."
+ },
+ {
+  "id": 213,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "Which primary glomerulonephritis is commonest worldwide, and what does immunofluorescence show?",
+  "back": "IgA nephropathy, with mesangial IgA deposits. It presents with macroscopic haematuria a day or two after a mucosal infection."
+ },
+ {
+  "id": 214,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "What are the electron microscopy and serology features of post-infectious glomerulonephritis?",
+  "back": "Subepithelial humps on electron microscopy and low serum C3, following group A streptococcal infection, mostly in children."
+ },
+ {
+  "id": 215,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "How do anti-GBM disease and ANCA vasculitis differ on immunofluorescence?",
+  "back": "Anti-GBM disease shows linear IgG along the basement membrane. ANCA-associated vasculitis is pauci-immune, with few or no deposits, and both cause crescents."
+ },
+ {
+  "id": 216,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "What is the Kimmelstiel-Wilson lesion and which disease causes it?",
+  "back": "Nodular glomerulosclerosis of diabetic nephropathy, the commonest cause of end-stage kidney disease, with hyaline arteriolosclerosis of afferent and efferent arterioles."
+ },
+ {
+  "id": 217,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "Which gene is mutated in X-linked Alport syndrome and what is the basement membrane finding?",
+  "back": "COL4A5 mutation, with a lamellated glomerular basement membrane, deafness and ocular defects."
+ },
+ {
+  "id": 218,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "What does ultrasound typically show in chronic glomerular disease compared with acute disease?",
+  "back": "Chronic disease gives small smooth echogenic kidneys with lost corticomedullary differentiation. Acute disease gives normal or enlarged kidneys."
+ },
+ {
+  "id": 219,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "What urine finding characterises acute tubular necrosis?",
+  "back": "Muddy brown granular casts, from sloughed tubular epithelium, with a polyuric recovery phase after the oliguric phase."
+ },
+ {
+  "id": 220,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "Which organism most often causes acute pyelonephritis, and what are its complications?",
+  "back": "Escherichia coli. Complications are papillary necrosis, pyonephrosis, perinephric abscess and emphysematous pyelonephritis in diabetics."
+ },
+ {
+  "id": 221,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "Where do scars of chronic reflux pyelonephritis lie and how do they appear?",
+  "back": "Coarse scars, often upper pole, lie over clubbed dilated calyces, unlike the smooth uniform thinning of ischaemic or glomerular disease."
+ },
+ {
+  "id": 222,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "What are the features of xanthogranulomatous pyelonephritis?",
+  "back": "Proteus infection with a staghorn calculus in an obstructed kidney, lipid-laden foamy macrophages microscopically, and the bear paw sign on CT."
+ },
+ {
+  "id": 223,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "Which cells characterise acute interstitial nephritis and what is the usual cause?",
+  "back": "Interstitial lymphocytes and eosinophils, usually a hypersensitivity reaction to drugs such as penicillins, NSAIDs and proton pump inhibitors."
+ },
+ {
+  "id": 224,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "Name four associations of renal papillary necrosis.",
+  "back": "Diabetes, analgesic nephropathy, sickle cell disease, and obstruction or tuberculosis. Sloughed papillae give ring shadows or filling defects."
+ },
+ {
+  "id": 225,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "Which genes cause autosomal dominant polycystic kidney disease?",
+  "back": "PKD1 on chromosome 16 in about 85 percent, and PKD2 on chromosome 4."
+ },
+ {
+  "id": 226,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "What are the extrarenal associations of autosomal dominant polycystic kidney disease?",
+  "back": "Hepatic cysts, intracranial berry aneurysms, mitral valve prolapse and colonic diverticula."
+ },
+ {
+  "id": 227,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "What gene and hepatic lesion define autosomal recessive polycystic kidney disease?",
+  "back": "PKHD1, with congenital hepatic fibrosis causing portal hypertension. Perinatal presentation includes Potter sequence and echogenic salt and pepper kidneys."
+ },
+ {
+  "id": 228,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "Which cystic renal condition carries an increased risk of renal cell carcinoma and in whom?",
+  "back": "Acquired cystic disease in long-term dialysis patients, whose kidneys are small."
+ },
+ {
+  "id": 229,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "What is the typical cause, site and imaging pattern of fibromuscular dysplasia of the renal artery?",
+  "back": "Medial fibroplasia in young women, in the mid to distal artery, giving the string of beads appearance."
+ },
+ {
+  "id": 230,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "What vascular lesion characterises malignant hypertension in the kidney?",
+  "back": "Hyperplastic arteriolitis with onion-skin thickening and fibrinoid necrosis, in contrast to hyaline arteriolosclerosis in benign nephrosclerosis."
+ },
+ {
+  "id": 231,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "Which genetic change underlies clear cell renal carcinoma?",
+  "back": "Loss of function of the VHL gene on chromosome 3p, sporadic or in von Hippel-Lindau disease."
+ },
+ {
+  "id": 232,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "How does clear cell renal carcinoma look macroscopically, and how does it enhance?",
+  "back": "Golden-yellow with haemorrhage and necrosis, and it may extend as a tumour thrombus. It is hypervascular, with avid corticomedullary enhancement."
+ },
+ {
+  "id": 233,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "What genetic associations and enhancement pattern define papillary renal carcinoma?",
+  "back": "Trisomy 7 and 17, and MET in type 1 hereditary disease. It is hypovascular with mild homogeneous enhancement."
+ },
+ {
+  "id": 234,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "Which renal tumour shows perinuclear halos and raisinoid nuclei, and with which syndrome?",
+  "back": "Chromophobe carcinoma, associated with Birt-Hogg-Dube syndrome, with a better prognosis."
+ },
+ {
+  "id": 235,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "Describe the macroscopic and microscopic features of renal oncocytoma.",
+  "back": "A mahogany brown mass with a central stellate scar, composed of eosinophilic cells rich in mitochondria. The scar is not reliable enough to avoid biopsy."
+ },
+ {
+  "id": 236,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "What are the components of angiomyolipoma and its main complication?",
+  "back": "Fat, smooth muscle and thick-walled abnormal vessels. Lesions above 4 cm risk spontaneous haemorrhage (Wunderlich syndrome), and it is linked to tuberous sclerosis."
+ },
+ {
+  "id": 237,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "What is the histological pattern of Wilms tumour and its imaging sign?",
+  "back": "Triphasic: blastemal, epithelial and stromal. A claw sign of parenchyma wraps the mass, unlike neuroblastoma which displaces the kidney."
+ },
+ {
+  "id": 238,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "Give the T1 and T2 size thresholds for renal cell carcinoma.",
+  "back": "T1a up to 4 cm, T1b above 4 to 7 cm, T2a above 7 to 10 cm, T2b above 10 cm, all confined to the kidney."
+ },
+ {
+  "id": 239,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "What defines T3a, T3b, T3c and T4 renal cell carcinoma?",
+  "back": "T3a is renal vein, perinephric fat or collecting system. T3b is vena cava below the diaphragm and T3c above it. T4 is beyond Gerota fascia, including ipsilateral adrenal."
+ },
+ {
+  "id": 240,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "How are Bosniak 2019 classes IIF, III and IV distinguished?",
+  "back": "IIF has smooth minimal wall or septal thickening or a hyperdense cyst of 3 cm or more, and needs follow-up. III has enhancing thick walls or septa, and IV has an enhancing nodule."
+ },
+ {
+  "id": 241,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "Which stone type is radiolucent on plain radiographs, and in what urine?",
+  "back": "Uric acid, in acidic urine, in gout and high cell turnover. It is visible on CT."
+ },
+ {
+  "id": 242,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "Which stone forms staghorn calculi, and what is the cause?",
+  "back": "Struvite, in alkaline urine with urease-producing bacteria such as Proteus."
+ },
+ {
+  "id": 243,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "Name risk factors for urothelial carcinoma and for bladder squamous cell carcinoma.",
+  "back": "Smoking, aromatic amines, cyclophosphamide and pelvic radiation for urothelial carcinoma. Schistosoma haematobium for squamous carcinoma."
+ },
+ {
+  "id": 244,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "What are the T categories of bladder cancer by depth of invasion?",
+  "back": "Ta non-invasive papillary, Tis in situ, T1 lamina propria, T2 muscularis propria, T3 perivesical tissue, T4a prostate, uterus or vagina, T4b pelvic or abdominal wall."
+ },
+ {
+  "id": 245,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "Where does prostate cancer commonly arise compared with benign prostatic hyperplasia?",
+  "back": "Cancer arises in the peripheral zone (about 70 percent), whereas hyperplasia arises in the transition zone."
+ },
+ {
+  "id": 246,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "Give the ISUP grade groups by Gleason score.",
+  "back": "Group 1 is 3+3, group 2 is 3+4, group 3 is 4+3, group 4 is 8, and group 5 is 9 or 10."
+ },
+ {
+  "id": 247,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "How do T1a, T1b and T1c prostate cancer differ?",
+  "back": "T1a and T1b are incidental at resection, 5 percent or less versus more than 5 percent of tissue. T1c is found on needle biopsy for raised PSA."
+ },
+ {
+  "id": 248,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "Which immunohistochemical pattern supports prostate adenocarcinoma?",
+  "back": "Absence of basal cells, so p63 is negative within malignant glands, with AMACR commonly positive."
+ },
+ {
+  "id": 249,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "Where does the left testis drain compared with the right?",
+  "back": "Left testis drains to left para-aortic nodes near the renal hilum, right testis to interaortocaval nodes."
+ },
+ {
+  "id": 250,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "What is the pT staging of testicular tumours?",
+  "back": "pT1 limited to testis without lymphovascular invasion, pT2 lymphovascular invasion or tunica vaginalis, pT3 spermatic cord, pT4 scrotum."
+ },
+ {
+  "id": 251,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "What are the risk factors and precursor of penile squamous cell carcinoma?",
+  "back": "HPV, lack of circumcision, phimosis and lichen sclerosus, with penile intraepithelial neoplasia as precursor."
+ },
+ {
+  "id": 252,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Kidney Urinary Tract and Male Genital",
+  "front": "Where do ureteric stones lodge?",
+  "back": "At the pelviureteric junction, the pelvic brim where the ureter crosses the iliac vessels, and the vesicoureteric junction."
+ },
+ {
+  "id": 253,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "Which pituitary adenoma is commonest functioning, and what are its features in women and men?",
+  "back": "Prolactinoma. Women present with amenorrhoea and galactorrhoea, men later with hypogonadism and often a macroadenoma."
+ },
+ {
+  "id": 254,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What size separates a pituitary microadenoma from a macroadenoma?",
+  "back": "Under 10 mm is a microadenoma and 10 mm or more is a macroadenoma. Macroadenomas can compress the optic chiasm."
+ },
+ {
+  "id": 255,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "Which visual field defect does a pituitary macroadenoma classically cause, and why?",
+  "back": "Bitemporal hemianopia, because compression from below affects the crossing nasal retinal fibres in the chiasm."
+ },
+ {
+  "id": 256,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "How does a pituitary microadenoma behave on early dynamic contrast MRI?",
+  "back": "It enhances less than normal pituitary tissue and appears relatively hypointense in the early phase."
+ },
+ {
+  "id": 257,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What is the stalk effect in a sellar mass?",
+  "back": "Compression of the pituitary stalk removes dopamine inhibition, causing mild hyperprolactinaemia from any sellar mass, not only a prolactinoma."
+ },
+ {
+  "id": 258,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What is Sheehan syndrome?",
+  "back": "Pituitary infarction after postpartum haemorrhage and hypotension, because the enlarged gland of pregnancy is vulnerable to ischaemia."
+ },
+ {
+  "id": 259,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What antibody and mechanism cause Graves disease?",
+  "back": "Autoantibodies stimulate the TSH receptor, causing diffuse hyperplasia and unregulated hormone release."
+ },
+ {
+  "id": 260,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "How does scintigraphy separate Graves disease from subacute (de Quervain) thyroiditis in a thyrotoxic patient?",
+  "back": "Graves shows diffusely increased uptake. Subacute granulomatous thyroiditis shows very low uptake, with a painful gland and giant cell granulomas."
+ },
+ {
+  "id": 261,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What are the key histological and neoplastic associations of Hashimoto thyroiditis?",
+  "back": "Lymphoplasmacytic infiltrate with germinal centres and oncocytic (Hurthle) change. It carries an increased risk of thyroid lymphoma, usually marginal zone or diffuse large B cell."
+ },
+ {
+  "id": 262,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What is Riedel thyroiditis and why does it matter radiologically?",
+  "back": "A fibrosing disease in the IgG4 related spectrum that extends beyond the capsule into neck structures, producing a hard fixed gland that mimics carcinoma."
+ },
+ {
+  "id": 263,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What is the commonest cause of thyroid enlargement, and its pathogenesis?",
+  "back": "Multinodular goitre, from cycles of hyperplasia and involution, usually driven by relative iodine deficiency."
+ },
+ {
+  "id": 264,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "Which ultrasound features of a thyroid nodule raise suspicion for malignancy?",
+  "back": "Solid hypoechoic nodule, irregular or spiculated margin, microcalcifications, taller than wide shape and extrathyroidal extension."
+ },
+ {
+  "id": 265,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What are the molecular and nuclear hallmarks of papillary thyroid carcinoma?",
+  "back": "BRAF V600E, RET/PTC and RAS alterations. Nuclei are optically clear (Orphan Annie eye) with grooves and pseudoinclusions, and psammoma bodies may be present."
+ },
+ {
+  "id": 266,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "How does papillary thyroid carcinoma spread, and how do the nodal metastases look?",
+  "back": "By lymphatics to cervical nodes. Nodal metastases are often cystic, with calcification or punctate echogenic foci, and may be the presenting feature."
+ },
+ {
+  "id": 267,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What defines follicular thyroid carcinoma and why can it not be diagnosed on FNA alone?",
+  "back": "Capsular or vascular invasion must be shown on histology. It spreads by blood to bone and lung and carries RAS and PAX8-PPARG changes."
+ },
+ {
+  "id": 268,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What is NIFTP?",
+  "back": "Noninvasive follicular thyroid neoplasm with papillary-like nuclear features: an encapsulated tumour without invasion that behaves indolently."
+ },
+ {
+  "id": 269,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "From which cell does medullary thyroid carcinoma arise, and what is the pathognomonic microscopic feature?",
+  "back": "Parafollicular C cells, secreting calcitonin. Tumour nests lie in an amyloid stroma."
+ },
+ {
+  "id": 270,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "Where in the thyroid does medullary carcinoma usually lie, and why?",
+  "back": "In the upper two thirds of the lobes, where C cells are concentrated. Coarse calcification is common."
+ },
+ {
+  "id": 271,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "Which thyroid cancer has the worst prognosis and which gene is typically mutated?",
+  "back": "Anaplastic carcinoma, in older patients, with TP53 mutation, rapid growth and invasion of the trachea and vessels."
+ },
+ {
+  "id": 272,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What proportion of primary hyperparathyroidism is due to adenoma, hyperplasia and carcinoma?",
+  "back": "About 85 percent adenoma, 10 to 15 percent multigland hyperplasia and under 1 percent carcinoma."
+ },
+ {
+  "id": 273,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What distinguishes parathyroid carcinoma from adenoma?",
+  "back": "Invasion of surrounding tissue, vascular invasion or metastasis, not cytological atypia alone."
+ },
+ {
+  "id": 274,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What is the most specific radiographic sign of hyperparathyroidism?",
+  "back": "Subperiosteal bone resorption, best seen on the radial side of the middle phalanges of the index and middle fingers."
+ },
+ {
+  "id": 275,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What is a brown tumour?",
+  "back": "A lytic bone lesion of hyperparathyroidism composed of osteoclast rich fibrous tissue and haemosiderin; the skeletal syndrome is osteitis fibrosa cystica."
+ },
+ {
+  "id": 276,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "How do sestamibi scintigraphy and 4D CT localise a parathyroid adenoma?",
+  "back": "Sestamibi shows persistent uptake as the thyroid washes out. 4D CT shows an arterially enhancing lesion with washout."
+ },
+ {
+  "id": 277,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What is the rugger jersey spine and in which disease does it occur?",
+  "back": "Alternating dense bands at vertebral end plates from osteosclerosis in renal osteodystrophy, due to secondary hyperparathyroidism."
+ },
+ {
+  "id": 278,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What is the commonest cause of endogenous Cushing syndrome?",
+  "back": "An ACTH secreting pituitary adenoma (Cushing disease). Other causes are adrenal adenoma or carcinoma and ectopic ACTH, classically from small cell lung cancer."
+ },
+ {
+  "id": 279,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What biochemical pattern defines Conn syndrome?",
+  "back": "Hypertension, hypokalaemia and low renin from autonomous aldosterone secretion, due to an adenoma or bilateral hyperplasia."
+ },
+ {
+  "id": 280,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What unenhanced CT attenuation and MRI sign indicate a lipid rich adrenal adenoma?",
+  "back": "Attenuation of 10 HU or less on unenhanced CT and signal loss on opposed phase chemical shift MRI."
+ },
+ {
+  "id": 281,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What contrast washout thresholds characterise a lipid poor adrenal adenoma at 15 minutes?",
+  "back": "Absolute washout of 60 percent or more, or relative washout of 40 percent or more."
+ },
+ {
+  "id": 282,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What imaging features suggest adrenal cortical carcinoma?",
+  "back": "Size over about 6 cm, heterogeneous enhancement, necrosis, calcification and venous invasion into the renal vein or inferior vena cava."
+ },
+ {
+  "id": 283,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "How is adrenal myelolipoma diagnosed on imaging?",
+  "back": "Macroscopic fat on CT, with attenuation below minus 20 HU, within a benign tumour of fat and haematopoietic tissue."
+ },
+ {
+  "id": 284,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What is the commonest cause of congenital adrenal hyperplasia?",
+  "back": "21 hydroxylase deficiency, with cortisol deficiency, raised ACTH, androgen excess and bilateral thickened glands."
+ },
+ {
+  "id": 285,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What adrenal appearance occurs in meningococcal Waterhouse-Friderichsen syndrome?",
+  "back": "Bilateral adrenal haemorrhage, seen as enlarged high attenuation glands on CT."
+ },
+ {
+  "id": 286,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "Why is the rule of tens for phaeochromocytoma outdated?",
+  "back": "Roughly 40 percent are hereditary (VHL, RET, NF1, SDHx), so the 10 percent figures understate genetic and bilateral disease."
+ },
+ {
+  "id": 287,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "How is malignancy defined in phaeochromocytoma or paraganglioma?",
+  "back": "By metastases to sites without normal chromaffin tissue; histology cannot predict behaviour. SDHB mutation carries a higher metastatic risk."
+ },
+ {
+  "id": 288,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What are the characteristic imaging features of phaeochromocytoma?",
+  "back": "Heterogeneous enhancing mass above 10 HU unenhanced, often T2 bright (light bulb sign), imaged functionally with MIBG or 68Ga DOTATATE PET."
+ },
+ {
+  "id": 289,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What are the WHO grades of pancreatic neuroendocrine tumour by Ki-67?",
+  "back": "Grade 1 under 3 percent, grade 2 from 3 to 20 percent, grade 3 over 20 percent."
+ },
+ {
+  "id": 290,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "What is the typical CT enhancement of a well differentiated pancreatic neuroendocrine tumour?",
+  "back": "Hypervascular, with avid arterial or pancreatic phase enhancement and often portal phase washout; liver metastases are also hypervascular."
+ },
+ {
+  "id": 291,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "Which functioning pancreatic neuroendocrine tumour is commonest, and what is its presentation?",
+  "back": "Insulinoma, usually solitary, small and benign, causing fasting hypoglycaemia relieved by glucose (Whipple triad)."
+ },
+ {
+  "id": 292,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "Which genes and tumour sets define MEN1, MEN2A and MEN2B?",
+  "back": "MEN1 (menin): parathyroid, pancreatic and pituitary tumours. MEN2A (RET): medullary thyroid cancer, phaeochromocytoma, parathyroid hyperplasia. MEN2B (RET): medullary thyroid cancer, phaeochromocytoma, mucosal neuromas, marfanoid habitus, no parathyroid disease."
+ },
+ {
+  "id": 293,
+  "domain": "genitourinary_adrenal_and_endocrine",
+  "chapter": "Endocrine and Adrenal",
+  "front": "Which histological lesion is typical of diabetic nephropathy, and how does a diabetic foot present radiologically?",
+  "back": "Nodular glomerulosclerosis (Kimmelstiel-Wilson nodules). In the foot, Charcot arthropathy affects Lisfranc and midfoot joints, and osteomyelitis lies adjacent to an ulcer over a pressure point."
+ },
+ {
+  "id": 294,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "Which HPV types cause most cervical cancer, and which cause condylomata?",
+  "back": "High risk types 16 and 18 cause most cervical cancer (16 mainly squamous, 18 more adenocarcinoma). Low risk types 6 and 11 cause condylomata acuminata."
+ },
+ {
+  "id": 295,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "How do HPV E6 and E7 proteins drive cervical carcinogenesis?",
+  "back": "E6 degrades p53 and E7 inactivates RB, removing cell cycle control in the transformation zone."
+ },
+ {
+  "id": 296,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What is the histological difference between CIN 1 and CIN 3?",
+  "back": "CIN 1 shows undifferentiated basaloid cells confined to the lower third of the epithelium, with maturation in the upper two thirds and koilocytes. CIN 3 shows undifferentiated basaloid cells through the full thickness."
+ },
+ {
+  "id": 297,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What is the FIGO 2018 feature of stage IIIB cervical cancer?",
+  "back": "Extension to the pelvic wall or hydronephrosis or a non functioning kidney. IIIC is pelvic or para-aortic nodal disease."
+ },
+ {
+  "id": 298,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "How does MRI show that parametrial invasion is absent in cervical cancer?",
+  "back": "An intact low signal fibrous stromal ring around the intermediate to high T2 signal tumour excludes parametrial invasion."
+ },
+ {
+  "id": 299,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What are the two pathways of vulvar squamous cell carcinoma?",
+  "back": "HPV related (usually HPV 16, younger women, from high grade squamous intraepithelial lesion) and HPV independent (older women, lichen sclerosus background, TP53 mutation)."
+ },
+ {
+  "id": 300,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "Which nodes are the first echelon for vulvar carcinoma?",
+  "back": "The inguinofemoral nodes."
+ },
+ {
+  "id": 301,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What defines extramammary Paget disease of the vulva?",
+  "back": "An intraepidermal adenocarcinoma of large pale mucin containing cells, which may be associated with an underlying adnexal or visceral carcinoma."
+ },
+ {
+  "id": 302,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What causes endometrial hyperplasia, and how does WHO classify it?",
+  "back": "Unopposed oestrogen. WHO classes it as hyperplasia without atypia and atypical hyperplasia (endometrioid intraepithelial neoplasia), the latter with a substantial cancer risk."
+ },
+ {
+  "id": 303,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "Which genetic changes characterise endometrioid versus serous endometrial carcinoma?",
+  "back": "Endometrioid: PTEN, PIK3CA, ARID1A, KRAS and microsatellite instability. Serous: TP53 mutation, arising in atrophic endometrium in older women, aggressive."
+ },
+ {
+  "id": 304,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What are the four molecular groups of endometrial carcinoma and which has the best and worst prognosis?",
+  "back": "POLE ultramutated (best), mismatch repair deficient, no specific molecular profile, and p53 abnormal (worst)."
+ },
+ {
+  "id": 305,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "Which germline syndrome predisposes to endometrial cancer?",
+  "back": "Lynch syndrome, from mismatch repair gene germline mutation."
+ },
+ {
+  "id": 306,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What endometrial thickness in postmenopausal bleeding prompts biopsy, and how is myometrial invasion assessed?",
+  "back": "Above 4 mm on transvaginal ultrasound. MRI assesses depth of invasion on dynamic contrast images, where a disrupted junctional zone suggests deep invasion."
+ },
+ {
+  "id": 307,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What are the gross, microscopic and MRI features of a fibroid?",
+  "back": "Gross: well circumscribed whorled white mass. Micro: fascicles of bland spindle cells, often MED12 mutated. MRI: low signal on T2 unless degenerated."
+ },
+ {
+  "id": 308,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "Which degeneration of a fibroid is typical in pregnancy?",
+  "back": "Red (carneous) degeneration. Other forms are hyaline, cystic and calcific."
+ },
+ {
+  "id": 309,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "How is leiomyosarcoma distinguished from leiomyoma?",
+  "back": "By coagulative necrosis, nuclear atypia and mitotic activity."
+ },
+ {
+  "id": 310,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What is the MRI sign of adenomyosis?",
+  "back": "A thickened junctional zone, over 12 mm, with small high signal foci. The uterus is globular and symmetrically enlarged."
+ },
+ {
+  "id": 311,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What are the pathological and MRI features of an endometrioma?",
+  "back": "Chocolate coloured fluid grossly. MRI shows high T1 signal that stays high with fat suppression and T2 shading."
+ },
+ {
+  "id": 312,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "Which ovarian cancers are associated with endometriosis?",
+  "back": "Clear cell and endometrioid carcinomas."
+ },
+ {
+  "id": 313,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What are the genetics and precursor of high grade serous ovarian carcinoma?",
+  "back": "TP53 mutation in almost all cases, often with BRCA1 or BRCA2 germline mutation. The precursor is serous tubal intraepithelial carcinoma in the distal fallopian tube."
+ },
+ {
+  "id": 314,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What should a bilateral mucinous ovarian tumour prompt?",
+  "back": "A search for a metastatic primary, usually appendix or colon. Mucin in the peritoneum (pseudomyxoma peritonei) is usually appendiceal."
+ },
+ {
+  "id": 315,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "Which ovarian germ cell tumour is most common in young women, and what are its components?",
+  "back": "Mature cystic teratoma (dermoid), with ectodermal, mesodermal and endodermal elements. Malignant change is rare and is squamous carcinoma."
+ },
+ {
+  "id": 316,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "Which ovarian germ cell tumour secretes alpha-fetoprotein and what is its histological hallmark?",
+  "back": "Yolk sac tumour, with Schiller Duval bodies."
+ },
+ {
+  "id": 317,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What are the hormone and histological features of granulosa cell tumour?",
+  "back": "It secretes oestrogen, causing endometrial hyperplasia, and shows Call-Exner bodies."
+ },
+ {
+  "id": 318,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What is Meigs syndrome?",
+  "back": "Ovarian fibroma with ascites and a pleural effusion."
+ },
+ {
+  "id": 319,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What is a Krukenberg tumour?",
+  "back": "Bilateral ovarian metastases with signet ring cells, usually from the stomach."
+ },
+ {
+  "id": 320,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What are the features of ovarian torsion on imaging?",
+  "back": "An enlarged ovary with peripheral follicles and a twisted pedicle (whirlpool sign). Doppler flow may be reduced, though preserved flow does not exclude torsion."
+ },
+ {
+  "id": 321,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What defines FIGO stage III ovarian cancer?",
+  "back": "Peritoneal spread beyond the pelvis or retroperitoneal nodal metastasis. Stage IV is distant spread, including liver parenchymal metastasis or pleural effusion with positive cytology."
+ },
+ {
+  "id": 322,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What is the commonest site of ectopic pregnancy and the key imaging finding?",
+  "back": "The fallopian tube ampulla. Positive hCG with no intrauterine gestational sac, an adnexal ring and free fluid in the pouch of Douglas."
+ },
+ {
+  "id": 323,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "How do complete and partial hydatidiform moles differ in karyotype and p57?",
+  "back": "Complete: diploid, usually 46,XX, all paternal, p57 negative, no fetus. Partial: triploid, usually 69,XXY, p57 positive, with some fetal parts."
+ },
+ {
+  "id": 324,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What are the ultrasound features of a complete mole?",
+  "back": "A snowstorm or cluster of grapes appearance of multiple cystic spaces without a fetus, often with ovarian theca lutein cysts."
+ },
+ {
+  "id": 325,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What are the histology and first metastatic site of gestational choriocarcinoma?",
+  "back": "Cytotrophoblast and syncytiotrophoblast proliferation with no villi, haemorrhage and necrosis. It spreads haematogenously, first to the lung, and responds well to chemotherapy."
+ },
+ {
+  "id": 326,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "How do accreta, increta and percreta differ?",
+  "back": "Accreta: adherence to the myometrium. Increta: invasion into the myometrium. Percreta: invasion through the serosa to adjacent organs."
+ },
+ {
+  "id": 327,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What imaging findings suggest placenta accreta?",
+  "back": "Loss of the retroplacental clear zone, myometrial thinning and abnormal lacunae on ultrasound, and dark intraplacental bands on T2 MRI."
+ },
+ {
+  "id": 328,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "How do placenta praevia and abruption present differently?",
+  "back": "Praevia: painless bleeding from placenta over the internal os. Abruption: painful bleeding with retroplacental haematoma and risk of disseminated intravascular coagulation."
+ },
+ {
+  "id": 329,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What is the pathogenesis of pre-eclampsia?",
+  "back": "Failed spiral artery remodelling by extravillous trophoblast causes placental ischaemia and release of antiangiogenic factors such as sFlt-1, producing endothelial dysfunction."
+ },
+ {
+  "id": 330,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What does HELLP stand for and what neuroimaging complication accompanies eclampsia?",
+  "back": "Haemolysis, elevated liver enzymes, low platelets. Posterior reversible encephalopathy syndrome shows bilateral posterior subcortical T2 hyperintensity."
+ },
+ {
+  "id": 331,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "How is breast cancer graded by the Nottingham system?",
+  "back": "Tubule formation, nuclear pleomorphism and mitotic count, each scored 1 to 3. Total 3 to 5 is grade 1, 6 to 7 grade 2, and 8 to 9 grade 3."
+ },
+ {
+  "id": 332,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What is the mammographic pattern of high grade DCIS and what is Paget disease of the nipple?",
+  "back": "Clustered pleomorphic linear branching calcifications, with comedo necrosis histologically. Paget disease is DCIS cells spreading into the nipple epidermis."
+ },
+ {
+  "id": 333,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What distinguishes invasive lobular from ductal carcinoma?",
+  "back": "Discohesive single file cells from E-cadherin loss, frequently multifocal and bilateral, and subtle on mammography and ultrasound, so MRI is often used."
+ },
+ {
+  "id": 334,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "How do receptor groups determine breast cancer therapy and which is associated with BRCA1?",
+  "back": "ER and PR positive: endocrine therapy. HER2 amplified: trastuzumab. Triple negative lacks all three and is more common in BRCA1 carriers."
+ },
+ {
+  "id": 335,
+  "domain": "obstetric_gynaecological_and_breast",
+  "chapter": "Female Genital Tract Pregnancy and Breast",
+  "front": "What features of phyllodes tumour distinguish it from fibroadenoma?",
+  "back": "Cellular stroma with leaf like clefts, rapid growth in a large lobulated mass, local recurrence, haematogenous rather than nodal spread, graded benign, borderline or malignant."
+ },
+ {
+  "id": 336,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "What is the WHO definition of osteoporosis by DXA T-score?",
+  "back": "A T-score of minus 2.5 or below. Bone mass is reduced with normal mineral to matrix ratio and trabecular architecture is lost."
+ },
+ {
+  "id": 337,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "Which bone compartment is lost first in osteoporosis, and which sites fracture first?",
+  "back": "Trabecular bone, because of its high surface area. Vertebral bodies, distal radius and femoral neck fracture first."
+ },
+ {
+  "id": 338,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "How do osteomalacia and osteoporosis differ in pathology?",
+  "back": "Osteomalacia is defective mineralisation of osteoid, giving widened osteoid seams. Osteoporosis has reduced but normally mineralised bone."
+ },
+ {
+  "id": 339,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "What is the radiological sign of osteomalacia, and what does it represent?",
+  "back": "Looser zones (pseudofractures), lucent bands perpendicular to the cortex. They are unmineralised osteoid stress lesions."
+ },
+ {
+  "id": 340,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "What happens to the growth plate in rickets?",
+  "back": "Cartilage fails to calcify, so the physis widens and the metaphysis becomes frayed, cupped and flared."
+ },
+ {
+  "id": 341,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "What is osteitis fibrosa cystica?",
+  "back": "The bone disease of hyperparathyroidism: osteoclast resorption with marrow fibrosis and brown tumours of giant cells and haemosiderin."
+ },
+ {
+  "id": 342,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "Where is subperiosteal resorption most characteristic in hyperparathyroidism?",
+  "back": "The radial side of the middle phalanges of the second and third fingers. Tuft resorption and a salt and pepper skull also occur."
+ },
+ {
+  "id": 343,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "What spinal appearance characterises renal osteodystrophy?",
+  "back": "The rugger jersey spine: sclerotic bands at the vertebral endplates alongside a less dense central body."
+ },
+ {
+  "id": 344,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "What are the three phases of Paget disease of bone?",
+  "back": "Lytic, mixed and sclerotic. Osteoclast overactivity comes first, followed by disorganised osteoblast bone formation."
+ },
+ {
+  "id": 345,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "What is the histological hallmark of Paget disease?",
+  "back": "A mosaic pattern of lamellar bone with prominent cement lines. Alkaline phosphatase is raised with normal calcium and phosphate."
+ },
+ {
+  "id": 346,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "What malignant complication occurs in under 1 percent of Paget disease?",
+  "back": "Osteosarcoma (sarcomatous transformation), which gives the second peak of osteosarcoma in older adults."
+ },
+ {
+  "id": 347,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "What is the double line sign and what condition does it indicate?",
+  "back": "On T2 weighted MRI, a bright inner granulation line and dark outer sclerotic rim. It indicates osteonecrosis."
+ },
+ {
+  "id": 348,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "What is the histology of osteonecrosis?",
+  "back": "Dead bone with empty lacunae and necrotic marrow, with a rim of reactive repair. Epiphyseal infarcts are wedge shaped and subchondral."
+ },
+ {
+  "id": 349,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "Which organism is classically associated with osteomyelitis in sickle cell disease?",
+  "back": "Salmonella, although Staphylococcus aureus remains the most common organism overall."
+ },
+ {
+  "id": 350,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "Why does haematogenous osteomyelitis in children start in the metaphysis?",
+  "back": "Slow flow in the sluggish venous sinusoids of the metaphysis lets bacteria settle."
+ },
+ {
+  "id": 351,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "Define sequestrum, involucrum and cloaca.",
+  "back": "Sequestrum is a fragment of dead bone. Involucrum is a sheath of reactive new bone around it. Cloaca is the channel through which pus drains."
+ },
+ {
+  "id": 352,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "What is a Brodie abscess?",
+  "back": "A subacute, well circumscribed intraosseous abscess, commonly in the metaphysis of a long bone."
+ },
+ {
+  "id": 353,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "What does the penumbra sign indicate on MRI?",
+  "back": "A T1 hyperintense rim of granulation tissue around an osteomyelitic abscess cavity."
+ },
+ {
+  "id": 354,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "Which classic radiographic signs characterise osteosarcoma?",
+  "back": "A Codman triangle and sunburst periosteal reaction with mixed lysis and sclerosis, usually in the metaphysis of the distal femur or proximal tibia."
+ },
+ {
+  "id": 355,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "What cell and matrix define osteosarcoma?",
+  "back": "A malignant spindle or pleomorphic cell tumour that directly produces osteoid. Spread is haematogenous, mainly to lung."
+ },
+ {
+  "id": 356,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "Which genetic syndromes predispose to osteosarcoma?",
+  "back": "Hereditary retinoblastoma (RB1) and Li-Fraumeni syndrome (TP53)."
+ },
+ {
+  "id": 357,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "What is the translocation and immunostain of Ewing sarcoma?",
+  "back": "t(11;22) giving an EWSR1 and FLI1 fusion. The small round blue cells are CD99 positive."
+ },
+ {
+  "id": 358,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "Describe the radiological appearance of Ewing sarcoma.",
+  "back": "A permeative diaphyseal lesion with lamellated (onion skin) periosteal reaction and a large soft tissue mass, which mimics osteomyelitis."
+ },
+ {
+  "id": 359,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "What is the most common primary malignant bone tumour of the adult pelvis and proximal femur?",
+  "back": "Chondrosarcoma, which produces cartilage matrix, often with rings and arcs calcification."
+ },
+ {
+  "id": 360,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "Which mutations are common in conventional chondrosarcoma?",
+  "back": "IDH1 and IDH2 mutations."
+ },
+ {
+  "id": 361,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "Where does giant cell tumour of bone arise and what are its neoplastic cells?",
+  "back": "In the epiphysis extending to the subarticular surface after skeletal maturity. The mononuclear stromal cells are neoplastic; the giant cells are reactive."
+ },
+ {
+  "id": 362,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "What genetic change is characteristic of giant cell tumour of bone?",
+  "back": "H3F3A mutation (G34W). Denosumab, which blocks RANKL, is used in unresectable disease."
+ },
+ {
+  "id": 363,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "Why does osteoid osteoma cause night pain relieved by NSAIDs?",
+  "back": "The nidus (under 2 cm) produces prostaglandins. On imaging it is a lucent nidus with reactive cortical sclerosis."
+ },
+ {
+  "id": 364,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "Which genes are mutated in hereditary multiple exostoses?",
+  "back": "EXT1 and EXT2. A cartilage cap over 2 cm in an adult osteochondroma suggests malignant change."
+ },
+ {
+  "id": 365,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "What gene is mutated in fibrous dysplasia and what is the McCune-Albright triad?",
+  "back": "GNAS. The triad is polyostotic fibrous dysplasia, café au lait skin spots and endocrine hyperfunction."
+ },
+ {
+  "id": 366,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "What are the histological findings of Langerhans cell histiocytosis?",
+  "back": "Cells with grooved nuclei, CD1a and langerin positivity, and Birbeck granules. In the skull it gives a punched out lytic lesion."
+ },
+ {
+  "id": 367,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "Which primary tumours metastasising to bone are typically sclerotic, lytic or mixed?",
+  "back": "Prostate is sclerotic. Kidney and thyroid are lytic and expansile. Breast is often mixed."
+ },
+ {
+  "id": 368,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "What are the pathological features of osteoarthritis?",
+  "back": "Cartilage fibrillation and loss, eburnation of subchondral bone, osteophytes and subchondral cysts. Rheumatoid-type pannus is absent."
+ },
+ {
+  "id": 369,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "Which hand joints are characteristically involved in osteoarthritis versus rheumatoid arthritis?",
+  "back": "Osteoarthritis: distal interphalangeal joints (Heberden nodes) and first carpometacarpal. Rheumatoid arthritis: metacarpophalangeal, proximal interphalangeal and wrist, sparing distal joints."
+ },
+ {
+  "id": 370,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "What is pannus and which disease produces it?",
+  "back": "Inflamed granulation tissue of hyperplastic synovium that erodes cartilage and bone in rheumatoid arthritis."
+ },
+ {
+  "id": 371,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "Describe the crystals of gout and their optical behaviour.",
+  "back": "Needle shaped monosodium urate crystals, negatively birefringent, yellow when parallel to the compensator axis."
+ },
+ {
+  "id": 372,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "How do gout erosions appear on imaging?",
+  "back": "Punched out erosions with overhanging edges away from the joint margin, with joint space preserved until late."
+ },
+ {
+  "id": 373,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "Which crystals cause chondrocalcinosis, and which joints are typical?",
+  "back": "Calcium pyrophosphate: rhomboid, weakly positively birefringent. Knee menisci, triangular fibrocartilage, and radiocarpal and second and third MCP joints."
+ },
+ {
+  "id": 374,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "What gene association links the seronegative spondyloarthropathies?",
+  "back": "HLA-B27, with absent rheumatoid factor. Ankylosing spondylitis begins with bilateral symmetric sacroiliitis and progresses to a bamboo spine."
+ },
+ {
+  "id": 375,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "Which molecular marker separates atypical lipomatous tumour from lipoma?",
+  "back": "MDM2 and CDK4 amplification in atypical lipomatous tumour (well differentiated liposarcoma)."
+ },
+ {
+  "id": 376,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "What translocation defines synovial sarcoma?",
+  "back": "t(X;18) producing an SS18 and SSX fusion. It is not derived from synovium and often occurs near large joints in younger adults."
+ },
+ {
+  "id": 377,
+  "domain": "musculoskeletal_and_soft_tissue",
+  "chapter": "Bone Joint and Soft Tissue",
+  "front": "How does the zonal pattern of myositis ossificans differ from osteosarcoma?",
+  "back": "Myositis ossificans is most mature at the periphery and least mature centrally. Osteosarcoma is the reverse."
+ },
+ {
+  "id": 378,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "Which vascular territories are affected in global hypoperfusion infarction of the brain?",
+  "back": "The arterial watershed zones, between the anterior and middle cerebral territories and between the middle and posterior cerebral territories."
+ },
+ {
+  "id": 379,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What type of necrosis follows cerebral infarction, and what are the microscopic stages?",
+  "back": "Liquefactive necrosis. Red neurons from 12 to 24 hours, neutrophils at 24 to 72 hours, macrophages from about 3 to 5 days, then gliosis and a cystic cavity."
+ },
+ {
+  "id": 380,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "Which MRI sequence shows acute infarction within minutes when CT is normal?",
+  "back": "Diffusion weighted imaging, which shows restricted diffusion from cytotoxic oedema."
+ },
+ {
+  "id": 381,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "Where does hypertensive intracerebral haemorrhage typically occur, versus cerebral amyloid angiopathy?",
+  "back": "Hypertension: basal ganglia, thalamus, pons and cerebellum. Amyloid angiopathy: lobar haemorrhage in older patients with peripheral microbleeds on susceptibility sequences."
+ },
+ {
+  "id": 382,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What is the commonest cause and site of non-traumatic subarachnoid haemorrhage?",
+  "back": "Rupture of a saccular (berry) aneurysm, most often at the anterior communicating artery complex of the anterior circulation."
+ },
+ {
+  "id": 383,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "When does vasospasm typically occur after aneurysmal subarachnoid haemorrhage?",
+  "back": "From about day 4 to day 14, causing delayed ischaemia."
+ },
+ {
+  "id": 384,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What is the empty delta sign and which condition does it indicate?",
+  "back": "A filling defect of thrombus in the superior sagittal sinus on contrast CT, indicating cerebral venous sinus thrombosis."
+ },
+ {
+  "id": 385,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "Which vessel bleeds in an extradural haematoma and what is its shape and relation to sutures?",
+  "back": "The middle meningeal artery. Biconvex (lentiform), does not cross sutures, may cross dural reflections."
+ },
+ {
+  "id": 386,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "How does a subdural haematoma differ from an extradural haematoma in source and shape?",
+  "back": "Venous bleeding from bridging veins, crescentic, crosses sutures but not dural reflections such as the falx."
+ },
+ {
+  "id": 387,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "Where are cerebral contusions and diffuse axonal injury typically found?",
+  "back": "Contusions: crests of gyri in the inferior frontal and anterior temporal lobes. Diffuse axonal injury: grey white junction, corpus callosum splenium and dorsolateral brainstem."
+ },
+ {
+  "id": 388,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "Which imaging sequence best shows diffuse axonal injury when CT is often normal?",
+  "back": "Gradient echo or susceptibility weighted MRI, showing small haemorrhagic foci at the typical sites."
+ },
+ {
+  "id": 389,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What does cerebral abscess look like on MRI and how is it separated from necrotic tumour?",
+  "back": "Ring enhancing lesion with a thin capsule and central restricted diffusion; necrotic tumour usually lacks central restricted diffusion."
+ },
+ {
+  "id": 390,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What is the distribution and microscopic hallmark of herpes simplex encephalitis?",
+  "back": "Haemorrhagic necrosis of the medial temporal and inferior frontal lobes; Cowdry type A intranuclear inclusions."
+ },
+ {
+  "id": 391,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "Which opportunistic infection of HIV causes asymmetric subcortical white matter demyelination without mass effect?",
+  "back": "Progressive multifocal leukoencephalopathy, from JC virus infection of oligodendrocytes."
+ },
+ {
+  "id": 392,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What are the four stages of neurocysticercosis?",
+  "back": "Vesicular, colloidal vesicular, granular nodular and calcified nodular, caused by Taenia solium larvae."
+ },
+ {
+  "id": 393,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What are the neuropathological findings in Creutzfeldt-Jakob disease?",
+  "back": "Spongiform vacuolation of the neuropil, neuronal loss and gliosis without inflammation; cortical ribboning on DWI."
+ },
+ {
+  "id": 394,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What are the pathological and MRI features of a multiple sclerosis plaque?",
+  "back": "Sharply demarcated perivenular demyelination with relative axonal preservation; ovoid periventricular lesions perpendicular to the ventricles (Dawson fingers), with open ring enhancement when active."
+ },
+ {
+  "id": 395,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What imaging finding distinguishes neuromyelitis optica spectrum disorder from multiple sclerosis in the cord?",
+  "back": "Longitudinally extensive transverse myelitis spanning three or more vertebral segments, with aquaporin 4 antibodies."
+ },
+ {
+  "id": 396,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What causes osmotic demyelination syndrome and where does it classically occur?",
+  "back": "Rapid correction of chronic hyponatraemia; central pons (central pontine myelinolysis), with neurons and axons preserved."
+ },
+ {
+  "id": 397,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What are the microscopic hallmarks of Alzheimer disease and the imaging pattern?",
+  "back": "Extracellular beta amyloid plaques and intraneuronal tau neurofibrillary tangles; medial temporal and hippocampal atrophy."
+ },
+ {
+  "id": 398,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What is the pathology of Parkinson disease?",
+  "back": "Loss of pigmented dopaminergic neurons in the substantia nigra pars compacta, with Lewy bodies composed of alpha synuclein."
+ },
+ {
+  "id": 399,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What genetic abnormality causes Huntington disease and what is the radiological sign?",
+  "back": "CAG repeat expansion in the HTT gene on chromosome 4; caudate atrophy with enlarged frontal horns."
+ },
+ {
+  "id": 400,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "Which brain structures are affected in Wernicke encephalopathy and what is the deficiency?",
+  "back": "Mammillary bodies, medial thalami, periaqueductal grey and tectal plate; thiamine deficiency."
+ },
+ {
+  "id": 401,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "How does WHO CNS5 classify adult type diffuse gliomas?",
+  "back": "Astrocytoma IDH mutant (grade 2 to 4), oligodendroglioma IDH mutant and 1p/19q codeleted (grade 2 or 3), and glioblastoma IDH wildtype (grade 4)."
+ },
+ {
+  "id": 402,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "Which molecular features allow an IDH wildtype diffuse astrocytic glioma to be diagnosed as glioblastoma without necrosis?",
+  "back": "TERT promoter mutation, EGFR amplification, or combined gain of chromosome 7 and loss of chromosome 10."
+ },
+ {
+  "id": 403,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What are the microscopic and imaging features of glioblastoma?",
+  "back": "Pleomorphic astrocytes with pseudopalisading necrosis and microvascular proliferation; thick irregular rim enhancing mass with necrotic centre and oedema, often crossing the corpus callosum."
+ },
+ {
+  "id": 404,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What are the microscopic and imaging features of oligodendroglioma?",
+  "back": "Round nuclei with perinuclear halos and a chicken wire capillary pattern; frontal location with frequent calcification."
+ },
+ {
+  "id": 405,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "Describe pilocytic astrocytoma: grade, site, genetics and imaging.",
+  "back": "Grade 1; children, cerebellum or optic pathway; BRAF alterations such as KIAA1549-BRAF; Rosenthal fibres; cyst with enhancing mural nodule."
+ },
+ {
+  "id": 406,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What is the typical site and microscopic appearance of medulloblastoma?",
+  "back": "Fourth ventricle and vermis in children; small round blue cells with Homer Wright rosettes; molecular groups WNT, SHH, group 3 and group 4."
+ },
+ {
+  "id": 407,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What are the imaging features of meningioma and its risk factors?",
+  "back": "Extra-axial dural based, avidly enhancing mass with dural tail and calcification; prior cranial radiation and neurofibromatosis type 2."
+ },
+ {
+  "id": 408,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "Which tumours are linked to neurofibromatosis type 2, and where does vestibular schwannoma arise?",
+  "back": "Bilateral vestibular schwannomas, meningiomas and ependymomas; vestibular schwannoma arises from the vestibular nerve in the internal auditory canal and cerebellopontine angle."
+ },
+ {
+  "id": 409,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What is the commonest intracranial tumour in adults and where does it lie?",
+  "back": "Metastasis, at the grey white junction, from lung, breast, melanoma, renal and colorectal primaries."
+ },
+ {
+  "id": 410,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "Which intramedullary spinal tumour is commonest in adults and which in children?",
+  "back": "Adults: ependymoma. Children: astrocytoma."
+ },
+ {
+  "id": 411,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "Where does myxopapillary ependymoma occur?",
+  "back": "At the conus medullaris and filum terminale."
+ },
+ {
+  "id": 412,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What are the features of schwannoma versus neurofibroma?",
+  "back": "Schwannoma: encapsulated, Antoni A and B areas, Verocay bodies, S100 positive, target sign. Neurofibroma: infiltrates the nerve; plexiform type is pathognomonic of NF1."
+ },
+ {
+  "id": 413,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "Which salivary gland tumour is most common, and what is its malignant complication?",
+  "back": "Pleomorphic adenoma, mostly parotid; carcinoma ex pleomorphic adenoma."
+ },
+ {
+  "id": 414,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What are the features of Warthin tumour?",
+  "back": "Older male smokers, parotid tail, may be bilateral or multiple, oncocytic epithelium with lymphoid stroma, uptake on technetium pertechnetate."
+ },
+ {
+  "id": 415,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "Which malignant salivary tumour spreads along nerves, and what is its pattern?",
+  "back": "Adenoid cystic carcinoma, with a cribriform pattern and perineural spread along nerves such as the facial and trigeminal."
+ },
+ {
+  "id": 416,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What virus is associated with nasopharyngeal carcinoma and where does it arise?",
+  "back": "Epstein-Barr virus; the fossa of Rosenmuller, with cervical nodal metastases."
+ },
+ {
+  "id": 417,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What is cholesteatoma and where does it erode?",
+  "back": "Accumulation of keratinising squamous epithelium in the middle ear, often from pars flaccida retraction, eroding the scutum and ossicles."
+ },
+ {
+  "id": 418,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "What are the features of retinoblastoma?",
+  "back": "RB1 loss in young children, leukocoria, intraocular calcification."
+ },
+ {
+  "id": 419,
+  "domain": "neuropathology_and_head_and_neck",
+  "chapter": "Brain Spine and Head and Neck",
+  "front": "Which extraocular muscle is most commonly involved in Graves orbitopathy and what is spared?",
+  "back": "The inferior rectus; muscle bellies enlarge and the tendons are spared."
+ },
+ {
+  "id": 420,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "Which blood film cells and gastric pathology define pernicious anaemia?",
+  "back": "Macro-ovalocytes and hypersegmented neutrophils from B12 deficiency, due to autoimmune atrophic gastritis of the body and fundus with intrinsic factor antibodies. It carries an increased risk of gastric adenocarcinoma and neuroendocrine tumour."
+ },
+ {
+  "id": 421,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What are the imaging findings of beta thalassaemia major in the skull and chest?",
+  "back": "Marrow expansion gives a hair-on-end skull, widened ribs and coarse trabeculae. Extramedullary haematopoiesis forms paravertebral soft tissue masses."
+ },
+ {
+  "id": 422,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "How is cardiac iron overload quantified in thalassaemia, and what does a low value mean?",
+  "back": "MRI T2* of the myocardium. Shortened (low) T2* indicates heavy iron loading and predicts heart failure."
+ },
+ {
+  "id": 423,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What molecular change causes sickle cell disease?",
+  "back": "A glutamic acid to valine substitution at position 6 of the beta globin chain (HbS). Deoxygenation polymerises haemoglobin and cells sickle."
+ },
+ {
+  "id": 424,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What are the skeletal imaging features of sickle cell disease?",
+  "back": "Bone infarcts, avascular necrosis of the femoral head and H-shaped (step-off) vertebral endplates. Salmonella osteomyelitis is a recognised complication."
+ },
+ {
+  "id": 425,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What happens to the spleen in an adult with sickle cell disease and why?",
+  "back": "Repeated infarction causes autosplenectomy, leaving a small fibrotic, often calcified spleen. Children may instead have splenomegaly."
+ },
+ {
+  "id": 426,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "Which marrow appearance defines aplastic anaemia on pathology and MRI?",
+  "back": "A hypocellular, fat-replaced marrow without fibrosis or infiltrate, seen on MRI as diffuse high T1 marrow signal."
+ },
+ {
+  "id": 427,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What is the defining genetic abnormality of chronic myeloid leukaemia?",
+  "back": "t(9;22), the Philadelphia chromosome, producing the BCR::ABL1 fusion with constitutive tyrosine kinase activity. It is treated with tyrosine kinase inhibitors such as imatinib."
+ },
+ {
+  "id": 428,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "Which mutation is found in most polycythaemia vera and what thrombotic complications occur?",
+  "back": "JAK2 V617F. Arterial and venous thrombosis occur, including Budd-Chiari syndrome and portal or mesenteric vein thrombosis."
+ },
+ {
+  "id": 429,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What are the pathological and imaging features of primary myelofibrosis?",
+  "back": "Marrow fibrosis, teardrop cells on a leukoerythroblastic film and splenomegaly from extramedullary haematopoiesis. Imaging shows osteosclerosis, low T1 and T2 marrow signal and a very large spleen."
+ },
+ {
+  "id": 430,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What translocation defines acute promyelocytic leukaemia and how does it present and respond?",
+  "back": "t(15;17) producing PML::RARA. It presents with disseminated intravascular coagulation and responds to all-trans retinoic acid."
+ },
+ {
+  "id": 431,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What is a myeloid sarcoma and where does it occur?",
+  "back": "An extramedullary tumour mass of myeloblasts (chloroma), seen as a soft tissue mass in the orbit, spine or skin, and it may precede overt leukaemia."
+ },
+ {
+  "id": 432,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "Which cytogenetic findings predict good and poor prognosis in childhood ALL?",
+  "back": "t(12;21) ETV6::RUNX1 is favourable, as is age 2 to 10 years. t(9;22) is poor. Sanctuary sites are the central nervous system and testis."
+ },
+ {
+  "id": 433,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What immunophenotype and film feature characterise CLL, and what is Richter transformation?",
+  "back": "Small mature B cells expressing CD5 and CD23, with smudge cells on the film. Richter transformation is evolution to diffuse large B-cell lymphoma, suggested by rapid node growth and high FDG avidity."
+ },
+ {
+  "id": 434,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What is the diagnostic cell and immunophenotype of classic Hodgkin lymphoma?",
+  "back": "The Reed-Sternberg cell, a large binucleate cell with prominent nucleoli, expressing CD30 and usually CD15 and typically CD20 negative."
+ },
+ {
+  "id": 435,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "Which Hodgkin lymphoma subtype is commonest and how does it differ from nodular lymphocyte predominant disease?",
+  "back": "Nodular sclerosis is commonest, with fibrous bands and lacunar cells. Nodular lymphocyte predominant disease has popcorn cells that are CD20 positive and CD30 negative."
+ },
+ {
+  "id": 436,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "How does the pattern of spread differ between Hodgkin and most non-Hodgkin lymphoma?",
+  "back": "Hodgkin lymphoma spreads to contiguous nodal groups. Most non-Hodgkin lymphoma spreads non-contiguously and more often involves extranodal sites."
+ },
+ {
+  "id": 437,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What are the B symptoms of lymphoma?",
+  "back": "Fever above 38 degrees Celsius, drenching night sweats and loss of more than 10 percent of body weight in 6 months."
+ },
+ {
+  "id": 438,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What translocation defines follicular lymphoma and what does it do?",
+  "back": "t(14;18) places BCL2 under the immunoglobulin heavy chain locus, so neoplastic follicles resist apoptosis. Grade 3B behaves like DLBCL."
+ },
+ {
+  "id": 439,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What is the molecular hallmark of Burkitt lymphoma and its histological appearance?",
+  "back": "MYC translocation, most often t(8;14). It shows a starry sky pattern with a Ki-67 index near 100 percent."
+ },
+ {
+  "id": 440,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "Which translocation and protein define mantle cell lymphoma?",
+  "back": "t(11;14) causing cyclin D1 overexpression, with classical cases SOX11 positive. Lymphomatous polyposis is a gastrointestinal manifestation."
+ },
+ {
+  "id": 441,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What is the association and regression behaviour of gastric MALT lymphoma?",
+  "back": "It is associated with Helicobacter pylori and early disease may regress after eradication. t(11;18) API2::MALT1 predicts non-response."
+ },
+ {
+  "id": 442,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "How does primary CNS lymphoma appear on imaging in immunocompetent versus HIV patients?",
+  "back": "Immunocompetent patients show solitary or multiple homogeneously enhancing periventricular masses with restricted diffusion. HIV-related EBV-driven tumours more often show ring enhancement."
+ },
+ {
+  "id": 443,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "Define the four Ann Arbor stages of lymphoma.",
+  "back": "I is one nodal region, II is two or more regions on the same side of the diaphragm, III is nodal regions on both sides of the diaphragm, and IV is diffuse extranodal organ involvement."
+ },
+ {
+  "id": 444,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What does the Lugano classification change about Ann Arbor staging?",
+  "back": "It uses FDG PET-CT for avid lymphomas, groups I and II as limited and III and IV as advanced, and drops A and B designation for non-Hodgkin lymphoma."
+ },
+ {
+  "id": 445,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "How is PET response graded in lymphoma and which scores indicate complete metabolic response?",
+  "back": "The Deauville five-point scale from 1 (no uptake) to 5 (uptake markedly higher than liver or new lesions). Scores 1 to 3 usually indicate complete metabolic response."
+ },
+ {
+  "id": 446,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What diagnostic criteria define myeloma and what do the CRAB features stand for?",
+  "back": "10 percent or more clonal plasma cells or a proven plasmacytoma with end-organ damage. CRAB is hypercalcaemia, renal impairment, anaemia and bone lesions."
+ },
+ {
+  "id": 447,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What are the typical imaging findings of myeloma and why is bone scintigraphy poor?",
+  "back": "Multiple punched-out lytic lesions without sclerotic rim and vertebral compression fractures. Scintigraphy underestimates disease because osteoblastic activity is low."
+ },
+ {
+  "id": 448,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "How does MGUS differ from myeloma and what is its progression risk?",
+  "back": "Less than 10 percent marrow plasma cells, low paraprotein and no end-organ damage. It progresses to myeloma at about 1 percent per year."
+ },
+ {
+  "id": 449,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What special stain and appearance confirm AL amyloid, and what is the cardiac MRI feature?",
+  "back": "Congo red with apple-green birefringence under polarised light. Cardiac MRI shows thick ventricular walls with diffuse subendocardial late gadolinium enhancement."
+ },
+ {
+  "id": 450,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "Which mutation and paraprotein characterise Waldenstrom macroglobulinaemia?",
+  "back": "MYD88 L265P with an IgM paraprotein causing hyperviscosity. Lytic bone lesions are uncommon."
+ },
+ {
+  "id": 451,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What are the immunophenotype and ultrastructural marker of Langerhans cell histiocytosis?",
+  "back": "Cells express CD1a, langerin (CD207) and S100, and electron microscopy shows Birbeck granules. BRAF V600E is often present."
+ },
+ {
+  "id": 452,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What is the skeletal imaging appearance of Langerhans cell histiocytosis?",
+  "back": "A lytic skull lesion with a bevelled edge and vertebra plana in the spine. Pituitary stalk involvement can cause diabetes insipidus."
+ },
+ {
+  "id": 453,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "How do Rosai-Dorfman disease and Erdheim-Chester disease differ in histology and imaging?",
+  "back": "Rosai-Dorfman has emperipolesis, S100 positive and CD1a negative histiocytes and massive cervical nodes. Erdheim-Chester has CD68 positive CD1a negative cells, symmetrical long bone sclerosis, hairy kidney and coated aorta."
+ },
+ {
+  "id": 454,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "Which granulomatous pattern distinguishes tuberculous, sarcoid and cat scratch lymphadenitis?",
+  "back": "Tuberculosis shows caseating necrosis, sarcoidosis shows non-caseating granulomas, and cat scratch disease (Bartonella henselae) shows necrotising stellate granulomas with neutrophils."
+ },
+ {
+  "id": 455,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What are the features of unicentric versus multicentric Castleman disease?",
+  "back": "The unicentric hyaline vascular form is a solitary avidly enhancing mass. Multicentric disease may be HHV8 related, particularly in HIV, with systemic inflammatory symptoms."
+ },
+ {
+  "id": 456,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What is the commonest splenic cyst and what separates it from a true epidermoid cyst?",
+  "back": "The post-traumatic pseudocyst is commonest and lacks an epithelial lining. A true epidermoid cyst has a squamous lining."
+ },
+ {
+  "id": 457,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What are the commonest primary benign and overall malignant splenic tumours?",
+  "back": "Haemangioma is the commonest primary benign tumour. Lymphoma is the commonest malignant splenic tumour overall."
+ },
+ {
+  "id": 458,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What are the pathological and skeletal features of Gaucher disease?",
+  "back": "Glucocerebrosidase deficiency with storage cells showing crumpled tissue paper cytoplasm, causing massive splenomegaly and an Erlenmeyer flask deformity of the distal femur."
+ },
+ {
+  "id": 459,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "What are the WHO thymoma types, staging system and syndromes associated with thymoma?",
+  "back": "Types A, AB, B1, B2 and B3, with thymic carcinoma separate, staged by Masaoka-Koga. Associations are myasthenia gravis, pure red cell aplasia and hypogammaglobulinaemia."
+ },
+ {
+  "id": 460,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Blood Lymph Node and Spleen",
+  "front": "How can MRI separate thymic hyperplasia from a thymic tumour?",
+  "back": "Chemical shift imaging: hyperplasia loses signal on out-of-phase images, whereas a tumour does not."
+ },
+ {
+  "id": 461,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "What deficiency causes neonatal respiratory distress syndrome, and what is the histological hallmark?",
+  "back": "Surfactant deficiency from immature type II pneumocytes. Alveoli are collapsed and lined by eosinophilic hyaline membranes of fibrin and cell debris."
+ },
+ {
+  "id": 462,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "What is the chest radiograph appearance of neonatal RDS?",
+  "back": "Bilateral symmetrical fine granular (ground glass) opacification with air bronchograms and low lung volumes."
+ },
+ {
+  "id": 463,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "Which maternal factors raise or lower the risk of neonatal RDS?",
+  "back": "Maternal diabetes raises risk by delaying surfactant synthesis. Antenatal corticosteroids lower risk by accelerating type II pneumocyte maturation."
+ },
+ {
+  "id": 464,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "What is bronchopulmonary dysplasia and what causes it?",
+  "back": "Chronic lung disease of arrested alveolar and vascular development after prolonged oxygen and ventilation in the premature lung. Imaging shows coarse reticular opacity with hyperlucent cystic areas."
+ },
+ {
+  "id": 465,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "Which bowel segments are most often involved in necrotising enterocolitis?",
+  "back": "The terminal ileum and right colon. Prematurity is the dominant risk factor."
+ },
+ {
+  "id": 466,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "What radiographic signs indicate necrotising enterocolitis and its perforation?",
+  "back": "Pneumatosis intestinalis (gas in the bowel wall) and portal venous gas indicate NEC. Pneumoperitoneum indicates perforation."
+ },
+ {
+  "id": 467,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "What is the late complication of necrotising enterocolitis in the colon?",
+  "back": "Stricture formation. Resection can also leave short bowel syndrome."
+ },
+ {
+  "id": 468,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "What is the characteristic brain lesion of hypoxic ischaemic injury in the preterm infant?",
+  "back": "Periventricular leukomalacia, necrosis of white matter around the lateral ventricles, with cysts on later cranial ultrasound."
+ },
+ {
+  "id": 469,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "Which brain regions are damaged by a severe acute hypoxic ischaemic insult in the term infant?",
+  "back": "Deep grey matter (thalami and basal ganglia), perirolandic cortex and brainstem. Early MRI shows restricted diffusion."
+ },
+ {
+  "id": 470,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "Where does germinal matrix haemorrhage arise and in whom?",
+  "back": "From fragile capillaries in the subependymal germinal matrix of premature infants. It is graded by ventricular and parenchymal extension and is seen on ultrasound."
+ },
+ {
+  "id": 471,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "Distinguish malformation, disruption and deformation.",
+  "back": "Malformation is an intrinsic developmental defect. Disruption is secondary destruction of normal tissue, such as amniotic bands. Deformation is abnormal mechanical force on normal tissue, such as from oligohydramnios."
+ },
+ {
+  "id": 472,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "What is the Potter sequence?",
+  "back": "Renal agenesis causing oligohydramnios, which produces pulmonary hypoplasia and limb deformities."
+ },
+ {
+  "id": 473,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "Which gestational period carries the greatest teratogenic risk for structural malformation?",
+  "back": "The embryonic period, weeks 3 to 9."
+ },
+ {
+  "id": 474,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "Which supplement lowers the risk of neural tube defects, and which maternal test is raised in them?",
+  "back": "Folic acid lowers risk. Maternal serum and amniotic fluid alpha-fetoprotein are raised in open defects."
+ },
+ {
+  "id": 475,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "Which defect underlies congenital diaphragmatic hernia, and what causes death?",
+  "back": "Failure of pleuroperitoneal canal closure, most often left sided through the foramen of Bochdalek. Death is from pulmonary hypoplasia."
+ },
+ {
+  "id": 476,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "What is the commonest form of oesophageal atresia?",
+  "back": "A blind upper pouch with a fistula from the trachea to the distal oesophagus. A coiled nasogastric tube sits in the upper pouch with gas in the stomach."
+ },
+ {
+  "id": 477,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "Which four anatomical abnormalities define tetralogy of Fallot in a newborn with cyanosis?",
+  "back": "Ventricular septal defect, pulmonary outflow obstruction, overriding aorta and right ventricular hypertrophy. The radiograph shows a boot-shaped heart with oligaemic lungs."
+ },
+ {
+  "id": 478,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "What is Eisenmenger syndrome?",
+  "back": "Reversal of a left to right shunt to a right to left shunt after pulmonary hypertension develops from chronic overcirculation."
+ },
+ {
+  "id": 479,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "Which genetic change marks aggressive neuroblastoma?",
+  "back": "MYCN amplification, with older age and undifferentiated histology also adverse."
+ },
+ {
+  "id": 480,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "What are the histological features of neuroblastoma?",
+  "back": "Small round blue cells with Homer Wright rosettes and neuropil. Maturation gives ganglioneuroblastoma and ganglioneuroma."
+ },
+ {
+  "id": 481,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "Which investigations help diagnose neuroblastoma?",
+  "back": "Raised urinary vanillylmandelic and homovanillic acid, and MIBG scintigraphy. Imaging shows calcification and vessel encasement rather than invasion."
+ },
+ {
+  "id": 482,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "What is stage 4S neuroblastoma?",
+  "back": "Metastatic disease in infants limited to skin, liver and bone marrow with a small primary, with a good prognosis and frequent spontaneous regression."
+ },
+ {
+  "id": 483,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "Which syndromes are associated with Wilms tumour?",
+  "back": "WAGR and Denys-Drash (WT1), and Beckwith-Wiedemann syndrome (11p15 locus)."
+ },
+ {
+  "id": 484,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "What is the triphasic histology of Wilms tumour?",
+  "back": "Blastemal, epithelial (tubular) and stromal elements. Anaplasia worsens prognosis."
+ },
+ {
+  "id": 485,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "How does Wilms tumour differ from neuroblastoma on imaging?",
+  "back": "Wilms is an intrarenal mass with a claw sign, displaces vessels, rarely calcifies and may extend into the renal vein and IVC. Neuroblastoma often calcifies and encases vessels."
+ },
+ {
+  "id": 486,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "What is the commonest primary liver malignancy of childhood and which marker is raised?",
+  "back": "Hepatoblastoma, occurring under 3 years, with raised serum alpha-fetoprotein."
+ },
+ {
+  "id": 487,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "Which syndromes predispose to hepatoblastoma?",
+  "back": "Beckwith-Wiedemann syndrome and familial adenomatous polyposis, with prematurity also a risk factor."
+ },
+ {
+  "id": 488,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "What is the botryoid variant of embryonal rhabdomyosarcoma?",
+  "back": "A grape-like polypoid mass in the vagina or bladder. Tumour cells are desmin and myogenin positive."
+ },
+ {
+  "id": 489,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "Which translocation characterises alveolar rhabdomyosarcoma?",
+  "back": "PAX3 or PAX7 fusion to FOXO1, usually in adolescents with limb tumours."
+ },
+ {
+  "id": 490,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "Which gene is lost in retinoblastoma and what is trilateral disease?",
+  "back": "RB1 loss. Trilateral disease is bilateral retinoblastoma with a pineoblastoma, and survivors carry a risk of later osteosarcoma."
+ },
+ {
+  "id": 491,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "What are the histological and imaging features of retinoblastoma?",
+  "back": "Small round blue cells with Flexner-Wintersteiner rosettes, necrosis and calcification. Imaging shows a calcified intraocular mass, and the presenting sign is leukocoria."
+ },
+ {
+  "id": 492,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "What accumulates in Gaucher disease and what are its bone and organ findings?",
+  "back": "Glucocerebroside from glucocerebrosidase deficiency. Findings are lipid-laden macrophages, hepatosplenomegaly and an Erlenmeyer flask deformity of the distal femur."
+ },
+ {
+  "id": 493,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "What enzyme defect causes Tay-Sachs disease?",
+  "back": "Hexosaminidase A deficiency with ganglioside accumulation in neurons, giving a cherry-red macular spot."
+ },
+ {
+  "id": 494,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "Which glycogen storage disease is a lysosomal disorder with cardiomegaly?",
+  "back": "Pompe disease (type II), acid maltase deficiency. Von Gierke disease (type I) instead gives hepatomegaly, hypoglycaemia and hepatic adenomas."
+ },
+ {
+  "id": 495,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "What are the pulmonary imaging findings of cystic fibrosis?",
+  "back": "Upper lobe predominant bronchiectasis with bronchial wall thickening, from CFTR mutation (commonly F508del)."
+ },
+ {
+  "id": 496,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "What is the usual lung pattern of lobar pneumonia and its stages?",
+  "back": "Whole lobe consolidation passing through congestion, red hepatisation, grey hepatisation and resolution. Imaging shows consolidation with air bronchograms."
+ },
+ {
+  "id": 497,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "What are the Ghon focus, Ghon complex and Ranke complex?",
+  "back": "The Ghon focus is the subpleural primary lesion. With hilar nodal involvement it is the Ghon complex, and when both calcify it is the Ranke complex."
+ },
+ {
+  "id": 498,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "What is the histology of a tuberculous granuloma?",
+  "back": "Caseating necrosis surrounded by epithelioid macrophages, Langhans giant cells and lymphocytes."
+ },
+ {
+  "id": 499,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "What are the typical imaging findings of primary tuberculosis in a child compared with reactivation in an adult?",
+  "back": "Children show hilar and mediastinal lymphadenopathy. Adult reactivation shows apical cavitating disease."
+ },
+ {
+  "id": 500,
+  "domain": "haematology_paediatric_and_infection",
+  "chapter": "Paediatric Disease and Infection",
+  "front": "How do cerebral toxoplasmosis and primary CNS lymphoma differ in HIV?",
+  "back": "Toxoplasmosis gives multiple ring enhancing lesions, often in the basal ganglia. Primary CNS lymphoma is usually a solitary EBV associated lesion."
+ }
+]
